@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="favicon.png">
+
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+  <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="static/fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/jquery-ui.css">
+  <link rel="stylesheet" href="static/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
+
+  <link rel="stylesheet" href="static/css/jquery.fancybox.min.css">
+
+  <link rel="stylesheet" href="static/css/bootstrap-datepicker.css">
+
+  <link rel="stylesheet" href="static/fonts/flaticon/font/flaticon.css">
+
+  <link rel="stylesheet" href="static/css/aos.css">
+
+  <link rel="stylesheet" href="static/css/style.css">
+  <title>Prédiction Churn</title>
+
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f9f9f9;
+    }
+    h1 {
+        text-align: center;
+    }
+    form {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border: 1px solid #ddd;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    label {
+        display: block;
+        margin: 10px 0 5px;
+    }
+    input, select {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+    .response {
+        margin-top: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+    <div class="top-bar py-2" id="home-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 text-center text-lg-right order-lg-2">
+            <ul class="social-media m-0 p-0">
+              <li><a href="#" class="p-2"><span class="icon-facebook"></span></a></li>
+              <li><a href="#" class="p-2"><span class="icon-twitter"></span></a></li>
+              <li><a href="#" class="p-2"><span class="icon-instagram"></span></a></li>
+              <li><a href="#" class="p-2"><span class="icon-linkedin"></span></a></li>
+            </ul>
+          </div>
+          <div class="col-md-6 text-center text-lg-left order-lg-1">
+            <p class="mb-0 d-inline-flex">
+              <span class="mr-3"><a href="tel://#" class="d-flex align-items-center"><span class="icon-phone mr-2"></span><span>+1 234 5678 9101</span></a></span>
+              <span><a href="tel://#" class="d-flex align-items-center"><span class="icon-envelope mr-2"></span><span>info@domain.com</span></a></span>
+            </p>
+          </div>
+
+        </div>
+      </div> 
+    </div>
+
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-11 col-xl-2">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="mb-0">Telecom<span class="text-primary">.</span> </a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="#work-section" class="nav-link">Work</a></li>
+                <li>
+                  <a href="#services-section" class="nav-link">Services</a>
+                </li>
+                <li class="has-children">
+                  <a href="#about-section" class="nav-link">About</a>
+                  <ul class="dropdown">
+                    <li><a href="#about-section">Specialties</a></li>
+                    <li><a href="#team-section">Our Team</a></li>
+                  </ul>
+                </li>
+                <li><a href="#blog-section" class="nav-link">Blog</a></li>
+                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+      
+    </header>
+
+
+    <div class="particlehead"></div>
+    <!-- <div class="container"> -->
+      <div class="site-blocks-cover">
+        <div class="container">
+          <div class="row align-items-center justify-content-center text-center">
+
+            <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+              <div class="row justify-content-center mb-4">
+                <div class="col-md-10 text-center">
+                  <h1>Churn Prediction <span class="typed-words"></span></h1>
+                  <p class="lead mb-5">Customer churn prediction in telecom sector using <a href="#">machine learning techniques</a></p>
+                  <div><a data-fancybox data-ratio="2" href="https://vimeo.com/317571768" class="btn btn-primary btn-md">Predict</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>  
+
+      <section class="site-section">
+        <div class="container">
+          <div class="row align-items-center justify-content-around">
+            <div class="col-lg-5" data-jarallax-element="-50">
+              <h2 class="text-primary">About Us</h2>
+              <p class="mb-4" style="text-align: justify;">In the telecom industry, managing customer churn is crucial for sustaining profitability. With the ever-growing customer base and vast amounts of daily data, acquiring new customers is much more expensive than retaining existing ones. Churn refers to the process where customers switch from one service provider to another, which is a significant concern for telecom companies.</p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Cost-effective customer retention</li>
+                <li>Churn prediction models</li>
+                <li>Targeted retention strategies</li>
+              </ul>
+            </div>
+
+            <div data-jarallax-element="50">
+              <img src="static/images/ezgif.com-video-to-gif.gif" alt="Image" class="img-fluid">
+          </div>
+        </div>
+      </section>
+
+
+            <!-- </div> -->
+<section class="site-section">
+  <div class="container">
+    <div class="mb-lg-0 mb-4">
+      <div class="box-with-humber bg-white p-5 rounded shadow">
+        <h1>Churn Prediction <span class="typed-words"></span></h1>
+        <p class="mb-4 text-center">Enter the customer's information in the form below to predict whether they will churn or not.</p>
+        <form action="/predict" method="post">
+          
+          <!-- Age -->
+          <div class="form-group">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" class="form-control" placeholder="Ex: 30" required>
+          </div>
+
+          <!-- Experience -->
+          <div class="form-group">
+            <label for="experience">Experience (years):</label>
+            <input type="number" step="0.1" id="experience" name="experience" class="form-control" placeholder="Ex: 5" required>
+          </div>
+
+          <!-- Certifications -->
+          <div class="form-group">
+            <label for="certifications">Certifications:</label>
+            <input type="number" id="certifications" name="certifications" class="form-control" placeholder="Ex: 2" required>
+          </div>
+
+          <!-- Assessment Score -->
+          <div class="form-group">
+            <label for="assessment_score">Assessment Score:</label>
+            <input type="number" step="0.1" id="assessment_score" name="assessment_score" class="form-control" placeholder="Ex: 85" required>
+          </div>
+
+          <!-- Past Applications -->
+          <div class="form-group">
+            <label for="past_applications">Past Applications (scaled between 0.0 and 1.0):</label>
+            <input type="number" step="0.1" min="0.0" max="1.0" id="past_applications" name="past_applications" class="form-control" placeholder="Ex: 0.5" required>
+          </div>
+
+          <!-- Application Status -->
+          <div class="form-group">
+            <label for="application_status">Application Status (0.0 - Rejected, 0.5 - Pending, 1.0 - Accepted):</label>
+            <input type="number" step="0.1" min="0.0" max="1.0" id="application_status" name="application_status" class="form-control" placeholder="Ex: 0.5" required>
+          </div>
+
+          <!-- Submit Button -->
+          <div class="form-group text-center">
+            <button type="submit" class="btn btn-primary">Predict</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+            
+
+      <footer class="site-footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-9">
+              <div class="row">
+                <div class="col-md-5">
+                  <h2 class="footer-heading mb-4">About Us</h2>
+                  <p>Our goal is to provide businesses with insightful tools to predict customer churn, enabling proactive strategies to retain valuable clients and improve overall satisfaction.</p>
+                </div>
+                <div class="col-md-3 ml-auto">
+                  <h2 class="footer-heading mb-4">Features</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Testimonials</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                  </ul>
+                </div>
+                <div class="col-md-3">
+                  <h2 class="footer-heading mb-4">Follow Us</h2>
+                  <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <h2 class="footer-heading mb-4">Subscribe Newsletter</h2>
+              <form action="#" method="post" class="subcription-form">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary text-white" type="button" id="button-addon2">Send</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+          <div class="row pt-5 mt-5 text-center">
+            <div class="col-md-12">
+              <div class="border-top pt-5">
+                <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a>  Distributed By <a href="https://themewagon.com">ThemeWagon</a> <!-- License information: https://untree.co/license/ -->
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </footer>
+
+    </div> <!-- .site-wrap -->
+
+    <script src="static/js/jquery-3.3.1.min.js"></script>
+    <script src="static/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="static/js/jquery-ui.js"></script>
+    <script src="static/js/popper.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script src="static/js/owl.carousel.min.js"></script>
+    <script src="static/js/jquery.stellar.min.js"></script>
+    <script src="static/js/jquery.countdown.min.js"></script>
+    <script src="static/js/bootstrap-datepicker.min.js"></script>
+    <script src="static/js/jquery.easing.1.3.js"></script>
+    <script src="static/js/aos.js"></script>
+    <script src="static/js/jquery.fancybox.min.js"></script>
+    <script src="static/js/jarallax.min.js"></script>
+    <script src="static/js/jarallax-element.min.js"></script>
+    <script src="static/js/lozad.min.js"></script>
+    <script src="static/js/modernizr.min.js"></script>
+    <script src="static/js/three.min.js"></script>
+    <script src="static/js/TweenMax.min.js"></script>
+    <script src="static/js/OBJLoader.js"></script>
+    <script src="static/js/ParticleHead.js"></script>
+
+    <script src="static/js/jquery.sticky.js"></script>
+
+    <script src="static/js/typed.js"></script>
+    <script>
+      var typed = new Typed('.typed-words', {
+        strings: ["Machine"," Learning"," Models"],
+        typeSpeed: 50,
+        backSpeed: 50,
+        backDelay: 3000,
+        startDelay: 800,
+        loop: true,
+        showCursor: true
+      });
+    </script>
+
+    <script src="static/js/main.js"></script>
+
+    
+
+  </body>
+  </html>

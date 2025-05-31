@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultat de la prédiction</title>
+    <style>
+        /* Corps de la page avec une image de fond */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('static/images/ItSvit_devops-telecom_cover.gif'); /* URL d'une image dynamique */
+            background-size: cover; /* Ajuste l'image à la taille de l'écran */
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: #fff; /* Texte blanc */
+        }
+
+        /* Conteneur central avec un fond semi-transparent */
+        .container {
+            background-color: rgba(255, 255, 255, 0.9); /* Fond blanc semi-transparent */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            max-width: 400px;
+            width: 100%;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        /* Animation légère */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Titre */
+        h1 {
+            font-size: 28px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        /* Design des résultats */
+        .result {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 20px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .result.hired {
+            background-color: #ddffdd;
+            color: #5cb85c; /* Vert pour Hired */
+            border: 1px solid #5cb85c;
+        }
+        .result.not-hired {
+            background-color: #ffdddd;
+            color: #d9534f; /* Rouge pour Not Hired */
+            border: 1px solid #d9534f;
+        }
+
+        /* Bouton avec effet hover */
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Résultat de la prédiction</h1>
+        {% if result == "Hired" %}
+            <div class="result hired">
+                Prédiction : Hired
+            </div>
+        {% else %}
+            <div class="result not-hired">
+                Prédiction : Not Hired
+            </div>
+        {% endif %}
+        <a href="/" class="button">Faire une nouvelle prédiction</a>
+    </div>
+</body>
+</html>

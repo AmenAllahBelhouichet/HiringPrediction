@@ -1,0 +1,1001 @@
+Candidate_ID,Name,Age,Gender,Education_Level,Years_Experience,Skills,Applied_Position,Application_Status,Interview_Score,Hiring_Decision,Salary_Expectation,Past_Applications,Num_Certifications,Assessment_Score,Time_To_Hire_Days
+1000,Candidate_0,27,Female,Bachelor’s,11,"”HR / Management""",Marketing Specialist,Accepted,83.0,Hired,58092.0,1,2,96.0,12
+1001,Candidate_1,43,Male,Bachelor’s,16,"""JavaScript / React""",HR Manager,Rejected,79.0,Not Hired,79941.0,9,5,70.0,59
+1002,Candidate_2,35,Female,Bachelor's,12,"""Python / SQL""",Software Engineer,Pending,56.0,Not Hired,92874.0,9,0,69.0,44
+1003,Candidate_3,32,Male,Master's,20,"""HR / Management""",HR Manager,Rejected,84.0,Not Hired,61215.0,0,3,95.0,56
+1004,Candidate_4,44,Female,Diploma,18,"""Data Science / ML""",HR Manager,Rejected,96.0,Not Hired,52387.0,7,4,69.0,13
+1005,Candidate_5,48,Male,Diploma,0,"""Java / Spring""",HR Manager,Rejected,93.0,Not Hired,57065.0,10,0,62.0,54
+1006,Candidate_6,29,Female,Master's,19,"""Python / SQL""",HR Manager,Pending,86.0,Not Hired,50838.0,1,4,98.0,38
+1007,Candidate_7,22,Non-Binary,Master's,0,"""Java / Spring""",Software Engineer,Accepted,75.0,Not Hired,76305.0,5,3,64.0,32
+1008,Candidate_8,33,Female,Master's,19,"""Java / Spring""",Marketing Specialist,Accepted,71.0,Not Hired,100740.0,6,0,88.0,14
+1009,Candidate_9,31,Female,Diploma,13,"""HR / Management""",Marketing Specialist,Rejected,75.0,Not Hired,40759.0,10,0,83.0,54
+1010,Candidate_10,39,Female,Bachelor's,10,"""JavaScript / React""",Software Engineer,Rejected,98.0,Not Hired,82101.0,10,3,67.0,16
+1011,Candidate_11,48,Male,Bachelor's,1,"""Data Science / ML""",Software Engineer,Rejected,79.0,Not Hired,117590.0,5,0,58.0,29
+1012,Candidate_12,42,Female,Bachelor's,0,"""JavaScript / React""",Marketing Specialist,Rejected,63.0,Not Hired,40432.0,8,1,66.0,48
+1013,Candidate_13,29,Female,Master's,13,"""Python / SQL""",Marketing Specialist,Accepted,91.0,Hired,104696.0,1,0,62.0,50
+1014,Candidate_14,44,Male,Bachelor's,3,"""Java / Spring""",Marketing Specialist,Rejected,75.0,Not Hired,76186.0,7,3,83.0,38
+1015,Candidate_15,31,Female,Diploma,6,"""Data Science / ML""",Data Analyst,Rejected,100.0,Not Hired,34409.0,7,5,87.0,35
+1016,Candidate_16,27,Male,Bachelor's,20,"""HR / Management""",HR Manager,Pending,82.0,Not Hired,36539.0,8,2,59.0,46
+1017,Candidate_17,22,Female,Bachelor's,9,"""Java / Spring""",Software Engineer,Rejected,73.0,Not Hired,109069.0,0,0,72.0,36
+1018,Candidate_18,39,Male,Master's,9,"""Java / Spring""",Software Engineer,Pending,94.0,Not Hired,30341.0,8,1,77.0,24
+1019,Candidate_19,36,Female,Bachelor's,5,"""Data Science / ML""",HR Manager,Pending,54.0,Not Hired,97434.0,2,0,57.0,25
+1020,Candidate_20,41,Non-Binary,Master's,20,"""HR / Management""",Marketing Specialist,Pending,52.0,Not Hired,33641.0,5,2,66.0,16
+1021,Candidate_21,31,Male,Bachelor's,16,"""Python / SQL""",Marketing Specialist,Accepted,69.0,Not Hired,99216.0,8,4,58.0,50
+1022,Candidate_22,43,Non-Binary,Bachelor's,9,"""Data Science / ML""",Data Analyst,Accepted,86.0,Hired,82669.0,0,5,100.0,55
+1023,Candidate_23,28,Female,Bachelor's,5,"""Java / Spring""",Data Analyst,Rejected,51.0,Not Hired,96408.0,6,1,66.0,25
+1024,Candidate_24,27,Male,Master's,0,"""Java / Spring""",HR Manager,Rejected,99.0,Not Hired,32109.0,2,0,80.0,37
+1025,Candidate_25,24,Female,PhD,10,"""HR / Management""",Marketing Specialist,Rejected,79.0,Not Hired,38150.0,9,4,54.0,52
+1026,Candidate_26,25,Female,Bachelor's,17,"""Java / Spring""",Data Analyst,Rejected,98.0,Not Hired,75583.0,10,3,52.0,45
+1027,Candidate_27,27,Female,Bachelor's,1,"""Java / Spring""",Software Engineer,Accepted,56.0,Not Hired,49754.0,9,3,54.0,29
+1028,Candidate_28,26,Male,Bachelor's,13,"""JavaScript / React""",Data Analyst,Pending,72.0,Not Hired,77912.0,9,3,78.0,27
+1029,Candidate_29,46,Male,Master's,18,"""Python / SQL""",Software Engineer,Rejected,62.0,Not Hired,31201.0,5,5,77.0,12
+1030,Candidate_30,41,Female,Master's,4,"""Python / SQL""",Data Analyst,Accepted,69.0,Not Hired,49151.0,7,4,73.0,22
+1031,Candidate_31,32,Male,Master's,12,"""Python / SQL""",Marketing Specialist,Rejected,61.0,Not Hired,78014.0,9,5,51.0,38
+1032,Candidate_32,26,Female,PhD,1,"""Data Science / ML""",Data Analyst,Pending,61.0,Not Hired,55090.0,10,4,62.0,34
+1033,Candidate_33,48,Male,Master's,13,"""Java / Spring""",HR Manager,Rejected,93.0,Not Hired,110560.0,3,0,91.0,24
+1034,Candidate_34,49,Male,Bachelor's,19,"""JavaScript / React""",Marketing Specialist,Accepted,93.0,Hired,107052.0,6,4,76.0,60
+1035,Candidate_35,34,Male,Bachelor's,4,"""Python / SQL""",Data Analyst,Rejected,95.0,Not Hired,82343.0,0,0,76.0,13
+CAND1036,Candidate_36,46,Male,Bachelor's,12,"""HR / Management""",HR Manager,Pending,87.0,Not Hired,105118.0,9,0,60.0,41
+CAND1037,Candidate_37,36,Male,Master's,15,"""Java / Spring""",Marketing Specialist,Rejected,96.0,Not Hired,71952.0,4,4,95.0,33
+CAND1038,Candidate_38,31,Male,Bachelor’s,10,"""HR / Management""",HR Manager,Accepted,69.0,Not Hired,66628.0,3,1,55.0,39
+CAND1039,Candidate_39,30,Female,Bachelor's,3,"""Java / Spring""",Marketing Specialist,Rejected,98.0,Not Hired,108836.0,5,1,62.0,9
+CAND1040,Candidate_40,29,Female,Bachelor's,10,"""Java / Spring""",Software Engineer,Rejected,67.0,Not Hired,37247.0,6,2,66.0,45
+CAND1041,Candidate_41,28,Non-Binary,Bachelor's,6,"""JavaScript / React""",Software Engineer,Rejected,78.0,Not Hired,31888.0,7,4,79.0,40
+CAND1042,Candidate_42,47,Female,Bachelor's,11,"""HR / Management""",Software Engineer,Accepted,89.0,Hired,39290.0,9,5,60.0,45
+CAND1043,Candidate_43,43,Male,Diploma,9,"""Data Science / ML""",Marketing Specialist,Rejected,90.0,Not Hired,47214.0,1,4,72.0,35
+CAND1044,Candidate_44,23,Male,Bachelor's,16,"""Java / Spring""",HR Manager,Rejected,66.0,Not Hired,56988.0,3,1,51.0,26
+CAND1045,Candidate_45,50,Female,Master's,2,"""HR / Management""",Data Analyst,Accepted,93.0,Hired,59199.0,0,2,63.0,32
+CAND1046,Candidate_46,38,Female,Bachelor's,4,"""HR / Management""",HR Manager,Rejected,81.0,Not Hired,43933.0,5,4,61.0,38
+CAND1047,Candidate_47,47,Female,Bachelor's,2,"""HR / Management""",Software Engineer,Pending,73.0,Not Hired,42263.0,5,5,82.0,42
+CAND1048,Candidate_48,39,Male,Master's,7,"""JavaScript / React""",HR Manager,Accepted,87.0,Hired,60142.0,3,3,63.0,43
+CAND1049,Candidate_49,32,Male,Master's,14,"""HR / Management""",Data Analyst,Accepted,76.0,Hired,86234.0,9,1,99.0,6
+CAND1043,Charlie Smith,44,Male,High School,9,"['""Data Science / ML""']",HR Manager,Rejected,87.39998719357365,Not Hired,45018.10595477797,1,4,75.20385746030551,32
+1012,Charlie Williams,43,Female,PhD,0,"['""JavaScript / React""']",HR Manager,Rejected,60.50837498631602,Not Hired,40154.296888468016,8,1,69.80167444185514,43
+CAND1040,Harry Rodriguez,29,Female,Bachelor,10,"['""Java / Spring""']",Marketing Specialist,Rejected,73.55159347078147,Not Hired,37974.81619857763,6,2,66.76454710393108,49
+CAND1041,Ivy Brown,26,Non-Binary,PhD,7,"['""JavaScript / React""']",Software Engineer,Rejected,83.77591106621077,Not Hired,34078.0396085862,7,4,81.80130734963508,35
+1020,Eve Smith,43,Non-Binary,Diploma,21,"['""HR / Management""']",Marketing Specialist,Pending,50.90844528077326,Not Hired,34842.26330472291,5,2,72.86637069529233,20
+1025,John Rodriguez,22,Female,Master,9,"['""HR / Management""']",Marketing Specialist,Rejected,73.81122524753553,Not Hired,36928.000799586494,9,4,49.19437392180859,56
+1005,Jane Williams,47,Male,High School,1,"['""Java / Spring""']",HR Manager,Rejected,87.37111734091964,Not Hired,59906.13160632432,10,0,64.8302379235341,59
+CAND1049,Ivy Brown,30,Male,High School,16,"['""HR / Management""']",Software Engineer,Accepted,77.03159243969988,Hired,89687.9994355813,9,1,93.40055567288032,8
+1021,Grace Rodriguez,31,Male,High School,15,"['""Python / SQL""']",Data Analyst,Accepted,77.26855754036474,Not Hired,107994.86272108089,8,4,56.58340452696049,55
+1034,John Brown,51,Male,PhD,18,"['""JavaScript / React""']",HR Manager,Accepted,100.0,Hired,115605.72364409293,6,4,82.93337703192287,65
+1019,Harry Rodriguez,37,Female,High School,5,"['""Data Science / ML""']",HR Manager,Pending,52.5990310758127,Not Hired,98265.24956206352,2,0,62.77374152796471,22
+1029,Charlie Rodriguez,48,Male,High School,20,"['""Python / SQL""']",Software Engineer,Rejected,72.29400574173343,Not Hired,31208.287597985287,5,5,76.36451354397133,8
+1002,David García,36,Female,Bachelor,12,"['""Python / SQL""']",Data Analyst,Pending,59.99444600492267,Not Hired,88416.77405636085,9,0,72.92412940983122,41
+1015,Bob Smith,29,Female,Diploma,6,"['""Data Science / ML""']",HR Manager,Rejected,100.0,Hired,34030.576501051306,7,5,91.8490609033275,32
+CAND1041,Ivy Smith,27,Non-Binary,Bachelor,7,"['""JavaScript / React""']",Marketing Specialist,Rejected,86.47033728014452,Not Hired,30921.95006734662,7,4,71.43954363678752,41
+CAND1048,Ivy Miller,41,Male,High School,9,"['""JavaScript / React""']",Data Analyst,Accepted,92.36651580007727,Hired,66056.96165175263,3,3,55.60208591711896,47
+1034,Ivy Jones,48,Male,High School,19,"['""JavaScript / React""']",Software Engineer,Accepted,91.35199358592594,Hired,117041.15962268838,6,4,73.46971181464407,60
+CAND1048,Ivy Jones,39,Male,Bachelor,7,"['""JavaScript / React""']",HR Manager,Accepted,95.59200251972189,Hired,54881.51814197711,3,3,67.90081009862342,47
+CAND1040,John García,27,Female,Master,12,"['""Java / Spring""']",HR Manager,Rejected,72.03337230434519,Not Hired,36309.202720200854,6,2,57.40241362517921,49
+1003,Ivy Smith,31,Male,High School,20,"['""HR / Management""']",HR Manager,Rejected,76.56025325132693,Not Hired,63814.20026906259,0,3,88.86873449623073,54
+CAND1037,Jane Miller,37,Male,Master,17,"['""Java / Spring""']",Data Analyst,Rejected,96.10392469495851,Hired,69782.89149626877,4,4,91.24764022385884,38
+1017,David Johnson,24,Female,High School,8,"['""Java / Spring""']",Data Analyst,Rejected,73.19219166295863,Not Hired,102269.25725957603,0,0,81.51835556540146,31
+1004,Ivy Smith,45,Female,PhD,19,"['""Data Science / ML""']",Marketing Specialist,Rejected,100.0,Not Hired,53737.878956105764,7,4,70.0740709798472,10
+1002,David Williams,35,Female,PhD,11,"['""Python / SQL""']",Data Analyst,Pending,44.778886054995155,Not Hired,83968.67581770352,9,0,69.88793919863402,48
+1026,David Johnson,24,Female,High School,18,"['""Java / Spring""']",Marketing Specialist,Rejected,99.89974080350252,Not Hired,75408.32277424845,10,3,53.39363687118768,49
+1034,Bob Miller,49,Male,Master,19,"['""JavaScript / React""']",HR Manager,Accepted,93.90832145536665,Not Hired,99894.06384081749,6,4,68.59875362239819,62
+1019,Harry Brown,37,Female,High School,4,"['""Data Science / ML""']",Marketing Specialist,Pending,51.90266472080301,Hired,104548.27401789009,2,0,57.064572097173496,23
+1017,Jane Jones,21,Female,High School,9,"['""Java / Spring""']",Software Engineer,Rejected,66.51421192375777,Not Hired,110060.76037492743,0,0,73.9244932469084,41
+CAND1037,Harry Smith,36,Male,PhD,14,"['""Java / Spring""']",HR Manager,Rejected,100.0,Not Hired,74982.20386791801,4,4,99.2363892412298,37
+CAND1041,Charlie García,30,Non-Binary,High School,5,"['""JavaScript / React""']",HR Manager,Rejected,79.08667127088361,Not Hired,28843.563216135255,7,4,83.6719545503659,38
+CAND1046,Bob Jones,40,Female,Diploma,4,"['""HR / Management""']",Marketing Specialist,Rejected,85.10338728130024,Hired,39899.89531550941,5,4,74.92050474356736,41
+1008,Eve Brown,31,Female,PhD,19,"['""Java / Spring""']",Marketing Specialist,Accepted,68.42714212303434,Not Hired,93569.21607950893,6,0,95.31710740789742,9
+CAND1046,John Williams,39,Female,PhD,4,"['""HR / Management""']",Marketing Specialist,Rejected,86.7164637929657,Not Hired,42863.4096124733,5,4,52.6392973769735,38
+1006,Ivy Brown,28,Female,Master,18,"['""Python / SQL""']",Marketing Specialist,Pending,91.74611970690471,Not Hired,49875.296050126315,1,4,97.33113211613968,35
+1000,Grace Brown,25,Female,Bachelor,13,"['”HR / Management""']",Software Engineer,Accepted,78.49772434169778,Hired,60792.629181290795,1,2,98.92414484140653,7
+1028,Ivy Jones,26,Male,High School,12,"['""JavaScript / React""']",Software Engineer,Pending,70.70063273278461,Not Hired,80341.15450940625,9,3,84.20028627401845,23
+1010,David Williams,39,Female,Bachelor,12,"['""JavaScript / React""']",Data Analyst,Rejected,96.90788419541616,Hired,84221.82569274893,10,3,73.56387890504033,15
+CAND1043,John Jones,44,Male,Master,11,"['""Data Science / ML""']",HR Manager,Rejected,81.91128721179221,Not Hired,51395.4192424506,1,4,75.86917389831511,40
+CAND1039,Eve Johnson,30,Female,Master,3,"['""Java / Spring""']",HR Manager,Rejected,90.38352705669224,Hired,113101.71510374213,5,1,63.51884270665728,5
+1034,Charlie Brown,50,Male,Master,20,"['""JavaScript / React""']",Marketing Specialist,Accepted,95.05926614586848,Not Hired,113305.23211872956,6,4,71.27095916467675,58
+1026,Harry Martínez,23,Female,High School,16,"['""Java / Spring""']",Data Analyst,Rejected,94.75690920241206,Hired,69456.84592774817,10,3,53.33602412134404,41
+CAND1043,Jane Miller,42,Male,High School,9,"['""Data Science / ML""']",Data Analyst,Rejected,93.07134716896209,Not Hired,44144.21563762728,1,4,74.79617291364836,33
+1011,Grace Smith,50,Male,High School,1,"['""Data Science / ML""']",HR Manager,Rejected,71.49941743459303,Not Hired,126931.17606977845,5,0,58.89889754459628,31
+1027,Ivy Miller,25,Female,PhD,2,"['""Java / Spring""']",Marketing Specialist,Accepted,57.32025934855119,Not Hired,48712.173687488634,9,3,48.44918315203024,28
+1016,Charlie Miller,25,Male,Diploma,22,"['""HR / Management""']",HR Manager,Pending,77.55489972844049,Not Hired,36714.269281992194,8,2,56.773134252217716,50
+1015,Charlie Brown,32,Female,Master,5,"['""Data Science / ML""']",HR Manager,Rejected,96.08968154810347,Not Hired,32910.05621393167,7,5,84.12564202134504,33
+1019,Bob Rodriguez,38,Female,Master,6,"['""Data Science / ML""']",Data Analyst,Pending,51.27361503239987,Not Hired,87745.81599618169,2,0,53.22657314143002,23
+1004,Ivy Rodriguez,44,Female,High School,17,"['""Data Science / ML""']",HR Manager,Rejected,98.49915247573689,Not Hired,48288.78850861948,7,4,61.875996035602824,15
+1008,Bob Jones,34,Female,Diploma,20,"['""Java / Spring""']",HR Manager,Accepted,61.13158759637969,Not Hired,97989.00140774295,6,0,88.98404952564552,16
+CAND1046,Jane Williams,38,Female,Master,6,"['""HR / Management""']",Marketing Specialist,Rejected,86.37078194598712,Not Hired,43836.33437348901,5,4,63.95039835052753,39
+1032,Harry Davis,27,Female,Diploma,1,"['""Data Science / ML""']",Marketing Specialist,Pending,54.98162704635409,Hired,58903.83258304687,10,4,65.28528408211463,29
+1032,Alice Miller,27,Female,Master,3,"['""Data Science / ML""']",Data Analyst,Pending,62.7134542679465,Not Hired,58865.10825191602,10,4,69.83232334909151,37
+1017,John Davis,20,Female,Bachelor,11,"['""Java / Spring""']",Data Analyst,Rejected,72.97687425578235,Hired,107177.85171942528,0,0,80.03932146641463,40
+1011,John Miller,49,Male,High School,0,"['""Data Science / ML""']",Software Engineer,Rejected,73.30328575958052,Not Hired,122754.69585785952,5,0,46.57872780836454,29
+CAND1040,Charlie Smith,27,Female,Bachelor,9,"['""Java / Spring""']",HR Manager,Rejected,66.46405946623214,Hired,35430.832998196725,6,2,66.94562001467655,48
+CAND1049,Ivy Martínez,33,Male,PhD,16,"['""HR / Management""']",HR Manager,Accepted,69.21673263918365,Hired,91934.78602458195,9,1,99.92395746255036,9
+1034,Ivy Martínez,48,Male,Bachelor,21,"['""JavaScript / React""']",HR Manager,Accepted,100.0,Hired,98310.99303792488,6,4,76.1963169486565,55
+CAND1042,Bob Davis,49,Female,PhD,10,"['""HR / Management""']",HR Manager,Accepted,84.51705622234283,Hired,37232.754920607185,9,5,61.41689737400196,46
+1020,John Jones,43,Non-Binary,High School,21,"['""HR / Management""']",HR Manager,Pending,58.449719429460316,Hired,33739.22887900763,5,2,66.28240628554127,21
+1023,Jane Smith,30,Female,High School,5,"['""Java / Spring""']",HR Manager,Rejected,51.2138184412657,Not Hired,104028.27375287481,6,1,70.83693143947117,29
+1031,Harry Johnson,32,Male,Bachelor,14,"['""Python / SQL""']",Data Analyst,Rejected,58.40666013390628,Not Hired,81771.1454539311,9,5,55.68841242055382,43
+1007,Grace Williams,22,Non-Binary,Diploma,0,"['""Java / Spring""']",HR Manager,Accepted,77.05181376950664,Hired,76302.4585735043,5,3,64.33448133825746,33
+1025,Grace Martínez,23,Female,Diploma,10,"['""HR / Management""']",HR Manager,Rejected,74.33476428856126,Hired,40429.3958922314,9,4,58.332615638478146,52
+1000,Charlie Johnson,26,Female,High School,12,"['”HR / Management""']",Software Engineer,Accepted,86.72704732514454,Not Hired,60231.294350935306,1,2,94.42132035426575,9
+1007,Charlie Miller,20,Non-Binary,PhD,0,"['""Java / Spring""']",HR Manager,Accepted,77.3660043537873,Not Hired,79401.37549108895,5,3,57.14965141244428,32
+1030,John Davis,42,Female,Master,6,"['""Python / SQL""']",Data Analyst,Accepted,69.72409743143241,Hired,50521.43494184808,7,4,72.13077083034183,19
+CAND1037,Alice García,37,Male,Diploma,14,"['""Java / Spring""']",Data Analyst,Rejected,97.98170862475476,Not Hired,70119.8060910492,4,4,88.60581257349607,31
+1016,Harry Martínez,27,Male,Bachelor,21,"['""HR / Management""']",Software Engineer,Pending,84.00564257431674,Not Hired,34746.746088989006,8,2,56.051280911560205,47
+CAND1038,John Miller,31,Male,High School,11,"['""HR / Management""']",Software Engineer,Accepted,66.16217887370165,Not Hired,60890.02887108725,3,1,51.558272039616604,34
+1018,Bob Miller,37,Male,Diploma,10,"['""Java / Spring""']",Software Engineer,Pending,93.13421473216303,Not Hired,28282.093108377754,8,1,91.2310162023845,25
+1018,Eve Brown,37,Male,PhD,10,"['""Java / Spring""']",Data Analyst,Pending,81.16110046220564,Hired,31751.547981025593,8,1,80.87020971450389,23
+1007,Charlie Rodriguez,20,Non-Binary,Master,1,"['""Java / Spring""']",Marketing Specialist,Accepted,70.10915476647834,Not Hired,76402.05291234139,5,3,62.30617710766872,27
+1025,Charlie Rodriguez,26,Female,Diploma,12,"['""HR / Management""']",Data Analyst,Rejected,92.96975732079174,Not Hired,37989.90216615758,9,4,57.369457459272695,48
+CAND1040,Jane Jones,27,Female,Bachelor,9,"['""Java / Spring""']",HR Manager,Rejected,67.39279834442243,Not Hired,38304.22680825078,6,2,65.13378675328553,41
+CAND1048,Jane Williams,41,Male,High School,6,"['""JavaScript / React""']",Marketing Specialist,Accepted,86.1644374416383,Hired,65519.61010631782,3,3,66.93383163965302,41
+1017,Harry Martínez,20,Female,Diploma,11,"['""Java / Spring""']",Marketing Specialist,Rejected,70.7707017781215,Not Hired,101408.90629629022,0,0,76.49275185224786,39
+CAND1037,Ivy García,35,Male,Diploma,16,"['""Java / Spring""']",Data Analyst,Rejected,99.83696313182239,Not Hired,66663.88164567424,4,4,100.0,37
+CAND1045,David Davis,52,Female,PhD,1,"['""HR / Management""']",Software Engineer,Accepted,92.58548896428701,Not Hired,64628.707165760454,0,2,64.2735410885564,27
+CAND1047,Ivy Williams,45,Female,High School,3,"['""HR / Management""']",Data Analyst,Pending,66.08503743101474,Not Hired,43567.424621586215,5,5,77.33204512401943,40
+CAND1037,Ivy Johnson,38,Male,Master,17,"['""Java / Spring""']",Marketing Specialist,Rejected,90.6490646164446,Not Hired,76674.69402553738,4,4,97.66297279458293,38
+1015,David Martínez,33,Female,High School,7,"['""Data Science / ML""']",HR Manager,Rejected,100.0,Not Hired,31501.43572833369,7,5,94.69735391490832,34
+1034,Ivy Williams,48,Male,PhD,21,"['""JavaScript / React""']",Marketing Specialist,Accepted,90.9360542298868,Not Hired,99036.7993698474,6,4,75.53548829357172,60
+1017,Ivy Rodriguez,24,Female,Diploma,11,"['""Java / Spring""']",Software Engineer,Rejected,65.15176385239822,Hired,99676.81502691649,0,0,71.14129754364563,39
+1003,Ivy Rodriguez,32,Male,Diploma,19,"['""HR / Management""']",Software Engineer,Rejected,80.24963884763162,Hired,62804.75597771606,0,3,86.02481335903349,54
+1008,David Miller,32,Female,Bachelor,20,"['""Java / Spring""']",HR Manager,Accepted,73.88558421117007,Not Hired,95319.20017009717,6,0,87.9635574387716,17
+1004,Eve Miller,42,Female,PhD,20,"['""Data Science / ML""']",Software Engineer,Rejected,96.78999619148753,Not Hired,57418.944377192056,7,4,62.80404802994763,9
+1018,Eve Brown,38,Male,PhD,9,"['""Java / Spring""']",Software Engineer,Pending,91.72750909208764,Not Hired,27667.057673295192,8,1,71.59628597472482,19
+1035,Bob Jones,35,Male,PhD,6,"['""Python / SQL""']",HR Manager,Rejected,96.49555315912332,Not Hired,78246.42071172949,0,0,81.96974542826682,14
+1015,Ivy Jones,33,Female,Master,8,"['""Data Science / ML""']",Data Analyst,Rejected,95.47311716195219,Not Hired,34223.309553914034,7,5,94.60098816893803,36
+CAND1046,Bob Davis,37,Female,Bachelor,5,"['""HR / Management""']",HR Manager,Rejected,86.90306467654831,Not Hired,48245.65199351073,5,4,62.76706643752124,37
+1014,Eve Jones,43,Male,Master,5,"['""Java / Spring""']",Data Analyst,Rejected,79.3729627377296,Not Hired,78435.09229037637,7,3,82.10112928114302,37
+1012,Grace Rodriguez,42,Female,Master,0,"['""JavaScript / React""']",Data Analyst,Rejected,60.98768141192631,Not Hired,44094.97441696298,8,1,71.96425721597632,50
+1027,Harry Martínez,27,Female,Master,3,"['""Java / Spring""']",Marketing Specialist,Accepted,54.78533264270537,Not Hired,45938.222474355855,9,3,60.66149819837439,32
+1012,Charlie Brown,41,Female,Bachelor,1,"['""JavaScript / React""']",Software Engineer,Rejected,58.805024144837226,Not Hired,43442.791420545975,8,1,66.13536161037247,50
+1001,Harry Jones,41,Male,High School,17,"['""JavaScript / React""']",Data Analyst,Rejected,78.7109522155204,Not Hired,77139.49787879517,9,5,71.75458212731226,56
+1023,Ivy Smith,26,Female,High School,5,"['""Java / Spring""']",Marketing Specialist,Rejected,47.56469136054125,Hired,92815.07952623043,6,1,65.69135890048953,20
+1013,Bob García,28,Female,PhD,14,"['""Python / SQL""']",Marketing Specialist,Accepted,90.66300456441252,Not Hired,107262.08132725772,1,0,63.23468540035307,47
+1016,John Johnson,28,Male,Diploma,21,"['""HR / Management""']",Data Analyst,Pending,73.22263960396312,Not Hired,38984.54867355825,8,2,52.41386925632204,45
+CAND1041,Eve Rodriguez,29,Non-Binary,Diploma,8,"['""JavaScript / React""']",Data Analyst,Rejected,79.73874839306978,Hired,35072.375917207035,7,4,79.15968795922278,39
+CAND1045,Harry Martínez,52,Female,Bachelor,1,"['""HR / Management""']",Software Engineer,Accepted,98.10871593300743,Hired,64886.9245849424,0,2,66.41700720192826,35
+CAND1042,Ivy Jones,45,Female,Bachelor,10,"['""HR / Management""']",HR Manager,Accepted,85.67121248032359,Hired,42034.22412029474,9,5,61.73713977182753,40
+CAND1042,Ivy Martínez,45,Female,Master,11,"['""HR / Management""']",Software Engineer,Accepted,94.18358185003859,Hired,39770.267256916806,9,5,52.882683593787895,48
+1030,Grace Johnson,42,Female,Master,5,"['""Python / SQL""']",Marketing Specialist,Accepted,73.15962656882698,Not Hired,48675.13850194392,7,4,76.03459166287678,23
+1007,Charlie Martínez,20,Non-Binary,PhD,1,"['""Java / Spring""']",Marketing Specialist,Accepted,85.72752478183288,Hired,77186.45705347766,5,3,61.361912034453276,32
+1012,Ivy Smith,42,Female,High School,2,"['""JavaScript / React""']",HR Manager,Rejected,56.63866316673016,Hired,41218.257650340696,8,1,62.89558462218622,43
+1006,Charlie Rodriguez,31,Female,Diploma,18,"['""Python / SQL""']",Marketing Specialist,Pending,77.76903623937918,Not Hired,54795.81017844925,1,4,89.22642986469613,42
+CAND1044,Ivy Smith,24,Male,PhD,15,"['""Java / Spring""']",Software Engineer,Rejected,59.844473377793875,Not Hired,60135.46598971434,3,1,49.71217161276375,22
+1026,Ivy Johnson,27,Female,High School,19,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,68045.19157917154,10,3,50.31247725641835,44
+CAND1039,Alice García,28,Female,PhD,5,"['""Java / Spring""']",Marketing Specialist,Rejected,99.31591022465702,Not Hired,112959.25044135388,5,1,62.18497403641889,6
+1032,Bob Williams,27,Female,High School,1,"['""Data Science / ML""']",Data Analyst,Pending,58.94211543570586,Not Hired,52622.37037596764,10,4,63.84732492530035,29
+1010,Harry Williams,40,Female,Diploma,10,"['""JavaScript / React""']",Marketing Specialist,Rejected,94.91224625385499,Hired,82124.40553567933,10,3,59.55033398324421,20
+1013,Grace Williams,27,Female,Bachelor,15,"['""Python / SQL""']",Marketing Specialist,Accepted,89.84054813573496,Hired,107340.33963496906,1,0,66.1284287026342,46
+1033,David Brown,49,Male,High School,15,"['""Java / Spring""']",Data Analyst,Rejected,91.35415569446519,Hired,115872.97436906652,3,0,89.29474575128832,29
+1014,John Miller,43,Male,Diploma,4,"['""Java / Spring""']",Marketing Specialist,Rejected,82.7287869660658,Not Hired,83472.58342928205,7,3,85.34568452331874,38
+1025,David García,22,Female,Diploma,12,"['""HR / Management""']",Data Analyst,Rejected,81.80120980091941,Not Hired,39564.010787191815,9,4,55.1814731679145,57
+1019,Bob Miller,35,Female,Master,4,"['""Data Science / ML""']",Data Analyst,Pending,56.69691132913267,Not Hired,105533.25455849584,2,0,50.80088277880495,26
+1021,Charlie Smith,29,Male,Diploma,16,"['""Python / SQL""']",Marketing Specialist,Accepted,72.76057563940473,Hired,96429.05534838104,8,4,55.451204955164684,47
+1011,Alice García,46,Male,Diploma,0,"['""Data Science / ML""']",Data Analyst,Rejected,75.45376358492493,Not Hired,107282.7267731383,5,0,60.2564474857752,34
+1000,Bob Rodriguez,26,Female,PhD,10,"['”HR / Management""']",HR Manager,Accepted,81.93970782502883,Hired,59471.87298901494,1,2,93.94782018660152,12
+1015,Harry Davis,32,Female,Master,7,"['""Data Science / ML""']",Data Analyst,Rejected,100.0,Hired,36832.40234140255,7,5,96.52105160423187,32
+1025,Bob Martínez,26,Female,PhD,11,"['""HR / Management""']",HR Manager,Rejected,84.9161585759638,Not Hired,36494.24005610808,9,4,54.402159084335146,50
+1016,David Miller,25,Male,Master,19,"['""HR / Management""']",HR Manager,Pending,79.4850312823928,Not Hired,35292.93561007985,8,2,62.03144383019658,43
+1033,John Rodriguez,46,Male,Diploma,13,"['""Java / Spring""']",Data Analyst,Rejected,87.35099707153327,Hired,106066.45292558227,3,0,88.32127282753059,27
+CAND1049,Bob Martínez,34,Male,Diploma,14,"['""HR / Management""']",Marketing Specialist,Accepted,79.42969031131028,Hired,88645.12420394483,9,1,95.70665220136571,11
+1012,David Smith,42,Female,Bachelor,0,"['""JavaScript / React""']",Marketing Specialist,Rejected,61.50519040672073,Not Hired,42556.97197305744,8,1,68.05028918753315,45
+1013,Eve Williams,31,Female,High School,14,"['""Python / SQL""']",Data Analyst,Accepted,95.18392845537853,Hired,95655.54638941001,1,0,59.5136074923407,50
+1035,Alice Williams,33,Male,PhD,3,"['""Python / SQL""']",HR Manager,Rejected,100.0,Not Hired,87153.2743446704,0,0,82.69436950354202,12
+1008,Charlie Rodriguez,34,Female,High School,20,"['""Java / Spring""']",HR Manager,Accepted,68.92373732256182,Not Hired,96121.3502786852,6,0,85.00249928772246,16
+1012,Harry Rodriguez,41,Female,High School,0,"['""JavaScript / React""']",Marketing Specialist,Rejected,64.89024275403376,Hired,36919.996668709435,8,1,66.8469817125299,43
+1012,Jane Miller,41,Female,Master,0,"['""JavaScript / React""']",Data Analyst,Rejected,64.67385496274046,Hired,41855.79644278575,8,1,67.77933316743821,48
+1026,Eve Jones,23,Female,Master,16,"['""Java / Spring""']",Marketing Specialist,Rejected,95.65326000417014,Not Hired,77711.27484526637,10,3,50.46833737642872,46
+1016,Bob Williams,27,Male,Diploma,20,"['""HR / Management""']",Software Engineer,Pending,84.10789999187352,Hired,34892.46612903368,8,2,56.63826065115726,45
+1028,Ivy Davis,26,Male,PhD,14,"['""JavaScript / React""']",Software Engineer,Pending,68.41823042397259,Not Hired,83928.70111949567,9,3,63.05832980880792,24
+1034,Alice Jones,47,Male,High School,20,"['""JavaScript / React""']",HR Manager,Accepted,90.27756767915734,Hired,97946.45333796559,6,4,91.81192417764105,59
+1003,Eve Williams,34,Male,PhD,21,"['""HR / Management""']",Data Analyst,Rejected,89.57548385454024,Not Hired,63103.20830904339,0,3,92.2448753017124,58
+1002,David Jones,37,Female,PhD,14,"['""Python / SQL""']",Data Analyst,Pending,52.65543749564148,Hired,96239.4293417826,9,0,74.47835839507898,41
+1027,Grace Johnson,29,Female,Bachelor,0,"['""Java / Spring""']",Data Analyst,Accepted,60.08689345539989,Not Hired,49592.85548553993,9,3,58.96113293875537,28
+1021,Harry García,30,Male,Bachelor,18,"['""Python / SQL""']",HR Manager,Accepted,74.80503659394914,Hired,100768.42443454197,8,4,56.62003429664958,53
+CAND1048,Grace Johnson,37,Male,High School,8,"['""JavaScript / React""']",Marketing Specialist,Accepted,88.27913489571594,Hired,63022.84181225314,3,3,65.69737150685546,43
+1012,Charlie Martínez,42,Female,PhD,1,"['""JavaScript / React""']",Software Engineer,Rejected,63.03842978302263,Not Hired,36839.47455359268,8,1,60.115134714183455,53
+1001,Charlie Johnson,42,Male,High School,18,"['""JavaScript / React""']",Data Analyst,Rejected,76.38822931864803,Not Hired,81292.72122694843,9,5,77.21146179635922,63
+1025,Jane Jones,25,Female,Master,9,"['""HR / Management""']",Marketing Specialist,Rejected,85.70862518224493,Hired,36713.97278391656,9,4,51.554602175138506,54
+1028,Ivy Miller,26,Male,PhD,14,"['""JavaScript / React""']",Data Analyst,Pending,69.53035733614485,Not Hired,81558.37266329491,9,3,77.85265797514084,23
+1024,John Martínez,25,Male,Master,0,"['""Java / Spring""']",Data Analyst,Rejected,96.33101167759744,Not Hired,31130.649525596833,2,0,74.10003274262269,33
+1009,Grace Johnson,31,Female,PhD,13,"['""HR / Management""']",Marketing Specialist,Rejected,77.54216788296554,Hired,44737.8377413871,10,0,87.69473758085827,56
+CAND1045,Grace Williams,49,Female,Master,1,"['""HR / Management""']",HR Manager,Accepted,97.203299241502,Not Hired,61092.407570229625,0,2,62.967811867106086,32
+1023,David Martínez,28,Female,Diploma,5,"['""Java / Spring""']",HR Manager,Rejected,54.48825635629627,Not Hired,103433.19275881589,6,1,61.3957784091859,22
+CAND1037,Bob Johnson,38,Male,High School,15,"['""Java / Spring""']",HR Manager,Rejected,93.48845833288328,Not Hired,66986.14578757106,4,4,99.82637952720114,29
+CAND1044,Eve García,25,Male,PhD,17,"['""Java / Spring""']",Marketing Specialist,Rejected,64.77197219503046,Not Hired,54452.32042261316,3,1,48.56641133457145,24
+CAND1039,Eve Davis,28,Female,High School,5,"['""Java / Spring""']",HR Manager,Rejected,96.85796364013837,Not Hired,110203.93649326246,5,1,59.395362878451046,12
+1029,Bob Smith,47,Male,Diploma,17,"['""Python / SQL""']",Marketing Specialist,Rejected,65.47398083398527,Not Hired,34046.20286566172,5,5,79.35266711147707,13
+1023,Ivy Smith,28,Female,Bachelor,6,"['""Java / Spring""']",HR Manager,Rejected,47.160125517398,Hired,97772.3400272949,6,1,73.01982049206761,22
+1031,David Davis,32,Male,Bachelor,13,"['""Python / SQL""']",Data Analyst,Rejected,56.73555269852619,Not Hired,74669.19139961226,9,5,55.22330146331746,43
+1010,Alice Williams,37,Female,Bachelor,9,"['""JavaScript / React""']",Software Engineer,Rejected,100.0,Not Hired,82226.33694787833,10,3,65.69826233976386,11
+1001,Grace Miller,42,Male,High School,15,"['""JavaScript / React""']",Software Engineer,Rejected,82.71774876260619,Not Hired,73280.47136669548,9,5,63.76479145782425,64
+1013,Ivy Johnson,31,Female,Master,15,"['""Python / SQL""']",HR Manager,Accepted,99.13577436035978,Hired,109027.13938609467,1,0,55.77922202586668,50
+1010,Grace Jones,40,Female,Bachelor,9,"['""JavaScript / React""']",Marketing Specialist,Rejected,96.26904204021685,Not Hired,88305.38180109918,10,3,68.78821369313957,21
+1021,Grace Rodriguez,33,Male,High School,18,"['""Python / SQL""']",Data Analyst,Accepted,70.17164396277879,Hired,95060.17214817904,8,4,62.53839769216853,46
+CAND1045,Ivy Davis,50,Female,High School,1,"['""HR / Management""']",HR Manager,Accepted,90.46344884133937,Not Hired,63627.31540119318,0,2,61.34103360200833,29
+1018,Alice Brown,41,Male,Bachelor,11,"['""Java / Spring""']",HR Manager,Pending,91.48537340836708,Not Hired,27422.083954925718,8,1,78.5684235103608,23
+1019,David Jones,35,Female,High School,4,"['""Data Science / ML""']",HR Manager,Pending,55.25582019491675,Not Hired,92694.32167880614,2,0,53.850456398690824,30
+1028,Harry Rodriguez,27,Male,Diploma,12,"['""JavaScript / React""']",HR Manager,Pending,75.265812578235,Not Hired,71624.88214234309,9,3,75.44383627780087,31
+CAND1045,Jane Johnson,52,Female,Bachelor,3,"['""HR / Management""']",Software Engineer,Accepted,100.0,Hired,57486.001388380464,0,2,59.140164710544376,28
+1035,Ivy Miller,32,Male,PhD,4,"['""Python / SQL""']",HR Manager,Rejected,94.35737438240677,Hired,84542.66976147663,0,0,80.45381604581564,10
+1021,Charlie Rodriguez,29,Male,Diploma,16,"['""Python / SQL""']",Marketing Specialist,Accepted,72.09890639254346,Not Hired,96605.58937028356,8,4,53.06351550558081,46
+1011,Grace García,49,Male,Diploma,2,"['""Data Science / ML""']",Software Engineer,Rejected,74.310107005251,Not Hired,117383.92874564994,5,0,67.91255901617352,31
+1011,Eve García,46,Male,PhD,0,"['""Data Science / ML""']",Software Engineer,Rejected,79.8983471533888,Not Hired,111637.33137521286,5,0,63.60236322842223,34
+1034,Bob Brown,49,Male,High School,19,"['""JavaScript / React""']",Marketing Specialist,Accepted,88.30153653139406,Hired,96369.09808104119,6,4,82.21368693745583,56
+1030,Alice Brown,41,Female,Master,6,"['""Python / SQL""']",Software Engineer,Accepted,70.68342304215895,Not Hired,45420.93894472163,7,4,77.21367815000941,21
+1028,John Johnson,26,Male,Master,14,"['""JavaScript / React""']",Marketing Specialist,Pending,74.86926069164966,Not Hired,80835.84456032577,9,3,74.07757581937442,29
+1017,Harry García,20,Female,Diploma,8,"['""Java / Spring""']",HR Manager,Rejected,74.2870794969922,Not Hired,103693.57913813529,0,0,79.99179465369922,33
+CAND1045,Alice Rodriguez,49,Female,Bachelor,4,"['""HR / Management""']",Data Analyst,Accepted,93.6299778887172,Hired,59849.10284291018,0,2,54.37680256358769,33
+CAND1041,John Brown,26,Non-Binary,Diploma,5,"['""JavaScript / React""']",Marketing Specialist,Rejected,82.57632982318741,Not Hired,32097.26282220039,7,4,76.88103265466258,36
+1002,Grace Davis,35,Female,Bachelor,13,"['""Python / SQL""']",Software Engineer,Pending,63.969118836889635,Not Hired,95232.51459436155,9,0,77.94523914511008,47
+1021,John Brown,29,Male,Diploma,17,"['""Python / SQL""']",Marketing Specialist,Accepted,64.82095557606925,Hired,93777.5294917184,8,4,58.318521835748186,47
+1034,John Williams,51,Male,Bachelor,19,"['""JavaScript / React""']",Data Analyst,Accepted,92.9083657946232,Hired,114967.2907717838,6,4,73.37161593004592,62
+1005,David Davis,50,Male,Bachelor,0,"['""Java / Spring""']",Software Engineer,Rejected,92.81911921592881,Hired,60740.632517988364,10,0,62.71230104437409,59
+CAND1042,Grace Smith,45,Female,Bachelor,11,"['""HR / Management""']",Marketing Specialist,Accepted,92.97350004031753,Not Hired,36721.39962560635,9,5,61.87578545057155,44
+1028,Alice Brown,27,Male,Diploma,15,"['""JavaScript / React""']",Software Engineer,Pending,67.18258660387279,Not Hired,72358.91704919028,9,3,80.3547862871729,22
+CAND1046,John Miller,40,Female,High School,5,"['""HR / Management""']",Software Engineer,Rejected,82.27275580241424,Not Hired,46797.55320894025,5,4,58.75521553073551,39
+1020,Grace Martínez,40,Non-Binary,Bachelor,19,"['""HR / Management""']",Marketing Specialist,Pending,58.59461584422422,Not Hired,34401.08980105495,5,2,59.75472548675066,21
+CAND1044,David Martínez,25,Male,High School,17,"['""Java / Spring""']",Marketing Specialist,Rejected,66.13537688237565,Not Hired,61716.04293387549,3,1,44.83739551616499,30
+1030,Bob Williams,43,Female,Master,3,"['""Python / SQL""']",HR Manager,Accepted,72.16556409192941,Hired,50367.64355331928,7,4,73.46059268258539,20
+CAND1036,Ivy Davis,46,Male,Master,11,"['""HR / Management""']",Data Analyst,Pending,85.36785788230011,Not Hired,102075.90842772476,9,0,61.36011625237603,46
+1018,Grace Miller,40,Male,High School,10,"['""Java / Spring""']",Software Engineer,Pending,92.58668139214451,Not Hired,28766.586023085205,8,1,80.26859261741443,24
+CAND1043,Bob Miller,45,Male,PhD,8,"['""Data Science / ML""']",HR Manager,Rejected,82.94161119002992,Not Hired,50557.66110671849,1,4,72.99662430973852,31
+1035,Jane Smith,33,Male,PhD,3,"['""Python / SQL""']",HR Manager,Rejected,95.75339392288633,Not Hired,77431.36538229999,0,0,79.10275520608864,15
+1002,Harry Jones,37,Female,PhD,13,"['""Python / SQL""']",HR Manager,Pending,52.71985928442631,Not Hired,89006.53402902534,9,0,65.53110034713755,42
+CAND1036,Charlie Miller,48,Male,High School,13,"['""HR / Management""']",HR Manager,Pending,92.47141830829399,Not Hired,98671.69218045955,9,0,60.62936219236674,41
+1009,Bob Martínez,31,Female,Bachelor,14,"['""HR / Management""']",HR Manager,Rejected,74.71418065816808,Hired,40073.76286985124,10,0,86.95572164688474,59
+1030,Jane Williams,41,Female,High School,5,"['""Python / SQL""']",Data Analyst,Accepted,67.54780359156997,Not Hired,45825.24843442817,7,4,70.162186892379,25
+1009,Ivy Jones,30,Female,Diploma,12,"['""HR / Management""']",Software Engineer,Rejected,72.53075938084913,Not Hired,36901.229902121995,10,0,77.6235230360412,58
+1002,Ivy Martínez,35,Female,Bachelor,11,"['""Python / SQL""']",Marketing Specialist,Pending,56.1786994633967,Not Hired,85529.86623720132,9,0,74.84983746323137,44
+1001,Alice Jones,43,Male,Master,16,"['""JavaScript / React""']",Marketing Specialist,Rejected,77.98530161086823,Not Hired,76111.56825445859,9,5,64.15637862942846,57
+1033,Charlie Miller,49,Male,Diploma,13,"['""Java / Spring""']",Marketing Specialist,Rejected,98.14856903638261,Hired,105710.81557012939,3,0,90.47564632808712,29
+1008,John Rodriguez,32,Female,Bachelor,18,"['""Java / Spring""']",Data Analyst,Accepted,75.7343220160309,Hired,102524.71726618959,6,0,90.37244166863682,16
+CAND1042,Bob Martínez,45,Female,Master,13,"['""HR / Management""']",Software Engineer,Accepted,89.88468930831623,Hired,38853.05793739255,9,5,56.95637163673196,42
+1031,Grace Johnson,31,Male,Master,13,"['""Python / SQL""']",Software Engineer,Rejected,52.596649116476385,Hired,72721.00556970376,9,5,48.86036252233918,38
+CAND1038,David Miller,30,Male,Master,10,"['""HR / Management""']",Software Engineer,Accepted,69.32256162533875,Hired,63192.635423894586,3,1,61.4145353451063,44
+1001,Bob Johnson,41,Male,High School,17,"['""JavaScript / React""']",Marketing Specialist,Rejected,75.29777978403503,Hired,80057.85241637906,9,5,63.0859456453824,60
+CAND1043,Harry Johnson,42,Male,Master,8,"['""Data Science / ML""']",Data Analyst,Rejected,82.48834529925033,Not Hired,47978.22239781601,1,4,78.23022353402028,40
+CAND1047,Ivy García,49,Female,PhD,3,"['""HR / Management""']",Data Analyst,Pending,74.61606644164019,Hired,38952.03904298473,5,5,80.88300253577485,39
+1035,Eve Martínez,34,Male,Master,3,"['""Python / SQL""']",HR Manager,Rejected,91.71880910338932,Not Hired,90559.17802107947,0,0,72.63223907215873,12
+CAND1047,Ivy Williams,49,Female,Diploma,1,"['""HR / Management""']",Software Engineer,Pending,75.40652565783729,Hired,38124.749971781326,5,5,80.18877219312296,37
+1010,Ivy Johnson,39,Female,Bachelor,12,"['""JavaScript / React""']",Data Analyst,Rejected,100.0,Not Hired,86699.16456858146,10,3,62.539645374701095,17
+1018,Harry Brown,40,Male,Bachelor,8,"['""Java / Spring""']",Marketing Specialist,Pending,79.94554282309987,Hired,32285.37021435277,8,1,74.0051847401994,20
+CAND1037,Jane Miller,34,Male,Diploma,15,"['""Java / Spring""']",Data Analyst,Rejected,96.23259239044202,Not Hired,71907.25144947226,4,4,90.53061579837589,37
+1035,Bob García,36,Male,Master,5,"['""Python / SQL""']",Data Analyst,Rejected,94.7757172940841,Not Hired,88225.87927379803,0,0,77.2920188328419,15
+1005,Ivy Davis,46,Male,High School,2,"['""Java / Spring""']",Software Engineer,Rejected,92.75460482202945,Not Hired,56782.09298589921,10,0,66.38285577685927,59
+1008,John Jones,31,Female,Diploma,20,"['""Java / Spring""']",HR Manager,Accepted,71.38275980534897,Not Hired,100357.37062656436,6,0,96.08473315059297,12
+1035,Charlie Martínez,36,Male,High School,4,"['""Python / SQL""']",Data Analyst,Rejected,95.26310639499481,Hired,86345.81898814302,0,0,73.57494843058302,13
+CAND1045,Bob Jones,51,Female,Diploma,2,"['""HR / Management""']",Software Engineer,Accepted,98.48672069999067,Not Hired,56636.51731229624,0,2,76.27096066507505,29
+1001,Ivy Smith,42,Male,Master,15,"['""JavaScript / React""']",HR Manager,Rejected,79.82690648267452,Hired,75945.74749485095,9,5,66.92035612882047,57
+CAND1044,Grace Davis,21,Male,Master,17,"['""Java / Spring""']",Software Engineer,Rejected,64.8395461101245,Hired,58294.998449460734,3,1,52.87708167619317,29
+CAND1036,Grace Jones,45,Male,PhD,12,"['""HR / Management""']",Data Analyst,Pending,85.42674145189768,Not Hired,101284.3526421019,9,0,58.81248598104013,46
+1033,Grace Williams,50,Male,High School,15,"['""Java / Spring""']",Data Analyst,Rejected,93.58086347200481,Not Hired,102523.82577904584,3,0,92.41605152059631,28
+1027,Grace Martínez,25,Female,Bachelor,3,"['""Java / Spring""']",Marketing Specialist,Accepted,48.158469210791665,Hired,44841.22676547194,9,3,53.30351605463784,25
+1029,Alice Davis,45,Male,High School,19,"['""Python / SQL""']",Software Engineer,Rejected,64.55302583882633,Not Hired,30453.20525198904,5,5,72.18702269665073,15
+CAND1043,Grace Martínez,44,Male,Diploma,8,"['""Data Science / ML""']",Software Engineer,Rejected,80.13096102184663,Hired,47190.79818021934,1,4,72.30824377586,36
+1025,Jane García,22,Female,Bachelor,9,"['""HR / Management""']",Marketing Specialist,Rejected,80.5504157592471,Not Hired,41226.27325996412,9,4,54.566847940739294,57
+CAND1049,Harry Jones,34,Male,PhD,16,"['""HR / Management""']",HR Manager,Accepted,70.94304748354112,Hired,79681.03844663811,9,1,96.39623959427864,9
+1028,Grace Jones,24,Male,Diploma,12,"['""JavaScript / React""']",Software Engineer,Pending,74.66991746000082,Not Hired,75753.37294597473,9,3,80.17478713774165,24
+1016,Bob Davis,26,Male,PhD,20,"['""HR / Management""']",Software Engineer,Pending,82.83328668868646,Hired,37698.798152320014,8,2,59.07483866829962,44
+1035,Harry Williams,33,Male,Bachelor,6,"['""Python / SQL""']",Data Analyst,Rejected,100.0,Not Hired,89636.69697504786,0,0,69.02935668164118,11
+CAND1047,Alice Williams,46,Female,Master,1,"['""HR / Management""']",Data Analyst,Pending,83.03748203559053,Hired,42225.13937006529,5,5,88.61084979303631,46
+CAND1040,Alice Miller,27,Female,Diploma,12,"['""Java / Spring""']",Software Engineer,Rejected,68.69925016523099,Hired,34494.97944412984,6,2,67.77561122995158,42
+1032,Bob García,28,Female,Master,2,"['""Data Science / ML""']",Marketing Specialist,Pending,60.13749302009242,Hired,50925.53757754576,10,4,56.09947737315781,36
+1016,Harry Smith,28,Male,PhD,21,"['""HR / Management""']",Data Analyst,Pending,74.43933123888249,Not Hired,35054.478340705755,8,2,48.63723262800192,47
+1017,Jane Smith,24,Female,Master,9,"['""Java / Spring""']",Data Analyst,Rejected,63.588750105359516,Hired,100687.67550986583,0,0,75.59290264499535,35
+1017,John Smith,24,Female,Master,8,"['""Java / Spring""']",Data Analyst,Rejected,72.73980475869354,Hired,104025.16404859205,0,0,67.60706551677738,34
+CAND1038,Charlie Williams,29,Male,High School,9,"['""HR / Management""']",HR Manager,Accepted,70.18395111238468,Not Hired,72866.21009425764,3,1,52.030212306545586,43
+1033,David Brown,49,Male,Diploma,12,"['""Java / Spring""']",Software Engineer,Rejected,95.72333151316165,Hired,118316.52934443534,3,0,97.77282705636905,22
+1022,Eve Miller,43,Non-Binary,PhD,9,"['""Data Science / ML""']",HR Manager,Accepted,87.24283157799836,Hired,77493.01669351137,0,5,96.83593074711989,60
+1019,David Davis,35,Female,Bachelor,5,"['""Data Science / ML""']",Software Engineer,Pending,49.399551449879,Not Hired,105257.28317699832,2,0,56.68723129182824,27
+1017,Jane Brown,21,Female,High School,10,"['""Java / Spring""']",Data Analyst,Rejected,73.0469633327566,Not Hired,108471.93930960364,0,0,73.35467775381008,37
+1001,Harry Smith,45,Male,High School,16,"['""JavaScript / React""']",Marketing Specialist,Rejected,71.60714754518017,Hired,87708.14162062769,9,5,60.02618296154287,61
+1009,Charlie García,29,Female,Master,13,"['""HR / Management""']",Software Engineer,Rejected,74.9633190954914,Not Hired,40328.70667137838,10,0,82.11117769031553,57
+CAND1046,Bob Rodriguez,40,Female,Bachelor,4,"['""HR / Management""']",Data Analyst,Rejected,82.75955320254414,Not Hired,43695.96914955864,5,4,65.02837879954672,43
+CAND1037,Bob Jones,36,Male,Bachelor,14,"['""Java / Spring""']",Software Engineer,Rejected,91.11753456800429,Not Hired,69448.8135541367,4,4,96.91293012614159,36
+1024,Grace Brown,25,Male,Master,2,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,30475.505310964312,2,0,71.55478073368882,42
+CAND1043,David Johnson,41,Male,High School,10,"['""Data Science / ML""']",HR Manager,Rejected,91.42909840532597,Not Hired,48173.69088130836,1,4,79.50844416048608,33
+1024,Bob Brown,26,Male,PhD,0,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,35123.09674190754,2,0,81.04374089082467,42
+CAND1037,Charlie Johnson,35,Male,High School,17,"['""Java / Spring""']",HR Manager,Rejected,95.20154929668048,Not Hired,75146.71232509233,4,4,100.0,38
+1020,Bob García,40,Non-Binary,Diploma,22,"['""HR / Management""']",HR Manager,Pending,59.365043035842014,Hired,31777.60804480488,5,2,70.62108116603736,14
+CAND1041,Harry Brown,28,Non-Binary,PhD,5,"['""JavaScript / React""']",Marketing Specialist,Rejected,74.61185027013629,Hired,29717.345426627384,7,4,86.48686394408601,42
+CAND1046,Harry Rodriguez,38,Female,High School,6,"['""HR / Management""']",Data Analyst,Rejected,82.05125378223379,Not Hired,47234.481971472196,5,4,65.58090695885463,34
+CAND1044,David Jones,25,Male,Master,15,"['""Java / Spring""']",HR Manager,Rejected,55.757658379764734,Not Hired,57748.74034329337,3,1,50.009892868212795,21
+1028,Bob Martínez,24,Male,Diploma,15,"['""JavaScript / React""']",Software Engineer,Pending,70.6907995057593,Not Hired,76283.45829880198,9,3,88.22638229481137,29
+1032,Ivy Jones,25,Female,PhD,2,"['""Data Science / ML""']",Marketing Specialist,Pending,68.0722152628267,Not Hired,51160.52978674403,10,4,70.40241945526134,36
+1027,Charlie Brown,27,Female,Master,3,"['""Java / Spring""']",HR Manager,Accepted,48.52846891528491,Not Hired,46398.87426350827,9,3,57.06594864796687,34
+1024,David Davis,25,Male,Bachelor,0,"['""Java / Spring""']",Marketing Specialist,Rejected,100.0,Not Hired,35136.139233850685,2,0,81.19276089701592,41
+CAND1045,David Martínez,51,Female,PhD,2,"['""HR / Management""']",HR Manager,Accepted,90.00639878756091,Hired,62970.91619954945,0,2,68.78001309646463,32
+1026,Jane García,25,Female,Master,18,"['""Java / Spring""']",Marketing Specialist,Rejected,100.0,Not Hired,82904.5393516728,10,3,61.24608154924701,43
+1026,Jane Jones,26,Female,High School,16,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,74677.12680895075,10,3,52.398622477805354,43
+CAND1037,Grace Smith,36,Male,High School,14,"['""Java / Spring""']",HR Manager,Rejected,99.12672722297201,Not Hired,75701.50849847346,4,4,92.88361940926802,38
+1026,David Brown,27,Female,High School,18,"['""Java / Spring""']",HR Manager,Rejected,100.0,Not Hired,78730.14034988676,10,3,60.32651861302037,44
+CAND1049,Ivy Miller,30,Male,PhD,15,"['""HR / Management""']",Software Engineer,Accepted,75.38792108488923,Not Hired,80146.82774319415,9,1,100.0,3
+CAND1046,Jane Williams,38,Female,Diploma,3,"['""HR / Management""']",HR Manager,Rejected,81.66199319879586,Not Hired,44464.679502729065,5,4,53.30705864168772,40
+1029,David Rodriguez,46,Male,Bachelor,19,"['""Python / SQL""']",Software Engineer,Rejected,57.35915400079233,Not Hired,30913.95869120925,5,5,75.25264912026437,8
+1027,Bob García,26,Female,PhD,2,"['""Java / Spring""']",Software Engineer,Accepted,59.717409003735064,Not Hired,51048.002631879775,9,3,55.18623316574376,34
+1009,Alice Johnson,31,Female,Bachelor,12,"['""HR / Management""']",HR Manager,Rejected,74.5011238428807,Hired,44648.07439458463,10,0,85.58483787817376,53
+CAND1041,Eve Rodriguez,28,Non-Binary,PhD,8,"['""JavaScript / React""']",Data Analyst,Rejected,77.20524406488126,Not Hired,32453.77901394218,7,4,83.44671592696808,37
+1022,David Williams,44,Non-Binary,Master,8,"['""Data Science / ML""']",Marketing Specialist,Accepted,84.97319177334332,Hired,89327.93409994338,0,5,100.0,50
+CAND1037,Eve Johnson,37,Male,PhD,15,"['""Java / Spring""']",Data Analyst,Rejected,96.42803754583541,Hired,65241.94485755426,4,4,92.86542317965156,34
+1025,Eve Rodriguez,25,Female,Diploma,9,"['""HR / Management""']",HR Manager,Rejected,69.04420716469814,Hired,39028.06398714349,9,4,58.49880988885301,53
+1011,Bob Miller,50,Male,Diploma,0,"['""Data Science / ML""']",Marketing Specialist,Rejected,74.36984713026096,Not Hired,121914.60263062528,5,0,55.872641163406584,31
+1008,Alice Rodriguez,31,Female,Bachelor,21,"['""Java / Spring""']",Marketing Specialist,Accepted,69.74661215756161,Not Hired,110189.3450042223,6,0,82.93156402998616,19
+1004,Ivy Rodriguez,42,Female,Master,20,"['""Data Science / ML""']",Marketing Specialist,Rejected,92.2151250787641,Not Hired,50157.913774141845,7,4,62.01653600189645,15
+CAND1036,David Rodriguez,46,Male,High School,14,"['""HR / Management""']",Marketing Specialist,Pending,84.13103374014933,Not Hired,97544.81612193696,9,0,64.42020633184202,44
+1031,John Rodriguez,30,Male,Diploma,14,"['""Python / SQL""']",Marketing Specialist,Rejected,63.00017240342765,Not Hired,71304.58697575204,9,5,49.90449921303555,34
+1018,Grace Johnson,41,Male,Master,10,"['""Java / Spring""']",Data Analyst,Pending,89.73241714101083,Hired,30835.16559583268,8,1,76.83933814355792,29
+1003,David García,32,Male,Bachelor,22,"['""HR / Management""']",HR Manager,Rejected,79.38904197579832,Not Hired,57388.25599686219,0,3,98.70844554257391,58
+1023,Jane Smith,28,Female,Bachelor,5,"['""Java / Spring""']",Software Engineer,Rejected,43.70615028610176,Not Hired,96428.78302135672,6,1,65.1515901452597,27
+1011,Charlie Martínez,50,Male,Bachelor,0,"['""Data Science / ML""']",Data Analyst,Rejected,80.20918790449947,Not Hired,110443.17091404113,5,0,54.19727563607342,30
+1014,Harry Martínez,42,Male,Master,4,"['""Java / Spring""']",Marketing Specialist,Rejected,73.3672095626439,Not Hired,76537.79604786955,7,3,83.54877947951462,43
+1028,Jane Brown,25,Male,Diploma,12,"['""JavaScript / React""']",Data Analyst,Pending,67.25938630200206,Hired,76026.38868242316,9,3,70.82548660366135,30
+CAND1049,Alice García,32,Male,Diploma,13,"['""HR / Management""']",Software Engineer,Accepted,64.9237226901528,Hired,94786.46136165223,9,1,97.73374660906703,7
+1025,Eve Brown,26,Female,Bachelor,11,"['""HR / Management""']",Data Analyst,Rejected,72.09216062327245,Not Hired,37176.98586044776,9,4,53.656765767367986,54
+1007,John García,22,Non-Binary,Diploma,0,"['""Java / Spring""']",Marketing Specialist,Accepted,74.39618436690671,Not Hired,76567.68667042001,5,3,63.83313823175148,31
+1007,Harry Jones,24,Non-Binary,Master,0,"['""Java / Spring""']",HR Manager,Accepted,73.54358022417524,Hired,73688.91153865337,5,3,64.59651931830952,31
+CAND1044,John Williams,21,Male,High School,15,"['""Java / Spring""']",Marketing Specialist,Rejected,74.43941566238992,Not Hired,62202.70623351567,3,1,52.54751563922247,25
+1017,Eve Martínez,23,Female,Bachelor,10,"['""Java / Spring""']",Data Analyst,Rejected,73.7817404501867,Not Hired,102001.6000260457,0,0,79.6163917344736,37
+1014,Jane Davis,44,Male,Bachelor,3,"['""Java / Spring""']",Software Engineer,Rejected,77.28269504204991,Not Hired,82959.68707480712,7,3,77.6563511070013,33
+CAND1040,Jane Brown,28,Female,Bachelor,11,"['""Java / Spring""']",Marketing Specialist,Rejected,68.42958426567593,Not Hired,34628.27654579727,6,2,69.83885894855402,43
+1034,Grace Rodriguez,49,Male,PhD,18,"['""JavaScript / React""']",Software Engineer,Accepted,87.53000386945186,Not Hired,117216.00377518151,6,4,78.63522650296817,65
+1019,Harry Jones,35,Female,PhD,4,"['""Data Science / ML""']",HR Manager,Pending,52.35902663914286,Hired,91484.84047287842,2,0,69.3277970675401,25
+1020,Charlie García,41,Non-Binary,Bachelor,19,"['""HR / Management""']",Software Engineer,Pending,48.951375971479095,Not Hired,31015.551711786935,5,2,66.75189617037655,15
+1023,Alice García,29,Female,Diploma,7,"['""Java / Spring""']",Marketing Specialist,Rejected,51.031438545452204,Not Hired,94834.22060829683,6,1,69.08448435134461,30
+1026,Alice García,25,Female,High School,17,"['""Java / Spring""']",HR Manager,Rejected,95.19657730017994,Not Hired,82563.22810768461,10,3,54.589321571099134,46
+CAND1036,Charlie Miller,47,Male,Diploma,13,"['""HR / Management""']",Software Engineer,Pending,87.6340861813683,Not Hired,106058.62366505437,9,0,59.34073812695078,40
+1022,John Brown,43,Non-Binary,PhD,8,"['""Data Science / ML""']",Software Engineer,Accepted,86.60317718340231,Hired,80563.2937266843,0,5,100.0,56
+1013,David Davis,29,Female,Diploma,14,"['""Python / SQL""']",Software Engineer,Accepted,95.70248968429104,Hired,104584.76980127548,1,0,70.30195315311224,46
+1024,Charlie Williams,28,Male,High School,0,"['""Java / Spring""']",Data Analyst,Rejected,94.26431020736155,Not Hired,30687.74993857847,2,0,80.4219793988337,34
+1004,Eve Jones,43,Female,Diploma,20,"['""Data Science / ML""']",Marketing Specialist,Rejected,97.00129142055798,Hired,47931.972310423174,7,4,81.31205054215613,15
+1001,Eve Miller,45,Male,Bachelor,18,"['""JavaScript / React""']",HR Manager,Rejected,77.28023014118469,Not Hired,73113.37103788916,9,5,79.3725415086015,61
+1034,Eve Brown,50,Male,Bachelor,18,"['""JavaScript / React""']",Data Analyst,Accepted,87.28871540234061,Not Hired,97757.7439399071,6,4,81.97027907970173,62
+CAND1043,Harry Williams,43,Male,Diploma,11,"['""Data Science / ML""']",Marketing Specialist,Rejected,98.69329935005116,Hired,44895.361189259405,1,4,70.62982168228902,39
+1025,Ivy Miller,22,Female,High School,9,"['""HR / Management""']",Software Engineer,Rejected,80.37127247239175,Hired,38428.017769314356,9,4,59.06512551762732,50
+1027,Bob García,28,Female,PhD,3,"['""Java / Spring""']",Software Engineer,Accepted,46.46769536877378,Not Hired,47139.69809217396,9,3,45.50370539694059,27
+1008,Eve Brown,33,Female,High School,21,"['""Java / Spring""']",Data Analyst,Accepted,72.94537624696797,Not Hired,105367.06355793208,6,0,92.94149563953985,10
+CAND1045,Harry Williams,52,Female,Bachelor,3,"['""HR / Management""']",Software Engineer,Accepted,96.04987104211895,Not Hired,61405.07897210822,0,2,62.21375045022553,36
+1019,Alice Brown,37,Female,Master,6,"['""Data Science / ML""']",Software Engineer,Pending,48.697329989758096,Hired,102170.86345847884,2,0,61.120352729289515,27
+1029,David Miller,47,Male,Master,19,"['""Python / SQL""']",Software Engineer,Rejected,65.24270214609169,Not Hired,32462.424714607503,5,5,80.10983778913193,7
+1012,Harry Martínez,44,Female,Bachelor,2,"['""JavaScript / React""']",Data Analyst,Rejected,65.66503610361856,Not Hired,41069.607778682475,8,1,63.50111703696927,45
+1030,Ivy Miller,42,Female,Master,5,"['""Python / SQL""']",Software Engineer,Accepted,69.36661943281774,Hired,44765.24840100061,7,4,72.65796267712707,23
+1018,David Martínez,41,Male,Master,9,"['""Java / Spring""']",Marketing Specialist,Pending,95.5613712395219,Not Hired,28860.749513256575,8,1,75.04324426400883,20
+1019,Ivy Brown,37,Female,Diploma,6,"['""Data Science / ML""']",HR Manager,Pending,51.2918113049,Not Hired,97618.53568270449,2,0,52.73864695945453,25
+CAND1042,Bob Davis,46,Female,Diploma,11,"['""HR / Management""']",Data Analyst,Accepted,92.07321200182545,Hired,37053.1736008441,9,5,65.23249303333029,42
+CAND1038,Charlie Johnson,33,Male,PhD,9,"['""HR / Management""']",Software Engineer,Accepted,67.08026066417183,Not Hired,67930.74637727848,3,1,54.81773850128076,38
+1019,Eve Brown,37,Female,Diploma,6,"['""Data Science / ML""']",HR Manager,Pending,43.23093697585568,Not Hired,95189.9843137071,2,0,50.29239928503312,20
+1014,Alice Williams,45,Male,Master,5,"['""Java / Spring""']",Software Engineer,Rejected,73.43128835916909,Hired,75091.49349779355,7,3,83.77711681781199,39
+1035,Jane Johnson,34,Male,Diploma,3,"['""Python / SQL""']",Data Analyst,Rejected,95.92256878431117,Hired,77182.35328021224,0,0,69.20628620439436,12
+1024,Alice Rodriguez,27,Male,Diploma,2,"['""Java / Spring""']",Data Analyst,Rejected,97.41797683765085,Not Hired,31316.13831619354,2,0,81.29549898712241,37
+CAND1043,David Brown,44,Male,PhD,11,"['""Data Science / ML""']",HR Manager,Rejected,94.03014992003375,Hired,49734.65904330858,1,4,66.31565547553053,36
+1014,Grace Smith,44,Male,Master,5,"['""Java / Spring""']",HR Manager,Rejected,84.56557684334095,Not Hired,70819.24670507324,7,3,84.50634683574346,38
+CAND1049,Jane Rodriguez,30,Male,Bachelor,15,"['""HR / Management""']",Data Analyst,Accepted,74.94186887140799,Hired,93200.58884407162,9,1,96.43104322730618,11
+1031,Bob Williams,30,Male,Bachelor,13,"['""Python / SQL""']",Software Engineer,Rejected,52.08914180771432,Not Hired,70669.15960024453,9,5,49.451151269005855,42
+1027,David Davis,27,Female,Master,3,"['""Java / Spring""']",Data Analyst,Accepted,58.297684666048305,Not Hired,50470.220335457954,9,3,49.3279210999702,31
+CAND1042,Ivy Smith,45,Female,High School,12,"['""HR / Management""']",HR Manager,Accepted,91.47039218763976,Hired,38816.39494264842,9,5,54.5656676173811,46
+1017,David García,21,Female,High School,9,"['""Java / Spring""']",Software Engineer,Rejected,72.72186874194065,Not Hired,112252.63481635189,0,0,69.33040222180239,36
+CAND1039,John Martínez,28,Female,PhD,2,"['""Java / Spring""']",Data Analyst,Rejected,91.66477532458904,Hired,107821.74004141995,5,1,58.15960360938222,7
+1006,John García,27,Female,High School,18,"['""Python / SQL""']",Data Analyst,Pending,85.36638687038061,Hired,48280.746521540656,1,4,97.85164041684345,40
+1010,Grace Miller,39,Female,Bachelor,9,"['""JavaScript / React""']",Software Engineer,Rejected,95.45543142486966,Not Hired,88353.18810526674,10,3,65.51646440227377,12
+1000,Bob Brown,29,Female,Bachelor,10,"['”HR / Management""']",Data Analyst,Accepted,82.34181837911245,Hired,54893.27927476342,1,2,99.3647811577847,9
+1024,John Jones,26,Male,Master,0,"['""Java / Spring""']",HR Manager,Rejected,100.0,Not Hired,34102.61710638879,2,0,78.397077345032,39
+1011,David Jones,46,Male,Master,0,"['""Data Science / ML""']",Software Engineer,Rejected,88.71921421641035,Not Hired,109812.85963804254,5,0,61.46492329170118,24
+1007,Harry Johnson,23,Non-Binary,Master,0,"['""Java / Spring""']",Marketing Specialist,Accepted,73.16317358730696,Not Hired,76501.87830827195,5,3,71.00677390087667,37
+CAND1036,Alice Miller,46,Male,High School,13,"['""HR / Management""']",HR Manager,Pending,87.2260838827944,Hired,103800.1278701644,9,0,64.56339948997056,44
+1034,Ivy Martínez,48,Male,PhD,19,"['""JavaScript / React""']",Data Analyst,Accepted,92.8336203613358,Hired,113356.03474329098,6,4,75.73022990703927,56
+CAND1044,John Miller,22,Male,PhD,15,"['""Java / Spring""']",Marketing Specialist,Rejected,63.81789426118282,Not Hired,59274.63198814222,3,1,55.338439440542444,28
+CAND1045,Harry Brown,52,Female,Master,3,"['""HR / Management""']",Software Engineer,Accepted,91.19152290319629,Hired,54296.17828083427,0,2,69.4764593802785,37
+1034,Harry Martínez,47,Male,PhD,21,"['""JavaScript / React""']",Software Engineer,Accepted,97.63247269089419,Hired,112230.71673256723,6,4,73.67229590684958,62
+CAND1047,Charlie Williams,45,Female,Master,2,"['""HR / Management""']",Marketing Specialist,Pending,68.37681882350037,Not Hired,44073.51995595169,5,5,83.53059217999709,44
+1022,John Miller,41,Non-Binary,Master,11,"['""Data Science / ML""']",HR Manager,Accepted,87.75535400647506,Hired,83604.93371471907,0,5,97.5730869562679,55
+1019,Grace Rodriguez,35,Female,Bachelor,5,"['""Data Science / ML""']",Data Analyst,Pending,51.53271532195883,Not Hired,99300.86894554111,2,0,50.75794569465272,26
+1035,Jane Martínez,33,Male,High School,5,"['""Python / SQL""']",HR Manager,Rejected,87.74778022599841,Hired,83384.1449321337,0,0,65.55874726132659,13
+CAND1043,John García,41,Male,High School,10,"['""Data Science / ML""']",HR Manager,Rejected,86.435278107752,Hired,50836.764096957755,1,4,69.53511431432251,30
+1032,Grace Martínez,28,Female,Diploma,0,"['""Data Science / ML""']",Data Analyst,Pending,67.63253193628925,Not Hired,50491.275111304945,10,4,61.77824104944959,38
+CAND1042,David Miller,46,Female,High School,12,"['""HR / Management""']",Marketing Specialist,Accepted,82.31756321108011,Not Hired,42390.11035422523,9,5,59.99859442606597,45
+1033,David Rodriguez,46,Male,High School,15,"['""Java / Spring""']",HR Manager,Rejected,90.97490757312656,Not Hired,105452.32948341013,3,0,93.77067115293903,29
+1022,Eve Smith,44,Non-Binary,Diploma,11,"['""Data Science / ML""']",Marketing Specialist,Accepted,87.22457155532877,Hired,88558.36261095987,0,5,100.0,58
+CAND1041,Bob García,30,Non-Binary,High School,5,"['""JavaScript / React""']",Data Analyst,Rejected,87.79529893863234,Not Hired,34475.46008027268,7,4,70.75666431646356,45
+1029,Ivy Smith,44,Male,High School,17,"['""Python / SQL""']",Software Engineer,Rejected,61.80512540068646,Not Hired,30612.854078866756,5,5,76.73987459817359,15
+CAND1047,Grace Miller,48,Female,Bachelor,2,"['""HR / Management""']",Data Analyst,Pending,78.60557923382648,Hired,42134.39314276785,5,5,75.32582705315541,46
+1007,Grace Martínez,24,Non-Binary,High School,2,"['""Java / Spring""']",Software Engineer,Accepted,75.99262950152702,Hired,76017.70578716589,5,3,70.1145769772224,28
+CAND1038,Eve Davis,33,Male,PhD,9,"['""HR / Management""']",Marketing Specialist,Accepted,69.69878535978329,Not Hired,71292.64822862193,3,1,51.9553660023456,39
+1029,Ivy Johnson,44,Male,Master,19,"['""Python / SQL""']",Marketing Specialist,Rejected,61.260810754189414,Not Hired,34115.41119402564,5,5,84.60085421199841,11
+1010,Ivy Smith,41,Female,Diploma,10,"['""JavaScript / React""']",Marketing Specialist,Rejected,100.0,Not Hired,78358.70046347205,10,3,56.25588106024127,15
+1023,Ivy García,28,Female,Bachelor,6,"['""Java / Spring""']",HR Manager,Rejected,45.35616229587731,Not Hired,101688.31800659126,6,1,72.64316838231171,22
+1016,Eve Jones,28,Male,PhD,22,"['""HR / Management""']",Data Analyst,Pending,78.65945703098895,Hired,35179.69358135604,8,2,52.8999979436711,46
+1023,Jane Miller,30,Female,High School,7,"['""Java / Spring""']",HR Manager,Rejected,60.94153436432781,Not Hired,104259.96564144404,6,1,66.85496251495663,27
+1013,Alice Johnson,31,Female,Bachelor,13,"['""Python / SQL""']",HR Manager,Accepted,89.72734526138176,Hired,95376.0230417569,1,0,57.05707896480891,48
+1015,David Miller,29,Female,Bachelor,5,"['""Data Science / ML""']",HR Manager,Rejected,100.0,Not Hired,36855.72819401145,7,5,89.45231113761979,40
+1022,Harry Jones,45,Non-Binary,PhD,11,"['""Data Science / ML""']",Marketing Specialist,Accepted,77.30502152995899,Not Hired,76707.73551752248,0,5,94.69449590658431,50
+1003,Jane García,34,Male,Diploma,22,"['""HR / Management""']",Software Engineer,Rejected,77.73361658054809,Not Hired,56179.05995075703,0,3,91.49214264365307,58
+1007,Jane Jones,20,Non-Binary,Bachelor,0,"['""Java / Spring""']",Data Analyst,Accepted,83.32574375350197,Hired,69360.32768269318,5,3,62.63286743422078,32
+1027,Alice Johnson,26,Female,Diploma,1,"['""Java / Spring""']",HR Manager,Accepted,45.44806726760254,Hired,53598.46196362843,9,3,56.05679764170802,27
+1004,Alice Rodriguez,42,Female,Bachelor,18,"['""Data Science / ML""']",HR Manager,Rejected,89.67466294941218,Not Hired,49216.159580208725,7,4,65.39339164706054,14
+1005,David Rodriguez,49,Male,PhD,2,"['""Java / Spring""']",HR Manager,Rejected,89.8792401513407,Not Hired,60895.107428946605,10,0,61.16673240657603,57
+1012,Grace Miller,41,Female,Bachelor,2,"['""JavaScript / React""']",Software Engineer,Rejected,68.03318585370499,Not Hired,38368.59253838926,8,1,70.10016091672668,51
+1033,Harry Miller,47,Male,PhD,12,"['""Java / Spring""']",Data Analyst,Rejected,97.02500113314538,Not Hired,118742.45806015618,3,0,89.751458557968,19
+1028,Bob Davis,26,Male,PhD,13,"['""JavaScript / React""']",Marketing Specialist,Pending,71.65769065026738,Hired,72699.55296121206,9,3,77.18864735559818,26
+1010,John Jones,38,Female,High School,11,"['""JavaScript / React""']",HR Manager,Rejected,100.0,Not Hired,85028.92356976248,10,3,68.84756631542939,17
+1007,David Miller,21,Non-Binary,Bachelor,0,"['""Java / Spring""']",HR Manager,Accepted,78.43854213924092,Not Hired,72803.22489390246,5,3,56.56810443340992,31
+1010,Grace Brown,38,Female,Diploma,11,"['""JavaScript / React""']",Data Analyst,Rejected,100.0,Not Hired,74641.94585281168,10,3,63.40981464789941,15
+1007,Bob Smith,24,Non-Binary,Bachelor,1,"['""Java / Spring""']",Software Engineer,Accepted,81.15957734413044,Not Hired,71522.0491957935,5,3,55.784224694308755,34
+1023,Harry Miller,28,Female,Diploma,6,"['""Java / Spring""']",HR Manager,Rejected,49.85848847169307,Hired,105616.54350152866,6,1,66.43058716614642,24
+1033,Charlie Williams,46,Male,PhD,15,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,109415.58924900477,3,0,97.28783389734618,22
+CAND1037,Bob Jones,38,Male,Master,17,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,72602.99430666816,4,4,91.03793734902658,30
+CAND1045,Alice Smith,52,Female,High School,3,"['""HR / Management""']",Marketing Specialist,Accepted,90.11423455348833,Hired,56645.64306328301,0,2,68.16709764780121,29
+1017,John Miller,21,Female,Diploma,9,"['""Java / Spring""']",Marketing Specialist,Rejected,71.81423079611703,Not Hired,111176.08063312752,0,0,70.59896128127124,38
+CAND1037,Charlie Martínez,37,Male,Master,15,"['""Java / Spring""']",Software Engineer,Rejected,94.46396853959851,Not Hired,71876.57250231506,4,4,97.90912947351079,37
+1000,Jane Rodriguez,26,Female,Diploma,12,"['”HR / Management""']",Software Engineer,Accepted,76.68222548409352,Hired,54478.678187571684,1,2,94.63110575605481,16
+1004,Harry Johnson,45,Female,Diploma,18,"['""Data Science / ML""']",Data Analyst,Rejected,100.0,Not Hired,51615.37058451663,7,4,76.86855957149639,9
+CAND1042,David Brown,47,Female,Master,12,"['""HR / Management""']",Data Analyst,Accepted,83.63977476530432,Hired,37532.51653874961,9,5,60.209181638904646,41
+1018,Ivy Smith,40,Male,PhD,11,"['""Java / Spring""']",Software Engineer,Pending,84.44994650408127,Not Hired,28230.137460538383,8,1,74.7445563667477,25
+1014,Bob Rodriguez,45,Male,High School,2,"['""Java / Spring""']",Data Analyst,Rejected,72.15741964972636,Not Hired,70158.3203772239,7,3,90.09487384713846,35
+1033,John Rodriguez,47,Male,Diploma,14,"['""Java / Spring""']",HR Manager,Rejected,94.85409995125993,Not Hired,105242.18423289446,3,0,96.0102769253407,19
+1019,Bob Jones,36,Female,PhD,5,"['""Data Science / ML""']",HR Manager,Pending,54.67740054884074,Hired,93390.53484552841,2,0,56.12836318639306,21
+1007,Charlie Williams,23,Non-Binary,Diploma,0,"['""Java / Spring""']",Software Engineer,Accepted,78.12289100456617,Not Hired,80236.8557362989,5,3,58.543689874211765,31
+1013,Harry Miller,27,Female,Bachelor,15,"['""Python / SQL""']",Data Analyst,Accepted,85.44017236393542,Hired,105181.601140052,1,0,68.03100819944528,50
+1006,David Johnson,30,Female,Bachelor,20,"['""Python / SQL""']",Marketing Specialist,Pending,91.37342252942847,Not Hired,55695.35418796901,1,4,98.28191915887233,33
+CAND1042,Eve Davis,46,Female,Bachelor,12,"['""HR / Management""']",Data Analyst,Accepted,88.17269942869352,Hired,37084.71660628914,9,5,53.56129150656073,49
+CAND1039,Charlie Davis,31,Female,High School,2,"['""Java / Spring""']",Data Analyst,Rejected,95.27324680217909,Not Hired,98116.52853809092,5,1,65.40647211830476,5
+CAND1048,Bob Jones,37,Male,PhD,7,"['""JavaScript / React""']",Data Analyst,Accepted,87.78575299383992,Hired,57830.69468329399,3,3,70.06646214497013,47
+CAND1042,Ivy Jones,47,Female,Diploma,13,"['""HR / Management""']",HR Manager,Accepted,86.12631758107509,Hired,38964.84991795534,9,5,61.248710264251976,41
+1005,Alice Miller,47,Male,Diploma,2,"['""Java / Spring""']",Software Engineer,Rejected,87.70023691581389,Not Hired,61503.79561304722,10,0,58.889517228577034,55
+CAND1043,Bob Johnson,42,Male,High School,9,"['""Data Science / ML""']",Marketing Specialist,Rejected,86.1882263430538,Not Hired,45923.292139305326,1,4,74.2015124893145,34
+1023,Ivy Martínez,29,Female,Master,7,"['""Java / Spring""']",Software Engineer,Rejected,58.02713416038105,Hired,98538.89723519252,6,1,65.65599699748758,24
+1014,Harry Brown,45,Male,Master,2,"['""Java / Spring""']",Marketing Specialist,Rejected,72.51510872132323,Not Hired,80989.55526720341,7,3,84.35609937343548,34
+1035,David Williams,36,Male,Bachelor,5,"['""Python / SQL""']",HR Manager,Rejected,90.73602280049896,Not Hired,74774.01233710897,0,0,78.0247736945573,8
+CAND1044,David Williams,21,Male,Master,18,"['""Java / Spring""']",Software Engineer,Rejected,68.17257611102647,Not Hired,59498.293136266846,3,1,49.6719440923926,25
+1033,John Jones,48,Male,Bachelor,12,"['""Java / Spring""']",HR Manager,Rejected,96.44054677076397,Not Hired,114557.72903253541,3,0,94.85645272285929,26
+1011,Jane Miller,50,Male,Diploma,0,"['""Data Science / ML""']",Software Engineer,Rejected,83.81968159990353,Not Hired,110685.56823843997,5,0,56.83200877266466,26
+CAND1048,Charlie Williams,38,Male,High School,6,"['""JavaScript / React""']",Data Analyst,Accepted,85.34080978900377,Hired,59522.29281892313,3,3,57.08804745598678,45
+1002,Grace Brown,36,Female,PhD,13,"['""Python / SQL""']",Marketing Specialist,Pending,52.90596627690282,Not Hired,96796.33522743362,9,0,69.56994509676562,49
+1030,Grace Brown,40,Female,PhD,5,"['""Python / SQL""']",HR Manager,Accepted,59.29905006038971,Hired,44887.772478577375,7,4,65.56295649102992,18
+1032,Alice Johnson,28,Female,Bachelor,3,"['""Data Science / ML""']",HR Manager,Pending,56.950633450812106,Hired,51987.47577064754,10,4,52.55400758985989,29
+1028,Charlie Smith,24,Male,High School,14,"['""JavaScript / React""']",Marketing Specialist,Pending,68.55698507313927,Not Hired,83876.39639574384,9,3,74.77836406276275,24
+1006,Eve Davis,31,Female,PhD,18,"['""Python / SQL""']",Data Analyst,Pending,84.1903757631522,Not Hired,50439.77666649954,1,4,88.86633069286259,38
+CAND1048,Alice Brown,39,Male,Bachelor,6,"['""JavaScript / React""']",Software Engineer,Accepted,86.26420447952636,Hired,65550.06806254653,3,3,65.65082554144885,38
+1024,Jane Smith,27,Male,Bachelor,1,"['""Java / Spring""']",Data Analyst,Rejected,94.60806715530379,Not Hired,33743.559876538,2,0,77.17822017293207,37
+1004,Harry Miller,43,Female,PhD,20,"['""Data Science / ML""']",Software Engineer,Rejected,100.0,Hired,53198.0615667044,7,4,69.64435628446728,15
+1018,John Jones,39,Male,Diploma,9,"['""Java / Spring""']",Marketing Specialist,Pending,92.75601823280962,Not Hired,30417.929869591742,8,1,77.06727807679465,22
+CAND1046,Grace Martínez,40,Female,PhD,3,"['""HR / Management""']",Data Analyst,Rejected,78.7346534092741,Not Hired,43175.9903665665,5,4,63.16145698013145,35
+1022,Eve Martínez,42,Non-Binary,Diploma,8,"['""Data Science / ML""']",HR Manager,Accepted,80.91893334408336,Hired,75450.8384755553,0,5,95.32944601033387,59
+CAND1045,Ivy Williams,48,Female,Master,4,"['""HR / Management""']",Marketing Specialist,Accepted,94.53529030414455,Hired,59272.97921352656,0,2,66.22730001107958,35
+CAND1041,Grace Brown,30,Non-Binary,PhD,6,"['""JavaScript / React""']",HR Manager,Rejected,76.30309288487115,Not Hired,33698.044741839454,7,4,75.52706637725336,38
+1013,Grace Brown,31,Female,Master,14,"['""Python / SQL""']",Data Analyst,Accepted,99.37327154574471,Hired,102957.9226788842,1,0,58.263668531674725,53
+1028,Jane Johnson,27,Male,PhD,12,"['""JavaScript / React""']",Marketing Specialist,Pending,71.20360677682227,Hired,73075.5769499146,9,3,78.87132063953563,28
+1028,Alice Smith,27,Male,PhD,12,"['""JavaScript / React""']",Software Engineer,Pending,67.19944345053358,Not Hired,83841.30852618598,9,3,83.16629023782068,27
+CAND1043,Charlie Smith,43,Male,Diploma,9,"['""Data Science / ML""']",Marketing Specialist,Rejected,88.53339440020522,Not Hired,45133.10943013436,1,4,71.25636679815115,31
+1002,Charlie Brown,33,Female,PhD,11,"['""Python / SQL""']",Marketing Specialist,Pending,52.37950858993134,Hired,84943.18327519813,9,0,61.136341430654625,45
+1034,John Miller,51,Male,High School,19,"['""JavaScript / React""']",Software Engineer,Accepted,90.35542828564948,Hired,104495.51230509096,6,4,74.07706601406069,57
+1015,Jane Brown,29,Female,Master,8,"['""Data Science / ML""']",Data Analyst,Rejected,100.0,Not Hired,34396.93339366127,7,5,80.48636641382204,33
+1026,Jane Davis,25,Female,Diploma,18,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Hired,82931.51326899961,10,3,42.703369380069184,42
+1012,Alice García,43,Female,High School,2,"['""JavaScript / React""']",HR Manager,Rejected,60.89021167388984,Not Hired,43004.405034789204,8,1,72.8734079569006,53
+1007,Jane Davis,23,Non-Binary,Master,2,"['""Java / Spring""']",Marketing Specialist,Accepted,75.70835970015091,Not Hired,74378.37686532323,5,3,60.720965901756,31
+1001,John Williams,41,Male,Diploma,15,"['""JavaScript / React""']",Data Analyst,Rejected,79.9302519010202,Not Hired,87781.23883915809,9,5,74.19130273141286,60
+CAND1037,Charlie Rodriguez,36,Male,Bachelor,17,"['""Java / Spring""']",HR Manager,Rejected,99.9246495667604,Not Hired,71180.61920656958,4,4,100.0,33
+1030,Jane Williams,39,Female,Diploma,4,"['""Python / SQL""']",Data Analyst,Accepted,69.27763776597226,Not Hired,51742.01940212057,7,4,72.05963469714636,24
+1031,John Davis,31,Male,Bachelor,13,"['""Python / SQL""']",Data Analyst,Rejected,70.66016418337634,Not Hired,77261.83858150455,9,5,44.95097269230625,33
+1029,Ivy Davis,46,Male,Diploma,17,"['""Python / SQL""']",Marketing Specialist,Rejected,55.86588760021079,Not Hired,28700.923489814195,5,5,74.18904570736133,9
+1002,Grace Miller,36,Female,High School,14,"['""Python / SQL""']",Marketing Specialist,Pending,60.83786192503567,Hired,98800.85156233769,9,0,69.69595126238644,48
+1035,Harry Brown,35,Male,PhD,6,"['""Python / SQL""']",Marketing Specialist,Rejected,88.79248702941301,Not Hired,83402.05304569886,0,0,74.16974150568194,18
+CAND1038,Harry Jones,32,Male,Master,10,"['""HR / Management""']",HR Manager,Accepted,73.16783713700114,Hired,62144.72669874231,3,1,60.350887545435654,40
+1018,Jane Smith,39,Male,Bachelor,10,"['""Java / Spring""']",Marketing Specialist,Pending,94.60749452943156,Not Hired,30333.162042844677,8,1,79.26371964866168,29
+1002,John Davis,36,Female,Diploma,13,"['""Python / SQL""']",Marketing Specialist,Pending,52.609173054823096,Not Hired,96480.04748867315,9,0,58.5168895489127,43
+CAND1039,Alice Brown,29,Female,Bachelor,3,"['""Java / Spring""']",HR Manager,Rejected,100.0,Not Hired,118509.57450583785,5,1,67.82516173508306,13
+1031,Ivy García,34,Male,High School,11,"['""Python / SQL""']",Marketing Specialist,Rejected,65.28394140189057,Not Hired,70387.85022446491,9,5,53.48730826151366,33
+1014,Ivy Rodriguez,42,Male,Bachelor,3,"['""Java / Spring""']",Software Engineer,Rejected,84.71350248291789,Not Hired,75900.5858964345,7,3,83.89629276656957,36
+CAND1042,Jane Jones,45,Female,Diploma,10,"['""HR / Management""']",HR Manager,Accepted,82.42824439540341,Hired,41038.55254908184,9,5,59.26850456272496,40
+1006,Eve Davis,27,Female,Bachelor,18,"['""Python / SQL""']",Software Engineer,Pending,84.12244449057283,Not Hired,53283.03774058047,1,4,100.0,43
+1016,David Brown,25,Male,High School,22,"['""HR / Management""']",HR Manager,Pending,79.39943513614315,Not Hired,36840.73873463773,8,2,53.12148666721391,50
+1012,Grace Smith,44,Female,PhD,1,"['""JavaScript / React""']",Data Analyst,Rejected,54.23202095786384,Hired,42430.62660306574,8,1,69.34060054251582,52
+1035,Eve Johnson,36,Male,PhD,5,"['""Python / SQL""']",HR Manager,Rejected,100.0,Not Hired,74518.64448100496,0,0,71.13144094344065,17
+CAND1042,Bob Williams,45,Female,Bachelor,13,"['""HR / Management""']",HR Manager,Accepted,91.77280288584615,Hired,38294.522006142484,9,5,66.50440435328706,48
+1025,Ivy Miller,24,Female,Diploma,11,"['""HR / Management""']",Software Engineer,Rejected,81.14714768716452,Hired,37837.85037524178,9,4,53.728835908787836,48
+1012,Grace Davis,40,Female,Bachelor,0,"['""JavaScript / React""']",Marketing Specialist,Rejected,62.44284952492022,Hired,39059.37409394644,8,1,64.99035196223754,53
+1033,Harry Miller,48,Male,PhD,15,"['""Java / Spring""']",Software Engineer,Rejected,96.28279345896793,Hired,102578.48744545496,3,0,85.51429317170575,29
+1017,Alice Brown,24,Female,High School,11,"['""Java / Spring""']",HR Manager,Rejected,70.42435228788949,Not Hired,105005.75900365588,0,0,75.56309996726539,34
+CAND1039,Alice Smith,29,Female,High School,4,"['""Java / Spring""']",HR Manager,Rejected,96.92825341704541,Not Hired,109438.40008460953,5,1,61.60009935651513,6
+CAND1039,Bob Martínez,29,Female,High School,2,"['""Java / Spring""']",Data Analyst,Rejected,98.87255051991094,Hired,98681.47849461982,5,1,65.57784259935832,14
+1026,Alice Martínez,26,Female,Diploma,19,"['""Java / Spring""']",Data Analyst,Rejected,95.75583866247615,Not Hired,68862.2187216624,10,3,56.975803144845436,40
+1031,Ivy Smith,32,Male,Bachelor,14,"['""Python / SQL""']",HR Manager,Rejected,56.92086406252175,Not Hired,77867.30791030926,9,5,55.137788622001054,42
+1017,Eve Johnson,24,Female,Diploma,11,"['""Java / Spring""']",HR Manager,Rejected,68.07826477259033,Not Hired,110658.14397032242,0,0,77.57373143022951,38
+CAND1048,Charlie Williams,41,Male,Diploma,8,"['""JavaScript / React""']",HR Manager,Accepted,85.19879727354665,Hired,55112.608617019876,3,3,59.68362083658752,43
+1009,Eve Brown,33,Female,Bachelor,14,"['""HR / Management""']",Marketing Specialist,Rejected,83.03661133883982,Not Hired,43861.93746444776,10,0,78.87781861187055,54
+CAND1049,Charlie Rodriguez,30,Male,PhD,16,"['""HR / Management""']",HR Manager,Accepted,75.5989412045968,Hired,79785.67940090153,9,1,95.97848705886024,6
+CAND1043,Ivy García,42,Male,High School,9,"['""Data Science / ML""']",Software Engineer,Rejected,94.55720909333742,Not Hired,45485.04984471799,1,4,77.23156466720704,32
+1014,Grace García,42,Male,Master,3,"['""Java / Spring""']",Data Analyst,Rejected,67.23518757687594,Not Hired,82784.95688494253,7,3,82.27516291830474,34
+CAND1038,Ivy Smith,31,Male,PhD,10,"['""HR / Management""']",HR Manager,Accepted,68.21065256349073,Not Hired,66989.48543598772,3,1,64.74009656977438,42
+1001,Charlie Smith,42,Male,Master,17,"['""JavaScript / React""']",Software Engineer,Rejected,77.52928878845579,Not Hired,76016.24319601306,9,5,70.59023916141521,56
+CAND1041,Eve García,29,Non-Binary,Master,5,"['""JavaScript / React""']",Marketing Specialist,Rejected,71.99337096352801,Not Hired,30227.58889202465,7,4,80.15273432918936,45
+1035,Eve Johnson,36,Male,PhD,4,"['""Python / SQL""']",Marketing Specialist,Rejected,100.0,Not Hired,78680.39175203463,0,0,70.12228130367292,12
+1032,Alice Jones,27,Female,Bachelor,1,"['""Data Science / ML""']",Data Analyst,Pending,61.770355294041615,Hired,51511.18734007787,10,4,68.36594630950496,30
+1018,Charlie Miller,41,Male,PhD,8,"['""Java / Spring""']",Data Analyst,Pending,89.65927219827098,Not Hired,31061.75277375672,8,1,73.83177753007053,20
+CAND1049,David Davis,31,Male,High School,13,"['""HR / Management""']",HR Manager,Accepted,75.78840983083933,Hired,88407.60292778355,9,1,98.15031339473748,9
+1032,David Rodriguez,26,Female,Diploma,3,"['""Data Science / ML""']",Software Engineer,Pending,65.5829757825145,Hired,52810.69468199816,10,4,64.73488766191143,37
+1032,Charlie Johnson,27,Female,Master,1,"['""Data Science / ML""']",Data Analyst,Pending,64.21661317407273,Not Hired,50777.46378384752,10,4,65.80350390865497,37
+1025,Charlie Miller,23,Female,Bachelor,12,"['""HR / Management""']",Software Engineer,Rejected,68.04623160986823,Not Hired,39367.48416402091,9,4,56.25778646734235,57
+CAND1049,Bob Smith,33,Male,Bachelor,14,"['""HR / Management""']",Marketing Specialist,Accepted,76.58980406806097,Hired,79685.2872164528,9,1,100.0,2
+1031,Eve Johnson,32,Male,Diploma,12,"['""Python / SQL""']",Software Engineer,Rejected,64.98357465633887,Not Hired,76695.70539808628,9,5,52.70145144490716,41
+CAND1046,Grace Martínez,40,Female,Master,3,"['""HR / Management""']",Data Analyst,Rejected,84.24968308298158,Hired,41575.588259490025,5,4,54.32436365064643,33
+1011,John Johnson,49,Male,Bachelor,2,"['""Data Science / ML""']",Software Engineer,Rejected,72.19836824841556,Not Hired,127043.00170849173,5,0,45.9486563801411,30
+1034,Eve Smith,49,Male,High School,18,"['""JavaScript / React""']",HR Manager,Accepted,94.68177643375272,Hired,117609.46362399272,6,4,69.8702739363753,56
+CAND1041,Alice Brown,29,Non-Binary,High School,5,"['""JavaScript / React""']",Software Engineer,Rejected,70.94654465873138,Not Hired,30964.18164241387,7,4,77.07928507191212,39
+1032,Grace Davis,27,Female,Bachelor,0,"['""Data Science / ML""']",Data Analyst,Pending,52.436671683434994,Hired,51199.51764197492,10,4,58.72853651713052,30
+1023,Charlie García,26,Female,High School,6,"['""Java / Spring""']",HR Manager,Rejected,53.08580508558622,Not Hired,101677.61502156417,6,1,70.45848562142389,26
+CAND1036,Grace Miller,46,Male,Diploma,11,"['""HR / Management""']",Marketing Specialist,Pending,91.1732333174203,Not Hired,109836.8066172964,9,0,63.98706044630468,36
+CAND1049,Jane Miller,33,Male,Master,15,"['""HR / Management""']",Software Engineer,Accepted,78.84912471756132,Hired,79134.32124612214,9,1,96.14836431304558,7
+1009,Grace Johnson,33,Female,PhD,13,"['""HR / Management""']",HR Manager,Rejected,68.38408203751102,Not Hired,37487.184292552294,10,0,92.62896533794229,54
+1014,Jane Miller,44,Male,Diploma,5,"['""Java / Spring""']",Software Engineer,Rejected,68.58329852233558,Not Hired,80548.61748088272,7,3,84.38252479219832,33
+1034,Jane Martínez,48,Male,PhD,18,"['""JavaScript / React""']",Marketing Specialist,Accepted,92.83659256649005,Hired,111191.43349914755,6,4,76.83816987822547,59
+1001,Eve Jones,45,Male,Master,17,"['""JavaScript / React""']",HR Manager,Rejected,81.86443970326633,Hired,77316.50828850313,9,5,68.37965063078828,57
+1034,Grace García,48,Male,High School,21,"['""JavaScript / React""']",Marketing Specialist,Accepted,95.2252979886579,Not Hired,114426.10347304503,6,4,74.40182868653912,57
+1035,Bob Johnson,33,Male,PhD,3,"['""Python / SQL""']",Software Engineer,Rejected,99.37509301842604,Not Hired,82628.35728145778,0,0,73.8446079301766,18
+CAND1042,Harry García,45,Female,Master,13,"['""HR / Management""']",Marketing Specialist,Accepted,87.07323120059274,Hired,42471.50548620043,9,5,58.5541332157173,42
+1008,John García,34,Female,Diploma,21,"['""Java / Spring""']",Data Analyst,Accepted,69.59743167620348,Not Hired,105083.51546740124,6,0,87.64529733307698,18
+1021,David Williams,31,Male,PhD,18,"['""Python / SQL""']",HR Manager,Accepted,61.96814238108983,Not Hired,101778.01235717461,8,4,60.28378582829643,50
+1021,Ivy Williams,33,Male,High School,18,"['""Python / SQL""']",Marketing Specialist,Accepted,65.43063884456623,Hired,96124.61595907754,8,4,59.46368557925423,50
+CAND1038,Ivy Jones,31,Male,PhD,11,"['""HR / Management""']",Data Analyst,Accepted,70.97735623009457,Hired,65347.00960028152,3,1,54.73907143552901,39
+CAND1037,Grace Williams,35,Male,PhD,16,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Hired,66842.82080750138,4,4,92.47225615148885,31
+CAND1046,Harry Johnson,39,Female,Bachelor,4,"['""HR / Management""']",HR Manager,Rejected,77.19952618027635,Hired,45057.91659090467,5,4,56.77780907870203,43
+1018,Charlie Davis,39,Male,Bachelor,10,"['""Java / Spring""']",Software Engineer,Pending,93.66743545869642,Hired,33057.37298372682,8,1,73.57099743494103,23
+1010,Charlie Smith,39,Female,Master,10,"['""JavaScript / React""']",HR Manager,Rejected,99.31885714392762,Hired,80001.36323299311,10,3,65.65304554111013,20
+1023,David Miller,28,Female,PhD,6,"['""Java / Spring""']",HR Manager,Rejected,48.03524749642509,Not Hired,89778.34019161588,6,1,60.95768089404628,30
+1003,David Williams,31,Male,Master,21,"['""HR / Management""']",HR Manager,Rejected,88.38118582961721,Not Hired,60298.74641887389,0,3,95.55193846473819,54
+1029,Grace Rodriguez,48,Male,Bachelor,18,"['""Python / SQL""']",HR Manager,Rejected,62.407761268656714,Hired,29305.1494412429,5,5,73.80665143007535,14
+1030,John Williams,42,Female,PhD,4,"['""Python / SQL""']",Software Engineer,Accepted,64.5848574432016,Hired,53739.58690232396,7,4,64.72158717176882,19
+1007,John Johnson,22,Non-Binary,PhD,0,"['""Java / Spring""']",Software Engineer,Accepted,73.05068298895098,Not Hired,70820.8202667255,5,3,61.25018077217616,30
+1001,Grace Jones,45,Male,Master,17,"['""JavaScript / React""']",Marketing Specialist,Rejected,84.90243166094227,Not Hired,87740.19496050288,9,5,64.60464601943762,54
+CAND1047,Jane Brown,46,Female,High School,1,"['""HR / Management""']",Software Engineer,Pending,67.47560868227352,Hired,39782.799204639756,5,5,92.28667180816554,39
+1000,John Smith,25,Female,Diploma,12,"['”HR / Management""']",HR Manager,Accepted,90.45660648682369,Not Hired,54054.207010124,1,2,93.7095574463828,9
+CAND1039,Grace Miller,32,Female,Bachelor,4,"['""Java / Spring""']",Software Engineer,Rejected,92.0207103863986,Not Hired,102673.25479380791,5,1,55.5534291857459,5
+1000,Harry Jones,26,Female,High School,11,"['”HR / Management""']",Marketing Specialist,Accepted,86.18361180636856,Hired,57917.33497538558,1,2,97.8464288693732,9
+1003,Jane Martínez,34,Male,Diploma,20,"['""HR / Management""']",Data Analyst,Rejected,88.18749460491424,Hired,58287.70650475722,0,3,94.32449135617323,57
+CAND1048,Harry Johnson,41,Male,Master,9,"['""JavaScript / React""']",Software Engineer,Accepted,87.73882104847534,Not Hired,60162.132045152684,3,3,59.603560308943784,47
+CAND1046,Jane Williams,37,Female,PhD,6,"['""HR / Management""']",Software Engineer,Rejected,82.60592099034567,Not Hired,45677.30537356807,5,4,56.59561894362191,40
+1017,Grace Davis,21,Female,Master,8,"['""Java / Spring""']",HR Manager,Rejected,73.10086386235204,Not Hired,101948.14576296517,0,0,68.62267457687304,39
+1034,Eve Brown,50,Male,High School,20,"['""JavaScript / React""']",Data Analyst,Accepted,99.05890542337279,Not Hired,100602.30507718603,6,4,70.2776473015004,59
+1016,Harry Jones,29,Male,Bachelor,19,"['""HR / Management""']",Software Engineer,Pending,82.3521409735089,Hired,39618.78958075255,8,2,66.8978672653596,41
+1022,John Johnson,43,Non-Binary,PhD,10,"['""Data Science / ML""']",Data Analyst,Accepted,90.48661457169928,Hired,90778.55008342213,0,5,100.0,59
+1028,Ivy Smith,28,Male,Bachelor,13,"['""JavaScript / React""']",HR Manager,Pending,72.85733504006365,Not Hired,72969.89888824693,9,3,78.40107503776925,32
+1007,John Rodriguez,20,Non-Binary,PhD,0,"['""Java / Spring""']",HR Manager,Accepted,73.34166276445569,Not Hired,70052.9758507877,5,3,54.70745682463329,37
+1015,David Davis,31,Female,Master,7,"['""Data Science / ML""']",Software Engineer,Rejected,100.0,Hired,35722.85414621364,7,5,82.56178774176779,32
+1023,Grace García,26,Female,PhD,4,"['""Java / Spring""']",Marketing Specialist,Rejected,51.046993970709764,Hired,98922.06341826225,6,1,66.24667383962783,28
+1001,David Johnson,42,Male,High School,15,"['""JavaScript / React""']",HR Manager,Rejected,77.9622960311654,Not Hired,72653.78092093971,9,5,70.80383215371495,63
+1016,Harry García,26,Male,Master,19,"['""HR / Management""']",HR Manager,Pending,82.34981623980981,Not Hired,39177.463302964585,8,2,52.73942937211308,44
+1011,Bob García,46,Male,PhD,0,"['""Data Science / ML""']",Data Analyst,Rejected,92.2012277181078,Not Hired,116742.96216390128,5,0,64.81285618986199,27
+1033,Alice Johnson,46,Male,Diploma,15,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,112417.79595776011,3,0,94.24949105136399,19
+1025,Bob Brown,23,Female,PhD,9,"['""HR / Management""']",Data Analyst,Rejected,73.88654084655165,Not Hired,41352.48683673602,9,4,58.67989571726519,56
+CAND1044,Jane Miller,21,Male,Diploma,18,"['""Java / Spring""']",Marketing Specialist,Rejected,72.01265944775452,Hired,52779.41541075553,3,1,56.71428087891763,22
+1011,Ivy Brown,47,Male,Diploma,2,"['""Data Science / ML""']",HR Manager,Rejected,82.44288066385451,Hired,124787.98715031687,5,0,62.31126026239983,28
+1007,Harry Jones,24,Non-Binary,PhD,2,"['""Java / Spring""']",Data Analyst,Accepted,74.12755703575424,Not Hired,71410.71258132163,5,3,69.3062042552394,36
+CAND1043,Bob Brown,42,Male,PhD,10,"['""Data Science / ML""']",Marketing Specialist,Rejected,88.8749447587177,Hired,50129.94422792316,1,4,71.96520475648784,38
+1015,Grace Rodriguez,31,Female,High School,8,"['""Data Science / ML""']",Marketing Specialist,Rejected,98.4179345817848,Hired,35958.96714159677,7,5,88.29878051894414,38
+CAND1044,Charlie Martínez,21,Male,Master,17,"['""Java / Spring""']",HR Manager,Rejected,71.10592277618086,Hired,59166.60886338877,3,1,52.59834537507329,31
+CAND1048,Alice Jones,39,Male,High School,8,"['""JavaScript / React""']",Marketing Specialist,Accepted,84.6634898858961,Not Hired,59491.3951257318,3,3,66.83105098401884,38
+CAND1040,Charlie Smith,29,Female,PhD,11,"['""Java / Spring""']",Data Analyst,Rejected,65.7057204210938,Not Hired,35256.82979027175,6,2,60.583794634677425,47
+1034,Alice García,49,Male,PhD,20,"['""JavaScript / React""']",HR Manager,Accepted,94.03684974868179,Hired,111549.53475078534,6,4,83.17185774586503,55
+CAND1042,Alice Martínez,49,Female,PhD,10,"['""HR / Management""']",HR Manager,Accepted,95.5221733950595,Hired,42287.72411945447,9,5,62.76965349303933,43
+CAND1046,Ivy Miller,38,Female,PhD,4,"['""HR / Management""']",Software Engineer,Rejected,78.23951270685205,Hired,48107.46770872455,5,4,66.58966500994748,37
+CAND1043,Charlie Johnson,41,Male,PhD,9,"['""Data Science / ML""']",Data Analyst,Rejected,89.21968071812408,Not Hired,49343.36458371431,1,4,71.85741907323305,31
+1012,Harry Miller,42,Female,High School,1,"['""JavaScript / React""']",Data Analyst,Rejected,62.95943057503063,Hired,42335.30471916221,8,1,73.14510815376376,47
+CAND1041,Harry Johnson,30,Non-Binary,Diploma,5,"['""JavaScript / React""']",Data Analyst,Rejected,81.13020960816563,Not Hired,29767.569100165656,7,4,76.86090050213227,37
+CAND1038,Charlie Miller,29,Male,Diploma,9,"['""HR / Management""']",Software Engineer,Accepted,68.2961864098838,Hired,60748.711063944495,3,1,55.052470609016694,36
+CAND1040,Alice Brown,27,Female,Master,11,"['""Java / Spring""']",Marketing Specialist,Rejected,56.013112318442055,Not Hired,35448.74930060812,6,2,76.31393741523888,47
+1026,Ivy Rodriguez,26,Female,Diploma,18,"['""Java / Spring""']",Data Analyst,Rejected,99.85503154872121,Hired,70273.25472039884,10,3,52.915555596357315,43
+1012,Jane Jones,44,Female,Diploma,0,"['""JavaScript / React""']",HR Manager,Rejected,60.33921063015494,Not Hired,40121.072392299604,8,1,61.873208177326646,51
+CAND1047,Eve Johnson,45,Female,High School,4,"['""HR / Management""']",Software Engineer,Pending,77.05182264036631,Not Hired,39980.05858746024,5,5,89.11074665573544,38
+CAND1044,Bob Davis,21,Male,Master,16,"['""Java / Spring""']",Software Engineer,Rejected,65.33090304338464,Not Hired,56196.4538411259,3,1,53.036975820011854,22
+1023,John Brown,29,Female,Bachelor,4,"['""Java / Spring""']",Software Engineer,Rejected,51.48075169936078,Hired,98318.52428341335,6,1,62.4329929959596,27
+1009,Ivy Miller,32,Female,Diploma,15,"['""HR / Management""']",Data Analyst,Rejected,69.08543111024645,Not Hired,42407.18347657656,10,0,90.16094641686558,59
+CAND1049,David Davis,33,Male,Diploma,14,"['""HR / Management""']",Marketing Specialist,Accepted,70.10504996181126,Hired,94728.59208268682,9,1,98.42551505072848,4
+CAND1037,Harry García,38,Male,Bachelor,14,"['""Java / Spring""']",Marketing Specialist,Rejected,95.9785353099234,Hired,72145.59283984534,4,4,100.0,31
+1011,Ivy Williams,47,Male,PhD,3,"['""Data Science / ML""']",HR Manager,Rejected,77.62436054820483,Not Hired,112007.25223990926,5,0,55.12178301310457,26
+1025,Jane Miller,24,Female,High School,12,"['""HR / Management""']",HR Manager,Rejected,84.04337288059968,Not Hired,37019.7820209002,9,4,58.57493291033529,57
+CAND1049,Eve Smith,33,Male,Master,13,"['""HR / Management""']",HR Manager,Accepted,80.21457168636341,Not Hired,83581.00134525371,9,1,82.79643379526061,4
+1015,Ivy Martínez,33,Female,High School,5,"['""Data Science / ML""']",Marketing Specialist,Rejected,100.0,Not Hired,32100.772951828883,7,5,83.4960540116518,36
+1021,Jane Martínez,31,Male,High School,15,"['""Python / SQL""']",Marketing Specialist,Accepted,69.31271996611366,Not Hired,106213.96470015174,8,4,54.91421080488183,49
+CAND1047,Charlie Jones,48,Female,Master,3,"['""HR / Management""']",Software Engineer,Pending,74.32375069502295,Not Hired,39638.97046338622,5,5,81.04804946193867,44
+1008,Ivy Davis,32,Female,Master,21,"['""Java / Spring""']",HR Manager,Accepted,67.74240757323406,Hired,96905.99850937026,6,0,83.50056880842305,16
+1005,Eve Davis,46,Male,High School,2,"['""Java / Spring""']",HR Manager,Rejected,87.34362358731477,Not Hired,55766.683443718175,10,0,68.54601036660105,58
+CAND1045,David Brown,49,Female,Diploma,2,"['""HR / Management""']",Data Analyst,Accepted,98.6304484027494,Not Hired,57061.35480863039,0,2,75.19709464981275,34
+1029,Harry Rodriguez,48,Male,High School,20,"['""Python / SQL""']",HR Manager,Rejected,56.11053634270793,Hired,28596.08826611984,5,5,72.19812088566601,12
+1002,Grace Brown,34,Female,Diploma,14,"['""Python / SQL""']",Marketing Specialist,Pending,55.4690569056116,Not Hired,96889.73823804075,9,0,78.5942865650029,43
+1011,Ivy Smith,49,Male,Master,3,"['""Data Science / ML""']",Data Analyst,Rejected,79.356034119184,Not Hired,121244.0022248271,5,0,63.350252126300916,25
+CAND1048,Bob Williams,38,Male,Master,8,"['""JavaScript / React""']",Data Analyst,Accepted,84.60111464473216,Not Hired,64281.73545659283,3,3,66.33181537173344,47
+1029,Harry Smith,44,Male,PhD,19,"['""Python / SQL""']",Marketing Specialist,Rejected,67.46616817393658,Not Hired,29966.387157181798,5,5,77.61664679755178,15
+CAND1043,Jane Rodriguez,42,Male,Master,8,"['""Data Science / ML""']",Marketing Specialist,Rejected,90.35828573196667,Not Hired,51498.35640272505,1,4,67.49886568071103,39
+CAND1044,Jane Johnson,23,Male,Diploma,16,"['""Java / Spring""']",Data Analyst,Rejected,79.73949651527049,Not Hired,51423.79477501038,3,1,51.74663827271706,31
+1021,Bob Smith,29,Male,Diploma,15,"['""Python / SQL""']",HR Manager,Accepted,69.7569932806144,Hired,95631.84265339655,8,4,60.68871549699779,51
+1024,David Miller,26,Male,Bachelor,1,"['""Java / Spring""']",HR Manager,Rejected,100.0,Hired,33655.99446645886,2,0,78.25714481204369,41
+1018,Charlie Miller,39,Male,Master,11,"['""Java / Spring""']",Software Engineer,Pending,96.05451911348655,Hired,28485.89955535598,8,1,76.24562854075829,27
+CAND1039,Jane Davis,31,Female,Bachelor,2,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,114394.92101406986,5,1,65.56603669286197,5
+1001,Eve Miller,45,Male,Diploma,15,"['""JavaScript / React""']",Data Analyst,Rejected,79.46654376177148,Not Hired,75064.83553667388,9,5,69.12040355101911,55
+CAND1042,Harry Smith,47,Female,Master,12,"['""HR / Management""']",Marketing Specialist,Accepted,92.48424586762296,Hired,41564.73615943197,9,5,73.02905276607504,48
+CAND1043,Bob Brown,42,Male,Master,10,"['""Data Science / ML""']",Data Analyst,Rejected,88.04231732864199,Hired,46677.02263692537,1,4,74.87714296999063,33
+CAND1036,Jane Martínez,44,Male,Master,14,"['""HR / Management""']",Data Analyst,Pending,88.49224448000709,Hired,98833.32959401376,9,0,59.45016011477343,46
+CAND1039,David Jones,30,Female,Master,4,"['""Java / Spring""']",Data Analyst,Rejected,96.56459537917144,Not Hired,118819.15611623209,5,1,52.40568900329589,10
+1000,Alice García,27,Female,Master,11,"['”HR / Management""']",Data Analyst,Accepted,79.44437549547384,Hired,55402.77787187192,1,2,100.0,8
+1015,Charlie Smith,30,Female,Diploma,6,"['""Data Science / ML""']",Data Analyst,Rejected,91.99398231356464,Hired,34976.01630087124,7,5,83.27847397822784,31
+1022,David Davis,44,Non-Binary,PhD,8,"['""Data Science / ML""']",Data Analyst,Accepted,73.82270848671045,Not Hired,85301.85145839956,0,5,100.0,50
+1024,Ivy Martínez,29,Male,PhD,1,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,29656.688178193817,2,0,77.35782659612852,40
+CAND1044,Harry Williams,24,Male,High School,16,"['""Java / Spring""']",Software Engineer,Rejected,68.09615949801433,Not Hired,58494.745085577306,3,1,51.86807731420505,29
+1009,Grace Williams,31,Female,Master,14,"['""HR / Management""']",Data Analyst,Rejected,73.71576566562769,Not Hired,38151.08312097906,10,0,82.96477544127707,53
+1020,Grace Martínez,39,Non-Binary,High School,20,"['""HR / Management""']",HR Manager,Pending,53.22035838000073,Not Hired,34981.876382408765,5,2,68.3142962413915,19
+1004,Ivy Miller,42,Female,PhD,18,"['""Data Science / ML""']",Software Engineer,Rejected,97.51806997846708,Not Hired,50659.204849799804,7,4,73.45452261248158,17
+1031,Bob Jones,34,Male,PhD,14,"['""Python / SQL""']",Marketing Specialist,Rejected,64.4717095997893,Not Hired,70524.94573005293,9,5,53.786961577517005,40
+1029,David Martínez,45,Male,Master,17,"['""Python / SQL""']",Software Engineer,Rejected,61.35455225415902,Hired,33132.381940612955,5,5,79.80993769808381,12
+1020,Jane Williams,43,Non-Binary,Bachelor,21,"['""HR / Management""']",Software Engineer,Pending,53.149673195823176,Hired,33387.043349465224,5,2,65.76632176684136,19
+1018,David Brown,41,Male,Bachelor,10,"['""Java / Spring""']",Data Analyst,Pending,97.53115430668511,Not Hired,29926.26394770241,8,1,74.8054934970792,26
+1034,Grace Martínez,48,Male,PhD,21,"['""JavaScript / React""']",HR Manager,Accepted,98.08488652228566,Hired,104958.24475971205,6,4,65.4050646975955,65
+CAND1040,John Smith,29,Female,Master,12,"['""Java / Spring""']",Data Analyst,Rejected,60.525706149983385,Hired,39350.14052922479,6,2,74.85589486637194,48
+1012,Eve Miller,41,Female,Diploma,2,"['""JavaScript / React""']",Marketing Specialist,Rejected,67.3812482352584,Not Hired,41550.99225449711,8,1,65.07610753518898,49
+1019,Charlie Johnson,36,Female,High School,4,"['""Data Science / ML""']",Data Analyst,Pending,51.22098706611556,Not Hired,89565.91905040888,2,0,50.95388550231899,27
+1029,Jane Williams,44,Male,PhD,17,"['""Python / SQL""']",HR Manager,Rejected,65.85346891206711,Hired,31097.567902046,5,5,74.65003648089234,9
+1012,Eve Smith,42,Female,Master,2,"['""JavaScript / React""']",HR Manager,Rejected,63.133765907199816,Not Hired,41842.483401847276,8,1,63.713745380587774,43
+1023,John Miller,28,Female,PhD,7,"['""Java / Spring""']",HR Manager,Rejected,51.588911350831765,Not Hired,104253.8241246659,6,1,66.82961666842237,25
+CAND1043,Bob Williams,45,Male,PhD,11,"['""Data Science / ML""']",HR Manager,Rejected,91.69438056604433,Not Hired,51483.26850173741,1,4,56.06143796636394,39
+1009,David Smith,33,Female,Master,13,"['""HR / Management""']",HR Manager,Rejected,71.56437940586287,Not Hired,41731.143501459504,10,0,84.71790463643832,52
+CAND1044,Jane Johnson,25,Male,Bachelor,16,"['""Java / Spring""']",Software Engineer,Rejected,62.360391814152216,Hired,55315.373764308664,3,1,57.557231675116576,23
+1035,Bob Smith,32,Male,PhD,6,"['""Python / SQL""']",Software Engineer,Rejected,100.0,Hired,81083.22591885364,0,0,59.290583548434725,17
+1005,John García,47,Male,Master,2,"['""Java / Spring""']",Data Analyst,Rejected,87.69135653086097,Not Hired,55429.78984088621,10,0,61.34175291594079,55
+CAND1049,Charlie García,30,Male,Bachelor,13,"['""HR / Management""']",Marketing Specialist,Accepted,71.73672075903639,Hired,80740.19589878994,9,1,96.30300104212029,5
+1024,John Davis,26,Male,Diploma,0,"['""Java / Spring""']",Software Engineer,Rejected,93.09450118961448,Hired,31176.63906711186,2,0,73.19666345648477,33
+1021,Ivy Miller,33,Male,Diploma,15,"['""Python / SQL""']",Marketing Specialist,Accepted,65.45366033645807,Hired,94550.6187864489,8,4,52.008169857695385,48
+1023,David Smith,27,Female,Diploma,4,"['""Java / Spring""']",HR Manager,Rejected,45.60484807365128,Not Hired,98613.42094969789,6,1,68.89283925788635,20
+1012,David Johnson,43,Female,Bachelor,0,"['""JavaScript / React""']",Software Engineer,Rejected,59.64582291332168,Not Hired,37386.89034058799,8,1,73.63148138809477,46
+CAND1049,John García,34,Male,PhD,16,"['""HR / Management""']",Data Analyst,Accepted,82.83563298807596,Hired,87678.59256084998,9,1,96.02129019434818,11
+1003,Harry Martínez,34,Male,Diploma,19,"['""HR / Management""']",Data Analyst,Rejected,85.0255390062044,Not Hired,61237.53408070185,0,3,96.98412341055241,58
+1026,Charlie García,23,Female,Bachelor,16,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Hired,76189.25500458236,10,3,43.34946849437354,42
+1004,Ivy García,46,Female,Bachelor,18,"['""Data Science / ML""']",HR Manager,Rejected,92.67535330018752,Not Hired,55530.31765062764,7,4,76.32187061097117,8
+CAND1040,Alice Williams,27,Female,Diploma,10,"['""Java / Spring""']",Marketing Specialist,Rejected,77.94160532924226,Not Hired,37641.13308134544,6,2,62.70586500645683,44
+1018,David Miller,41,Male,Bachelor,11,"['""Java / Spring""']",Marketing Specialist,Pending,88.92769330739326,Not Hired,28777.86553987798,8,1,79.18125479303247,23
+CAND1040,Ivy Williams,28,Female,High School,9,"['""Java / Spring""']",HR Manager,Rejected,70.4190445766451,Hired,38645.76928801724,6,2,66.67420053052241,41
+1009,Jane Brown,33,Female,Bachelor,13,"['""HR / Management""']",Data Analyst,Rejected,78.73794397715945,Not Hired,40259.306078511385,10,0,82.66214926509156,55
+1010,Alice Jones,41,Female,Bachelor,11,"['""JavaScript / React""']",Data Analyst,Rejected,100.0,Not Hired,85761.55653356794,10,3,61.45034332876092,11
+CAND1037,Jane Martínez,37,Male,High School,17,"['""Java / Spring""']",HR Manager,Rejected,97.33896017212643,Not Hired,72778.88948174918,4,4,95.430731053478,33
+1021,Harry Rodriguez,30,Male,Diploma,18,"['""Python / SQL""']",HR Manager,Accepted,70.82521635334773,Not Hired,90499.88051129613,8,4,53.199013531914574,55
+1007,Alice García,24,Non-Binary,PhD,1,"['""Java / Spring""']",Marketing Specialist,Accepted,69.0764907204547,Not Hired,71530.31820643616,5,3,70.27637836058591,37
+1034,David Miller,47,Male,High School,20,"['""JavaScript / React""']",Marketing Specialist,Accepted,94.38411828168384,Hired,107902.50806036044,6,4,74.03998224605587,57
+CAND1038,Jane Rodriguez,33,Male,Diploma,9,"['""HR / Management""']",Data Analyst,Accepted,65.45173019964653,Hired,64827.390738536815,3,1,54.93789580795223,35
+CAND1048,Charlie Rodriguez,41,Male,Diploma,7,"['""JavaScript / React""']",HR Manager,Accepted,87.30105505030414,Hired,62033.499569404914,3,3,51.06148081488384,47
+1028,Eve Martínez,26,Male,Diploma,12,"['""JavaScript / React""']",Software Engineer,Pending,55.0122989136413,Not Hired,79683.56101622236,9,3,78.67846593135943,27
+1027,Harry Rodriguez,26,Female,Diploma,2,"['""Java / Spring""']",Marketing Specialist,Accepted,49.73416747580776,Not Hired,47984.50159655055,9,3,56.03208164696369,34
+1026,Grace Rodriguez,25,Female,PhD,19,"['""Java / Spring""']",HR Manager,Rejected,95.91274544377147,Hired,71953.17886972998,10,3,55.438823202916474,49
+1034,Jane Davis,51,Male,High School,20,"['""JavaScript / React""']",HR Manager,Accepted,93.86391733674857,Hired,97305.85308552926,6,4,80.38606733641697,57
+CAND1039,Grace Davis,29,Female,Diploma,5,"['""Java / Spring""']",Data Analyst,Rejected,98.01834523333733,Not Hired,102222.07749710037,5,1,57.5913538086746,13
+1000,John Williams,29,Female,PhD,11,"['”HR / Management""']",Data Analyst,Accepted,79.86233696318992,Hired,57069.17955023705,1,2,100.0,13
+CAND1044,Harry García,24,Male,Bachelor,16,"['""Java / Spring""']",HR Manager,Rejected,61.937894400230576,Not Hired,61521.321772285184,3,1,54.62332324761319,23
+CAND1045,Alice Martínez,50,Female,Master,2,"['""HR / Management""']",Software Engineer,Accepted,92.22969848642086,Hired,60321.90726550847,0,2,67.08111921616987,31
+CAND1046,John Martínez,40,Female,High School,4,"['""HR / Management""']",Data Analyst,Rejected,75.77775748648205,Not Hired,47991.93543603005,5,4,63.43128881448938,38
+1029,John Davis,45,Male,PhD,18,"['""Python / SQL""']",Software Engineer,Rejected,66.06155715254533,Not Hired,32487.530246259237,5,5,76.21709790471489,15
+1008,Charlie Johnson,35,Female,PhD,19,"['""Java / Spring""']",Software Engineer,Accepted,73.00689056459748,Not Hired,95445.38512811641,6,0,80.33279090397926,18
+1009,David Brown,33,Female,PhD,15,"['""HR / Management""']",Data Analyst,Rejected,80.2383097518441,Not Hired,41516.05335616287,10,0,84.51398510069566,50
+1028,Grace Brown,24,Male,PhD,13,"['""JavaScript / React""']",Marketing Specialist,Pending,76.28133901451513,Not Hired,80989.7989639702,9,3,75.19277092723765,24
+CAND1037,Grace Johnson,34,Male,Master,15,"['""Java / Spring""']",Data Analyst,Rejected,93.94565465330788,Hired,65723.54377856253,4,4,99.76871341588696,33
+1023,Eve Miller,26,Female,Bachelor,5,"['""Java / Spring""']",HR Manager,Rejected,50.72989231867873,Not Hired,101806.81434720478,6,1,73.11044218835285,27
+1012,David Johnson,43,Female,PhD,2,"['""JavaScript / React""']",Marketing Specialist,Rejected,58.210979525386186,Not Hired,42721.98131051413,8,1,71.57917979244554,46
+1011,Eve Davis,47,Male,High School,2,"['""Data Science / ML""']",Software Engineer,Rejected,74.64791378713862,Hired,111066.4941358084,5,0,57.996826860009634,32
+1014,Eve Smith,42,Male,Bachelor,5,"['""Java / Spring""']",HR Manager,Rejected,78.68716625304586,Not Hired,80731.43222801514,7,3,77.56745028531063,35
+CAND1044,Bob García,25,Male,Diploma,18,"['""Java / Spring""']",Software Engineer,Rejected,68.33492228503269,Not Hired,55788.13827293704,3,1,51.3940056890802,24
+CAND1049,John García,34,Male,Master,14,"['""HR / Management""']",Marketing Specialist,Accepted,81.81284774419801,Hired,93278.4040334679,9,1,85.723991047716,10
+CAND1048,Jane García,38,Male,Diploma,7,"['""JavaScript / React""']",Data Analyst,Accepted,77.29280168226778,Hired,64904.40992195794,3,3,59.521455083490956,46
+1013,Alice Rodriguez,27,Female,High School,13,"['""Python / SQL""']",Marketing Specialist,Accepted,93.05745075601303,Hired,107278.12919581335,1,0,60.74190717448562,55
+1018,Jane Rodriguez,41,Male,Master,8,"['""Java / Spring""']",Marketing Specialist,Pending,96.97675219934696,Not Hired,28794.672149195972,8,1,78.4918958840412,20
+CAND1036,Grace Smith,45,Male,High School,14,"['""HR / Management""']",HR Manager,Pending,86.95054050404417,Not Hired,100707.8263036291,9,0,63.38437510635071,42
+1020,David Smith,39,Non-Binary,Diploma,21,"['""HR / Management""']",Marketing Specialist,Pending,40.89820922716622,Not Hired,36068.42289568558,5,2,65.20997195744532,20
+CAND1046,Ivy Martínez,36,Female,Master,3,"['""HR / Management""']",HR Manager,Rejected,80.4914727533196,Not Hired,42324.536340046405,5,4,62.54643226154321,38
+1028,Eve Davis,25,Male,PhD,15,"['""JavaScript / React""']",Data Analyst,Pending,67.40900266497265,Not Hired,75673.23527075008,9,3,78.32198785230923,31
+CAND1036,Eve García,47,Male,Master,12,"['""HR / Management""']",Marketing Specialist,Pending,84.95315086481061,Not Hired,113291.40168106131,9,0,58.147748913113126,43
+1016,Ivy Rodriguez,26,Male,PhD,22,"['""HR / Management""']",Data Analyst,Pending,83.90040661503187,Not Hired,38130.43456575172,8,2,59.340410965288704,47
+CAND1049,Ivy Jones,34,Male,Diploma,15,"['""HR / Management""']",Marketing Specialist,Accepted,85.52263405620538,Hired,90298.63180709134,9,1,87.19675252982813,2
+1010,John Miller,40,Female,Bachelor,11,"['""JavaScript / React""']",Data Analyst,Rejected,97.37133103012613,Hired,90187.84515323747,10,3,72.3195347331395,18
+1024,Jane Jones,26,Male,Bachelor,1,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Hired,32546.697565766717,2,0,71.29200858446873,36
+1008,John Williams,33,Female,Diploma,18,"['""Java / Spring""']",HR Manager,Accepted,68.74978367969904,Hired,92519.83319267977,6,0,83.17760414694361,18
+1010,Charlie Smith,41,Female,Master,10,"['""JavaScript / React""']",Marketing Specialist,Rejected,90.50113147989167,Not Hired,85449.04766440757,10,3,74.93939830041647,15
+CAND1039,John Rodriguez,32,Female,PhD,5,"['""Java / Spring""']",HR Manager,Rejected,95.91848424489027,Hired,98018.27532646552,5,1,66.54266945091862,7
+1010,David Smith,41,Female,Diploma,12,"['""JavaScript / React""']",Software Engineer,Rejected,97.21424311471819,Not Hired,85873.30704284275,10,3,67.5123591508138,13
+1032,Alice Miller,27,Female,PhD,3,"['""Data Science / ML""']",Software Engineer,Pending,59.670893535348895,Not Hired,56623.30656137996,10,4,59.146599271160596,37
+1010,David Rodriguez,37,Female,High School,12,"['""JavaScript / React""']",Marketing Specialist,Rejected,100.0,Not Hired,88146.25126909392,10,3,72.9243634895923,21
+1014,Alice Martínez,46,Male,Bachelor,4,"['""Java / Spring""']",Software Engineer,Rejected,71.330539372048,Not Hired,72377.99056539426,7,3,89.25364208581777,38
+1027,Ivy Martínez,28,Female,PhD,0,"['""Java / Spring""']",HR Manager,Accepted,63.38893731864565,Not Hired,49246.31650922371,9,3,56.94922694054698,26
+1025,David Martínez,23,Female,PhD,11,"['""HR / Management""']",Data Analyst,Rejected,82.01272970931856,Not Hired,35626.688069452495,9,4,62.33262997888614,47
+1022,Charlie Jones,41,Non-Binary,Diploma,10,"['""Data Science / ML""']",HR Manager,Accepted,82.87798123324625,Hired,78777.72745273421,0,5,100.0,59
+1011,Jane Rodriguez,46,Male,PhD,1,"['""Data Science / ML""']",Marketing Specialist,Rejected,79.39968640241163,Hired,109811.09600668988,5,0,53.58581285301369,32
+1019,Charlie Davis,34,Female,Master,7,"['""Data Science / ML""']",HR Manager,Pending,43.70960967048434,Not Hired,100335.79681178756,2,0,52.40860660006704,25
+1018,Alice Smith,41,Male,Diploma,8,"['""Java / Spring""']",Marketing Specialist,Pending,90.52490894667996,Not Hired,30748.003208784223,8,1,83.18133395721274,22
+CAND1036,Grace Jones,48,Male,Diploma,14,"['""HR / Management""']",Marketing Specialist,Pending,83.8676747731453,Hired,110473.27299691256,9,0,59.80604916769916,38
+1032,Ivy Johnson,25,Female,PhD,0,"['""Data Science / ML""']",Data Analyst,Pending,58.64168713133493,Not Hired,49946.1619095922,10,4,60.8928586227812,31
+CAND1038,Alice Davis,29,Male,PhD,10,"['""HR / Management""']",HR Manager,Accepted,75.33202723548207,Not Hired,60064.21137447785,3,1,50.37426503433612,39
+1012,Harry Smith,40,Female,High School,0,"['""JavaScript / React""']",Data Analyst,Rejected,69.25224789056784,Not Hired,39344.06688517717,8,1,64.846054647384,43
+CAND1043,Grace Miller,42,Male,PhD,11,"['""Data Science / ML""']",Data Analyst,Rejected,81.8330717976956,Hired,43419.8145210164,1,4,74.57715953038493,40
+CAND1043,Jane Miller,45,Male,Diploma,10,"['""Data Science / ML""']",HR Manager,Rejected,90.20294066571363,Hired,44332.883974968354,1,4,79.73123644846689,40
+1007,Jane Martínez,23,Non-Binary,Bachelor,2,"['""Java / Spring""']",Data Analyst,Accepted,76.12842440975673,Not Hired,74102.32346389134,5,3,58.48542751571906,29
+1009,Charlie Smith,31,Female,Diploma,12,"['""HR / Management""']",Software Engineer,Rejected,79.38757028460066,Hired,43188.9452513953,10,0,85.81959544869218,50
+1000,John García,26,Female,Master,12,"['”HR / Management""']",HR Manager,Accepted,76.99341588986955,Hired,58290.28197836522,1,2,96.62903791194582,16
+1034,Ivy Rodriguez,51,Male,PhD,21,"['""JavaScript / React""']",Marketing Specialist,Accepted,89.50564222416284,Hired,109935.75406620714,6,4,76.93443028875534,65
+CAND1040,Alice Smith,29,Female,Diploma,9,"['""Java / Spring""']",Data Analyst,Rejected,59.780385488944916,Not Hired,34536.87830041064,6,2,69.74801256537376,49
+1015,Charlie Jones,29,Female,Bachelor,5,"['""Data Science / ML""']",HR Manager,Rejected,94.13848462120536,Not Hired,33844.455546297584,7,5,86.3230842093893,39
+CAND1040,Jane Brown,28,Female,High School,9,"['""Java / Spring""']",HR Manager,Rejected,67.07194120707999,Hired,40600.62924559729,6,2,77.44846469287552,50
+1006,Grace Smith,31,Female,PhD,19,"['""Python / SQL""']",Marketing Specialist,Pending,88.99500571692886,Not Hired,47358.051550782366,1,4,99.80707442153194,41
+1020,Alice García,41,Non-Binary,PhD,19,"['""HR / Management""']",HR Manager,Pending,53.0353824418612,Not Hired,35769.61750687125,5,2,62.605159572799195,15
+1026,Harry Smith,23,Female,PhD,19,"['""Java / Spring""']",Software Engineer,Rejected,91.13736853394299,Hired,77928.03311724102,10,3,59.26501396962516,44
+CAND1046,Bob Johnson,39,Female,Diploma,4,"['""HR / Management""']",Data Analyst,Rejected,79.65288292243046,Hired,47789.03762525995,5,4,62.98369561236878,43
+1033,Jane Smith,46,Male,Bachelor,15,"['""Java / Spring""']",Data Analyst,Rejected,92.62981723047875,Not Hired,115976.37013216993,3,0,97.54458967191354,20
+1001,Harry Brown,45,Male,PhD,18,"['""JavaScript / React""']",Software Engineer,Rejected,84.86369921321808,Not Hired,76974.76707329246,9,5,81.6233257320635,55
+1013,Ivy García,28,Female,Bachelor,14,"['""Python / SQL""']",Marketing Specialist,Accepted,92.69032676300196,Not Hired,107385.45946319369,1,0,60.928435823511805,48
+1001,Charlie Martínez,45,Male,Master,18,"['""JavaScript / React""']",Software Engineer,Rejected,79.26033448493145,Not Hired,80755.26198876147,9,5,69.77574422292693,63
+1028,David García,27,Male,High School,12,"['""JavaScript / React""']",Data Analyst,Pending,68.22038980149202,Not Hired,70979.99971718877,9,3,71.49057698160995,27
+CAND1037,Charlie Jones,36,Male,Diploma,15,"['""Java / Spring""']",Marketing Specialist,Rejected,100.0,Not Hired,70343.51036562547,4,4,92.44843788011612,31
+1027,Harry Martínez,28,Female,High School,0,"['""Java / Spring""']",Data Analyst,Accepted,58.932112316517575,Not Hired,53943.36326818221,9,3,51.00939531152622,34
+1017,Grace Davis,22,Female,Master,10,"['""Java / Spring""']",Marketing Specialist,Rejected,78.09897792706006,Not Hired,98547.39582650797,0,0,73.95998576502318,33
+1012,Ivy Rodriguez,40,Female,High School,2,"['""JavaScript / React""']",HR Manager,Rejected,66.65924050669692,Not Hired,40787.11783554656,8,1,63.217255330370534,53
+1035,John García,32,Male,High School,5,"['""Python / SQL""']",Data Analyst,Rejected,98.55099885072443,Not Hired,85508.8680355695,0,0,80.44120936459557,15
+1009,Ivy Martínez,30,Female,PhD,14,"['""HR / Management""']",HR Manager,Rejected,83.49178734945859,Not Hired,39295.718911701195,10,0,80.60985515180946,58
+CAND1047,Jane Jones,47,Female,PhD,4,"['""HR / Management""']",HR Manager,Pending,76.91020475011452,Not Hired,45304.110080928134,5,5,84.94158917149484,44
+1021,Bob Martínez,30,Male,Bachelor,17,"['""Python / SQL""']",Data Analyst,Accepted,75.40305196735922,Not Hired,108293.81645036412,8,4,57.14882475022293,53
+1017,John Miller,21,Female,Diploma,11,"['""Java / Spring""']",Data Analyst,Rejected,76.27746690145794,Not Hired,103639.6538135031,0,0,69.18180595115935,37
+CAND1042,Harry García,47,Female,High School,13,"['""HR / Management""']",HR Manager,Accepted,87.36430484148022,Hired,41848.666385244534,9,5,52.74621916506702,44
+1030,Ivy Brown,41,Female,PhD,4,"['""Python / SQL""']",Marketing Specialist,Accepted,58.8471376224665,Hired,44673.697711133114,7,4,73.73932934730853,23
+1026,Charlie Williams,27,Female,Diploma,18,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,77479.98115789311,10,3,47.868610499198276,42
+1020,Charlie Davis,43,Non-Binary,PhD,20,"['""HR / Management""']",Software Engineer,Pending,48.963835015216915,Not Hired,31504.07843694626,5,2,62.62477530983094,20
+1002,John Rodriguez,36,Female,PhD,11,"['""Python / SQL""']",Marketing Specialist,Pending,55.33924154829062,Not Hired,88421.86797738154,9,0,74.61689240321978,44
+1023,Alice Williams,30,Female,Bachelor,4,"['""Java / Spring""']",Data Analyst,Rejected,50.86218043766673,Not Hired,99265.15040241042,6,1,62.79002780236341,29
+1018,Bob Davis,38,Male,Master,11,"['""Java / Spring""']",HR Manager,Pending,93.68539604427914,Not Hired,29061.73422666889,8,1,67.43406212410599,26
+1003,Jane Smith,33,Male,PhD,22,"['""HR / Management""']",Marketing Specialist,Rejected,83.22072966151613,Hired,61396.133096748985,0,3,100.0,57
+1035,John Johnson,32,Male,PhD,4,"['""Python / SQL""']",Data Analyst,Rejected,98.6261885086447,Not Hired,79657.18898704906,0,0,76.88651695784466,11
+1007,Charlie Johnson,22,Non-Binary,Master,2,"['""Java / Spring""']",Marketing Specialist,Accepted,70.55565761234165,Not Hired,77721.02775444344,5,3,58.488480897660004,27
+CAND1044,Grace Rodriguez,23,Male,PhD,17,"['""Java / Spring""']",HR Manager,Rejected,70.73292779075025,Not Hired,54510.60431334221,3,1,41.15730134274301,26
+CAND1047,Eve Miller,47,Female,Master,1,"['""HR / Management""']",Data Analyst,Pending,75.69667442659872,Not Hired,38386.14993928312,5,5,76.77499732717347,46
+1020,Ivy Martínez,41,Non-Binary,High School,20,"['""HR / Management""']",Software Engineer,Pending,48.60199692311316,Hired,36358.590291705004,5,2,64.28117711264098,21
+1008,Alice Johnson,35,Female,High School,18,"['""Java / Spring""']",HR Manager,Accepted,72.41447803762689,Not Hired,107936.70567055339,6,0,94.72570649269355,13
+1013,Ivy Smith,28,Female,Master,12,"['""Python / SQL""']",Software Engineer,Accepted,89.78619018251412,Not Hired,100255.39761672253,1,0,58.64011952786145,54
+1016,Grace Davis,27,Male,Bachelor,21,"['""HR / Management""']",Data Analyst,Pending,86.32369437913697,Not Hired,36921.052907383695,8,2,62.08603991879129,43
+CAND1041,Bob Johnson,26,Non-Binary,Bachelor,8,"['""JavaScript / React""']",Marketing Specialist,Rejected,84.11771734822172,Hired,29178.757625634942,7,4,94.65530981901749,36
+1009,David García,31,Female,Bachelor,12,"['""HR / Management""']",HR Manager,Rejected,77.55144747828207,Not Hired,41250.323650293816,10,0,85.6082299464078,53
+1005,Harry Davis,48,Male,Master,1,"['""Java / Spring""']",Marketing Specialist,Rejected,93.73300147304448,Hired,54734.64392714479,10,0,60.95610164214095,56
+CAND1038,John Miller,31,Male,Bachelor,9,"['""HR / Management""']",Software Engineer,Accepted,63.6333302984874,Not Hired,66756.6208663544,3,1,62.6213025126958,36
+1011,John Brown,46,Male,Master,0,"['""Data Science / ML""']",HR Manager,Rejected,83.95413642529707,Not Hired,115725.93050551083,5,0,60.847420828175096,25
+CAND1044,Charlie Johnson,23,Male,Bachelor,16,"['""Java / Spring""']",Marketing Specialist,Rejected,65.1597319461388,Hired,53007.875193190775,3,1,49.66556997908727,26
+1008,Eve Johnson,31,Female,Bachelor,20,"['""Java / Spring""']",HR Manager,Accepted,72.95070716632465,Hired,104584.08870218626,6,0,93.42737823190937,16
+1001,Alice García,42,Male,Diploma,15,"['""JavaScript / React""']",Marketing Specialist,Rejected,76.39223666801452,Not Hired,82370.52000633796,9,5,65.51554394214293,64
+1031,Eve Williams,31,Male,High School,12,"['""Python / SQL""']",HR Manager,Rejected,67.2100499878338,Not Hired,73500.05600825795,9,5,51.542730935742874,37
+1034,Charlie Miller,51,Male,PhD,18,"['""JavaScript / React""']",Software Engineer,Accepted,88.24497744506345,Not Hired,108446.6655770949,6,4,68.62416782265777,58
+CAND1039,Ivy Miller,31,Female,High School,3,"['""Java / Spring""']",Marketing Specialist,Rejected,99.44662391613483,Hired,114067.90866821552,5,1,60.40371415505141,14
+CAND1038,Harry Johnson,31,Male,PhD,10,"['""HR / Management""']",Software Engineer,Accepted,60.720383734965225,Not Hired,66493.44379175283,3,1,62.95447961530954,35
+CAND1042,Bob Brown,45,Female,Diploma,12,"['""HR / Management""']",HR Manager,Accepted,92.00204278250133,Hired,42244.02437570469,9,5,62.4569926578325,49
+CAND1036,Ivy Rodriguez,48,Male,Master,14,"['""HR / Management""']",Marketing Specialist,Pending,83.753561017403,Not Hired,98282.52005710751,9,0,63.007081780993744,40
+1008,Grace Jones,34,Female,PhD,20,"['""Java / Spring""']",HR Manager,Accepted,75.86511190334916,Hired,103176.49408896538,6,0,95.38715514695454,17
+1014,David Williams,46,Male,PhD,5,"['""Java / Spring""']",Marketing Specialist,Rejected,73.20530558912075,Not Hired,76430.29761795454,7,3,75.68553229439783,37
+1006,Harry Brown,30,Female,PhD,21,"['""Python / SQL""']",Marketing Specialist,Pending,78.43886069043491,Not Hired,55787.274212374745,1,4,94.32706870124935,38
+1002,John Johnson,36,Female,Master,13,"['""Python / SQL""']",Software Engineer,Pending,48.043144378020585,Not Hired,86496.60772331287,9,0,68.33909197403915,42
+1031,David García,34,Male,PhD,13,"['""Python / SQL""']",Marketing Specialist,Rejected,60.88011145927153,Not Hired,85627.50219506849,9,5,41.45535476651925,36
+CAND1039,David Martínez,31,Female,Bachelor,3,"['""Java / Spring""']",Data Analyst,Rejected,97.85813885732125,Hired,117572.64953730031,5,1,69.77502844505972,8
+CAND1041,Harry Rodriguez,30,Non-Binary,Diploma,7,"['""JavaScript / React""']",HR Manager,Rejected,76.87116993103186,Not Hired,30171.885942647856,7,4,80.10965409937606,36
+1031,Eve Smith,32,Male,High School,11,"['""Python / SQL""']",Data Analyst,Rejected,56.99944749605541,Hired,85319.60452733132,9,5,47.92055093218388,37
+CAND1037,Ivy Smith,35,Male,Bachelor,15,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,74796.8677563351,4,4,85.34899699879988,31
+1014,Harry Jones,44,Male,Bachelor,4,"['""Java / Spring""']",Marketing Specialist,Rejected,86.95946242285896,Not Hired,75709.92824637619,7,3,88.90519700919948,39
+CAND1039,Jane García,28,Female,PhD,3,"['""Java / Spring""']",Software Engineer,Rejected,91.70722376398619,Not Hired,101724.13469354004,5,1,59.678525927619525,11
+1000,Grace Miller,28,Female,PhD,12,"['”HR / Management""']",Data Analyst,Accepted,87.73536030521424,Hired,57167.527357867984,1,2,98.92806995849581,12
+1017,Grace Miller,20,Female,High School,9,"['""Java / Spring""']",Data Analyst,Rejected,75.02097579834972,Hired,102958.01112829379,0,0,74.79453927014897,33
+1027,Bob Martínez,28,Female,Bachelor,3,"['""Java / Spring""']",Data Analyst,Accepted,67.58617503839402,Not Hired,45592.933136528656,9,3,51.727849155692724,25
+1034,Eve Brown,47,Male,High School,18,"['""JavaScript / React""']",Data Analyst,Accepted,91.19322892739221,Hired,104352.08284876366,6,4,70.14468106382697,63
+1002,John Rodriguez,33,Female,PhD,13,"['""Python / SQL""']",Marketing Specialist,Pending,59.30312167492348,Not Hired,89466.76046927612,9,0,70.5114772569374,40
+1035,Alice García,33,Male,PhD,6,"['""Python / SQL""']",HR Manager,Rejected,100.0,Not Hired,86182.61429277284,0,0,75.20290072061036,16
+CAND1043,Alice García,41,Male,PhD,9,"['""Data Science / ML""']",Software Engineer,Rejected,81.05796110269101,Not Hired,46425.45905888193,1,4,76.8556171921684,33
+1014,Eve García,46,Male,PhD,2,"['""Java / Spring""']",Software Engineer,Rejected,71.70248694883982,Hired,75644.23725456845,7,3,81.7053109606026,42
+1002,Grace Jones,34,Female,High School,14,"['""Python / SQL""']",Marketing Specialist,Pending,55.96967411098212,Hired,89015.71778178141,9,0,71.41184643134889,49
+1003,Bob Miller,33,Male,Diploma,19,"['""HR / Management""']",Marketing Specialist,Rejected,76.08915116043184,Not Hired,64870.4476650645,0,3,98.8937587789854,57
+CAND1049,Bob Williams,32,Male,Master,14,"['""HR / Management""']",HR Manager,Accepted,74.57118684125679,Hired,78114.78012865795,9,1,100.0,2
+CAND1046,Ivy Davis,37,Female,Master,3,"['""HR / Management""']",HR Manager,Rejected,84.6447194790283,Not Hired,40939.74725859454,5,4,61.390369858786066,34
+CAND1038,Alice García,29,Male,High School,10,"['""HR / Management""']",HR Manager,Accepted,59.2586928884519,Hired,65451.95900092949,3,1,58.087694881012105,35
+1000,Charlie Rodriguez,27,Female,PhD,11,"['”HR / Management""']",Software Engineer,Accepted,77.5906932317942,Hired,58151.52941582809,1,2,96.91316013123587,14
+1004,Ivy Rodriguez,42,Female,PhD,19,"['""Data Science / ML""']",Data Analyst,Rejected,93.85186612397418,Not Hired,49179.85403580598,7,4,70.92904030120059,16
+1004,Charlie Miller,43,Female,PhD,19,"['""Data Science / ML""']",Marketing Specialist,Rejected,96.95545658135676,Not Hired,53530.58674768422,7,4,70.09315986300292,9
+CAND1039,Charlie Smith,28,Female,Diploma,5,"['""Java / Spring""']",HR Manager,Rejected,100.0,Not Hired,119476.22949034897,5,1,61.6065563239157,7
+CAND1044,Jane Davis,21,Male,High School,16,"['""Java / Spring""']",Software Engineer,Rejected,71.9915878015936,Not Hired,61016.619891392365,3,1,53.38797850832615,27
+1029,Jane Johnson,48,Male,High School,20,"['""Python / SQL""']",Marketing Specialist,Rejected,67.06956559502106,Hired,28836.439534265046,5,5,78.20422436574134,7
+CAND1048,Harry Smith,37,Male,High School,7,"['""JavaScript / React""']",Data Analyst,Accepted,84.42675919193594,Hired,57040.46836270648,3,3,67.63482588704568,39
+1008,Eve Brown,32,Female,Diploma,21,"['""Java / Spring""']",Software Engineer,Accepted,61.6244861536238,Hired,104206.60873322724,6,0,83.17388313646497,11
+CAND1043,Harry Miller,44,Male,Master,8,"['""Data Science / ML""']",Software Engineer,Rejected,92.5050858304,Not Hired,45071.91920293818,1,4,76.33119892871338,39
+CAND1046,Grace Brown,37,Female,PhD,3,"['""HR / Management""']",HR Manager,Rejected,75.82960115450201,Not Hired,43888.66752269358,5,4,61.88686456360422,42
+1022,John Williams,41,Non-Binary,Diploma,11,"['""Data Science / ML""']",Software Engineer,Accepted,87.27874668948017,Hired,81140.38870314888,0,5,100.0,52
+1016,Charlie Miller,27,Male,Master,22,"['""HR / Management""']",Marketing Specialist,Pending,79.98922674388028,Not Hired,35058.662948121004,8,2,55.34226459508188,50
+1032,Harry Johnson,27,Female,High School,0,"['""Data Science / ML""']",Software Engineer,Pending,66.98486630080343,Not Hired,51586.21015714481,10,4,64.99808108137078,31
+1028,Bob Williams,28,Male,Bachelor,15,"['""JavaScript / React""']",HR Manager,Pending,67.20842093719642,Not Hired,72706.93584030519,9,3,78.65867999944452,23
+1001,Eve García,41,Male,PhD,17,"['""JavaScript / React""']",Marketing Specialist,Rejected,74.75594763033632,Hired,82149.04215888573,9,5,70.78703371871515,56
+1001,Bob Johnson,44,Male,PhD,15,"['""JavaScript / React""']",Marketing Specialist,Rejected,78.2607571523025,Hired,79046.5348516675,9,5,76.30590896815443,60
+CAND1042,John Martínez,45,Female,Diploma,10,"['""HR / Management""']",Data Analyst,Accepted,83.29020160463183,Hired,36830.71422486709,9,5,62.171185500393236,50
+1034,John Smith,50,Male,Bachelor,20,"['""JavaScript / React""']",Data Analyst,Accepted,98.40618714462104,Not Hired,103429.28479921912,6,4,81.09962480647243,60
+1014,Bob Smith,43,Male,Diploma,4,"['""Java / Spring""']",Marketing Specialist,Rejected,74.84793565389697,Hired,73305.511210389,7,3,77.54649458759145,37
+CAND1036,David Smith,48,Male,Master,12,"['""HR / Management""']",Marketing Specialist,Pending,91.3752202379929,Hired,102066.4211236439,9,0,57.65641123195574,46
+1013,Harry García,27,Female,PhD,13,"['""Python / SQL""']",Software Engineer,Accepted,88.18516590315646,Hired,98789.65942955746,1,0,67.47523660218589,46
+CAND1048,Alice García,38,Male,Master,7,"['""JavaScript / React""']",Marketing Specialist,Accepted,94.71156673242385,Hired,56696.48982098395,3,3,57.10007044572675,38
+1031,David Rodriguez,34,Male,Diploma,11,"['""Python / SQL""']",Marketing Specialist,Rejected,65.2527306477617,Hired,80947.96425561763,9,5,55.41039024647077,42
+1011,Ivy Martínez,46,Male,Bachelor,3,"['""Data Science / ML""']",Marketing Specialist,Rejected,79.52472438749233,Not Hired,127701.73695120326,5,0,54.48396259196016,33
+CAND1049,Alice Martínez,32,Male,Diploma,14,"['""HR / Management""']",HR Manager,Accepted,78.95836645888222,Hired,89610.67772009692,9,1,97.02690524225007,7
+1009,Harry Martínez,31,Female,Diploma,15,"['""HR / Management""']",Data Analyst,Rejected,72.4858808321842,Not Hired,36967.10292053188,10,0,81.75574700537058,59
+1027,Grace Miller,27,Female,Bachelor,0,"['""Java / Spring""']",Marketing Specialist,Accepted,47.97496845551143,Not Hired,50685.957145234635,9,3,55.4621132244588,24
+CAND1046,Harry Rodriguez,39,Female,Diploma,3,"['""HR / Management""']",Data Analyst,Rejected,90.4260116911853,Not Hired,43392.75125258891,5,4,61.85807093047598,33
+1020,Alice Rodriguez,40,Non-Binary,High School,20,"['""HR / Management""']",Data Analyst,Pending,55.97852088825926,Not Hired,32483.22833600259,5,2,66.07011830422886,13
+CAND1048,Harry Martínez,39,Male,Bachelor,6,"['""JavaScript / React""']",HR Manager,Accepted,86.44984235876296,Hired,65658.28181555093,3,3,60.67799481254327,44
+1000,Jane García,26,Female,PhD,10,"['”HR / Management""']",HR Manager,Accepted,88.00225506789715,Hired,59013.616603526134,1,2,94.01551671962932,9
+CAND1044,Eve Davis,24,Male,High School,18,"['""Java / Spring""']",Software Engineer,Rejected,71.06130132564087,Not Hired,60786.063766011684,3,1,41.89956821552855,25
+CAND1047,Eve Martínez,47,Female,Bachelor,3,"['""HR / Management""']",Marketing Specialist,Pending,77.29434385310826,Hired,45384.28285851484,5,5,80.4757315176463,46
+1026,John Miller,24,Female,PhD,18,"['""Java / Spring""']",Data Analyst,Rejected,95.89597983140877,Not Hired,80298.76460617292,10,3,55.343037147399336,44
+CAND1038,Charlie Jones,32,Male,Bachelor,12,"['""HR / Management""']",Data Analyst,Accepted,68.0326524364505,Not Hired,72329.35814967417,3,1,62.125516302285824,40
+1013,Ivy Smith,30,Female,PhD,14,"['""Python / SQL""']",Marketing Specialist,Accepted,90.49202623987296,Hired,101949.70339980285,1,0,61.79188999174505,51
+1032,Bob Martínez,25,Female,Bachelor,0,"['""Data Science / ML""']",Marketing Specialist,Pending,57.11050234478386,Not Hired,59661.442928759956,10,4,58.350801324541166,36
+1030,Harry Smith,42,Female,High School,3,"['""Python / SQL""']",HR Manager,Accepted,69.39940463399267,Not Hired,47429.95123285802,7,4,74.74956261537383,25
+1003,Jane Rodriguez,32,Male,Diploma,19,"['""HR / Management""']",Marketing Specialist,Rejected,77.48094408927878,Not Hired,55632.230881463576,0,3,96.49141445916399,58
+1003,Charlie Rodriguez,34,Male,Diploma,21,"['""HR / Management""']",Data Analyst,Rejected,84.64945137339865,Not Hired,61228.919597467786,0,3,94.7019780319665,61
+1011,Charlie Davis,48,Male,High School,0,"['""Data Science / ML""']",Software Engineer,Rejected,80.22503732646467,Not Hired,124299.06292884165,5,0,46.19884927609802,24
+1018,Charlie Jones,38,Male,Bachelor,11,"['""Java / Spring""']",Software Engineer,Pending,99.20033252052932,Not Hired,28957.36773822493,8,1,79.00139425219689,23
+1008,Harry Miller,33,Female,Bachelor,19,"['""Java / Spring""']",HR Manager,Accepted,74.43820941671474,Not Hired,106910.34603503827,6,0,89.81596597155233,9
+1024,Bob Johnson,28,Male,High School,0,"['""Java / Spring""']",Marketing Specialist,Rejected,97.47853586029304,Not Hired,32466.779398512615,2,0,83.09900845069862,34
+1000,Charlie Brown,28,Female,High School,11,"['”HR / Management""']",Software Engineer,Accepted,83.06429463431856,Hired,61870.88907417649,1,2,93.7615686385912,12
+CAND1048,Eve Smith,38,Male,PhD,7,"['""JavaScript / React""']",Marketing Specialist,Accepted,88.99893434829312,Hired,61057.84243017469,3,3,61.982955504026904,46
+1031,Harry García,32,Male,Bachelor,14,"['""Python / SQL""']",Marketing Specialist,Rejected,65.6832677198272,Not Hired,83583.38270927873,9,5,49.47836480468099,39
+1022,John Johnson,42,Non-Binary,Diploma,8,"['""Data Science / ML""']",Software Engineer,Accepted,92.00201561813235,Hired,79642.26227218361,0,5,100.0,54
+1000,Jane García,28,Female,PhD,11,"['”HR / Management""']",HR Manager,Accepted,95.96380858781713,Not Hired,62626.12945276052,1,2,93.94447488622329,16
+1032,Grace Rodriguez,27,Female,Bachelor,1,"['""Data Science / ML""']",Marketing Specialist,Pending,62.845711263952715,Not Hired,51249.98999503046,10,4,61.381596953620615,37
+1018,Harry Johnson,38,Male,High School,10,"['""Java / Spring""']",HR Manager,Pending,99.26760300351354,Not Hired,30641.693116036535,8,1,79.43832554821024,26
+1021,Harry Jones,30,Male,Bachelor,17,"['""Python / SQL""']",Marketing Specialist,Accepted,63.91958563957866,Not Hired,104955.17941494103,8,4,63.64744109120874,52
+CAND1042,Ivy Smith,45,Female,Master,10,"['""HR / Management""']",Software Engineer,Accepted,81.99627405337566,Hired,40314.379089946575,9,5,50.93183050327564,40
+1034,Ivy Miller,48,Male,High School,21,"['""JavaScript / React""']",Marketing Specialist,Accepted,85.5001288669829,Not Hired,112635.66395933446,6,4,66.75273501795455,59
+1018,Alice Johnson,41,Male,High School,9,"['""Java / Spring""']",Data Analyst,Pending,92.55707484808863,Hired,28429.883841620405,8,1,80.97338345949892,24
+CAND1044,David Miller,21,Male,Master,17,"['""Java / Spring""']",HR Manager,Rejected,75.31594774416082,Not Hired,59447.83497798385,3,1,52.141105332011215,30
+1016,Jane Smith,29,Male,High School,21,"['""HR / Management""']",Marketing Specialist,Pending,90.41658005961627,Not Hired,37624.72613684268,8,2,59.81482133981593,45
+1029,Alice Williams,45,Male,Diploma,19,"['""Python / SQL""']",HR Manager,Rejected,58.29990682911744,Not Hired,33782.22878579371,5,5,73.40358808320116,11
+1001,Grace Davis,41,Male,Bachelor,16,"['""JavaScript / React""']",Software Engineer,Rejected,77.64334892467873,Hired,87563.74612132018,9,5,79.40059597067565,58
+1029,John Williams,45,Male,High School,20,"['""Python / SQL""']",Marketing Specialist,Rejected,58.46866074049117,Not Hired,33693.77432780502,5,5,73.07853979024121,12
+CAND1046,Charlie Jones,40,Female,Diploma,3,"['""HR / Management""']",Marketing Specialist,Rejected,76.28015912849865,Not Hired,44796.255041891476,5,4,59.54857383547527,35
+1030,Grace García,39,Female,PhD,5,"['""Python / SQL""']",Software Engineer,Accepted,70.35501854158764,Not Hired,45962.65657430519,7,4,74.41826350200793,23
+1013,Ivy Rodriguez,29,Female,Bachelor,14,"['""Python / SQL""']",Marketing Specialist,Accepted,85.42381511132811,Hired,100407.41486882821,1,0,54.85978531929054,48
+1031,David Johnson,33,Male,Bachelor,14,"['""Python / SQL""']",Marketing Specialist,Rejected,55.95917965102172,Not Hired,73000.73296736648,9,5,51.665699373870034,40
+1012,Jane Williams,44,Female,Bachelor,1,"['""JavaScript / React""']",HR Manager,Rejected,65.78337048318684,Not Hired,40588.17707119687,8,1,62.03101681522303,52
+1015,Alice Smith,30,Female,Master,8,"['""Data Science / ML""']",HR Manager,Rejected,98.07172354458125,Not Hired,31244.48121060642,7,5,79.79656038835056,38
+CAND1040,Alice Williams,27,Female,Master,12,"['""Java / Spring""']",Data Analyst,Rejected,68.17858093304764,Hired,35507.74986707011,6,2,65.79595000832026,42
+CAND1046,Alice Johnson,40,Female,Bachelor,3,"['""HR / Management""']",HR Manager,Rejected,82.83460745107574,Not Hired,40013.50111647603,5,4,65.59338062617479,42
+CAND1047,Ivy Martínez,45,Female,Bachelor,4,"['""HR / Management""']",Software Engineer,Pending,69.57143123210813,Hired,39401.9409279459,5,5,89.82876516595928,47
+CAND1042,Ivy Rodriguez,47,Female,Bachelor,13,"['""HR / Management""']",Marketing Specialist,Accepted,85.04507762260144,Hired,39959.24783013623,9,5,57.253220244405796,44
+CAND1043,Harry Johnson,45,Male,High School,8,"['""Data Science / ML""']",Marketing Specialist,Rejected,82.65746846589983,Not Hired,44766.806139663626,1,4,68.51075969041516,35
+1020,Eve Johnson,40,Non-Binary,Diploma,21,"['""HR / Management""']",HR Manager,Pending,46.645897585617895,Hired,32670.647920990006,5,2,65.69031546253512,19
+CAND1047,Harry Martínez,46,Female,Master,2,"['""HR / Management""']",Marketing Specialist,Pending,65.38033238768857,Not Hired,44235.65048999465,5,5,81.5287296210921,37
+1013,Charlie García,30,Female,Master,14,"['""Python / SQL""']",HR Manager,Accepted,91.74342394392853,Not Hired,102693.73647172148,1,0,57.54701879459954,51
+CAND1037,Eve Davis,34,Male,Diploma,14,"['""Java / Spring""']",HR Manager,Rejected,90.44908220694218,Not Hired,77943.8603786426,4,4,99.2725490225792,37
+CAND1046,Eve Miller,39,Female,PhD,3,"['""HR / Management""']",HR Manager,Rejected,75.00835276513102,Not Hired,40090.55944397364,5,4,63.96876555001147,37
+1016,Alice Davis,25,Male,Master,21,"['""HR / Management""']",Marketing Specialist,Pending,84.33234854682082,Not Hired,34996.15572933284,8,2,61.91036157727269,45
+CAND1045,Harry Miller,51,Female,PhD,3,"['""HR / Management""']",HR Manager,Accepted,89.35511516593466,Hired,57709.51441542677,0,2,60.67824444061459,34
+1008,David Rodriguez,33,Female,High School,18,"['""Java / Spring""']",Software Engineer,Accepted,73.10633019179535,Not Hired,110345.58672609083,6,0,87.7282779379579,15
+1003,Charlie García,33,Male,Diploma,20,"['""HR / Management""']",HR Manager,Rejected,82.97463475399339,Hired,58379.51736421024,0,3,99.25553974410013,56
+1022,Jane Williams,43,Non-Binary,High School,10,"['""Data Science / ML""']",Data Analyst,Accepted,89.00756507229693,Hired,80115.01747377252,0,5,97.52867503729803,52
+CAND1038,Eve Smith,32,Male,Diploma,12,"['""HR / Management""']",Data Analyst,Accepted,73.89498033712493,Not Hired,72075.53016951976,3,1,50.08190234000397,36
+1008,Charlie García,33,Female,PhD,21,"['""Java / Spring""']",HR Manager,Accepted,69.78355292695719,Not Hired,90886.34608197997,6,0,86.92627065536614,11
+1028,David Smith,25,Male,Bachelor,13,"['""JavaScript / React""']",Software Engineer,Pending,77.78056178051325,Hired,74849.2479331026,9,3,71.46422028273854,30
+CAND1040,Jane Rodriguez,27,Female,Diploma,12,"['""Java / Spring""']",Software Engineer,Rejected,63.63533978366118,Hired,35207.90237659825,6,2,57.714132367044215,44
+1016,Charlie Martínez,26,Male,Diploma,20,"['""HR / Management""']",HR Manager,Pending,80.37465439483074,Not Hired,33331.63899237076,8,2,61.019570767810904,44
+1016,Grace Rodriguez,28,Male,Diploma,19,"['""HR / Management""']",HR Manager,Pending,86.63606679586239,Not Hired,34973.22853399834,8,2,67.18266466494768,46
+1002,Bob Martínez,35,Female,PhD,12,"['""Python / SQL""']",Software Engineer,Pending,59.40517163921634,Hired,86359.33544654986,9,0,72.26642023964158,46
+CAND1043,Charlie Johnson,43,Male,Diploma,11,"['""Data Science / ML""']",HR Manager,Rejected,93.35635708398657,Not Hired,50815.92765292546,1,4,66.50085683435913,36
+CAND1041,Alice Williams,28,Non-Binary,Diploma,5,"['""JavaScript / React""']",Software Engineer,Rejected,78.46056718229912,Not Hired,32611.08376921058,7,4,86.6758021482481,39
+CAND1042,Harry Rodriguez,49,Female,Bachelor,12,"['""HR / Management""']",HR Manager,Accepted,89.75879827606627,Not Hired,37845.59432037257,9,5,59.90606033540042,43
+1008,John Davis,32,Female,Master,20,"['""Java / Spring""']",Data Analyst,Accepted,80.87400559722022,Not Hired,103205.25348650248,6,0,87.96155691179864,13
+1033,Eve Davis,48,Male,Diploma,14,"['""Java / Spring""']",Software Engineer,Rejected,99.56810199989575,Not Hired,112046.35538221693,3,0,100.0,28
+1016,Bob García,28,Male,Bachelor,19,"['""HR / Management""']",Data Analyst,Pending,75.64376268115068,Not Hired,36621.70739654783,8,2,62.45473503972878,47
+1016,John Jones,28,Male,Bachelor,20,"['""HR / Management""']",Data Analyst,Pending,73.61617158946953,Not Hired,38275.10484142116,8,2,65.53246169283352,46
+CAND1049,Harry Brown,31,Male,Bachelor,13,"['""HR / Management""']",Marketing Specialist,Accepted,81.66567431509796,Hired,92751.15056956752,9,1,99.0898652752844,3
+1024,Harry Williams,27,Male,High School,0,"['""Java / Spring""']",HR Manager,Rejected,93.62048693086392,Not Hired,35266.47952390262,2,0,81.45095822488453,41
+1035,David Jones,34,Male,PhD,3,"['""Python / SQL""']",Marketing Specialist,Rejected,92.44793306658902,Not Hired,76126.42163084837,0,0,83.46943358630335,10
+1019,John Johnson,36,Female,Diploma,5,"['""Data Science / ML""']",Data Analyst,Pending,49.11064595550909,Hired,94828.48627295153,2,0,57.393588059346605,30
+1033,Charlie Miller,48,Male,Bachelor,15,"['""Java / Spring""']",HR Manager,Rejected,97.21503752900577,Not Hired,107077.76089202553,3,0,94.80543328136194,29
+1008,Charlie Williams,34,Female,Master,19,"['""Java / Spring""']",Marketing Specialist,Accepted,72.21815061285196,Hired,106670.7549926661,6,0,83.89320251929851,14
+CAND1045,Bob Martínez,49,Female,PhD,1,"['""HR / Management""']",Software Engineer,Accepted,92.10062601281761,Not Hired,59581.25941917265,0,2,63.482559625113566,34
+CAND1041,Charlie Brown,27,Non-Binary,Master,7,"['""JavaScript / React""']",Software Engineer,Rejected,81.76306830181588,Not Hired,29383.71202367024,7,4,85.05874480150807,44
+1031,Jane García,33,Male,Master,14,"['""Python / SQL""']",Marketing Specialist,Rejected,52.15350437688636,Not Hired,84683.94376225871,9,5,50.76109276793034,37
+1016,David Rodriguez,25,Male,High School,21,"['""HR / Management""']",Marketing Specialist,Pending,84.17792887438544,Hired,37334.33287802958,8,2,54.16238708038116,43
+1015,Grace García,29,Female,Diploma,6,"['""Data Science / ML""']",HR Manager,Rejected,100.0,Hired,31467.666378856353,7,5,89.42585912248575,34
+1004,Ivy García,42,Female,Master,19,"['""Data Science / ML""']",HR Manager,Rejected,100.0,Hired,56242.37247764909,7,4,77.72557038768679,10
+1002,Grace Williams,33,Female,Master,11,"['""Python / SQL""']",Data Analyst,Pending,54.3165118791858,Not Hired,98629.76862291263,9,0,71.03979760060925,45
+1002,Ivy Martínez,33,Female,Bachelor,11,"['""Python / SQL""']",Marketing Specialist,Pending,52.52261680698759,Not Hired,93515.22090370077,9,0,64.64301377624035,47
+CAND1038,Eve Johnson,30,Male,Master,12,"['""HR / Management""']",Marketing Specialist,Accepted,69.17165042643377,Not Hired,60252.86686664588,3,1,58.92688381158835,40
+1029,Jane Jones,48,Male,Bachelor,17,"['""Python / SQL""']",Data Analyst,Rejected,64.69962297565223,Not Hired,33017.97497799906,5,5,77.55692178783507,14
+1004,Harry Miller,42,Female,Diploma,18,"['""Data Science / ML""']",Marketing Specialist,Rejected,85.80459387277614,Hired,53623.46921752884,7,4,67.07754160499954,14
+1009,John Williams,33,Female,PhD,14,"['""HR / Management""']",Data Analyst,Rejected,77.54892425036911,Not Hired,37571.23222339419,10,0,87.00651058408972,58
+1024,Charlie Williams,27,Male,PhD,2,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,32001.037050607665,2,0,84.92370660857354,36
+1030,Jane Johnson,39,Female,Master,5,"['""Python / SQL""']",Marketing Specialist,Accepted,73.93749472373449,Not Hired,46618.09864839523,7,4,74.63140815754599,21
+1018,David Williams,40,Male,High School,9,"['""Java / Spring""']",Marketing Specialist,Pending,96.19188148726498,Not Hired,29260.50240491366,8,1,77.21253651670334,19
+CAND1044,David Rodriguez,24,Male,Bachelor,17,"['""Java / Spring""']",Marketing Specialist,Rejected,68.94177947258486,Not Hired,56194.05318773348,3,1,44.96006162270945,26
+1027,Grace García,28,Female,Master,2,"['""Java / Spring""']",Marketing Specialist,Accepted,52.33829744268806,Hired,54688.23920382874,9,3,55.669511609038686,27
+1007,David Martínez,23,Non-Binary,High School,2,"['""Java / Spring""']",Data Analyst,Accepted,79.74296019857785,Not Hired,75155.37751411478,5,3,63.789491584112824,36
+1006,Ivy García,30,Female,Diploma,20,"['""Python / SQL""']",Data Analyst,Pending,95.61933279439978,Not Hired,53237.50096681756,1,4,100.0,42
+1016,Harry Smith,29,Male,High School,20,"['""HR / Management""']",Data Analyst,Pending,77.76421989574804,Not Hired,34085.17305356485,8,2,64.72916619429952,51
+CAND1046,Jane García,40,Female,Diploma,5,"['""HR / Management""']",HR Manager,Rejected,85.84650239788938,Not Hired,42510.68895642108,5,4,50.76032911239931,42
+1027,Harry Rodriguez,29,Female,Master,2,"['""Java / Spring""']",HR Manager,Accepted,54.625355422172035,Not Hired,46082.61183898768,9,3,58.167746281689325,26
+1008,Harry Martínez,35,Female,Bachelor,21,"['""Java / Spring""']",HR Manager,Accepted,76.32994434727497,Not Hired,105096.12015191614,6,0,85.92990424849428,13
+1020,Harry Davis,40,Non-Binary,High School,19,"['""HR / Management""']",HR Manager,Pending,61.71454561159632,Hired,32235.506894141276,5,2,64.50659563457442,18
+1010,Harry Miller,38,Female,Diploma,12,"['""JavaScript / React""']",Data Analyst,Rejected,98.87428842672283,Not Hired,76913.41766818738,10,3,69.52048498482442,13
+1023,John Williams,29,Female,High School,4,"['""Java / Spring""']",Marketing Specialist,Rejected,52.425800142054506,Not Hired,96583.10674378314,6,1,65.6125287135846,28
+1015,Jane Williams,33,Female,High School,8,"['""Data Science / ML""']",Data Analyst,Rejected,97.27502843590177,Not Hired,35135.73092421234,7,5,84.28365956273284,34
+1032,Harry Williams,24,Female,PhD,3,"['""Data Science / ML""']",Marketing Specialist,Pending,62.836235064920075,Hired,57280.291064546036,10,4,61.80762136734742,38
+1022,Jane Jones,45,Non-Binary,High School,8,"['""Data Science / ML""']",Software Engineer,Accepted,88.46524355718576,Hired,77222.58383775664,0,5,100.0,50
+1033,Eve Martínez,49,Male,High School,13,"['""Java / Spring""']",Marketing Specialist,Rejected,88.79700234016522,Not Hired,115355.62599621847,3,0,91.73104894691427,26
+1024,Harry Rodriguez,26,Male,PhD,1,"['""Java / Spring""']",Software Engineer,Rejected,100.0,Not Hired,32802.92826009731,2,0,71.97184497209523,33
+CAND1039,Grace Johnson,31,Female,Bachelor,4,"['""Java / Spring""']",Marketing Specialist,Rejected,99.44121975216851,Not Hired,111771.37553994286,5,1,57.48563048121006,12
+CAND1046,John Williams,36,Female,Bachelor,6,"['""HR / Management""']",Marketing Specialist,Rejected,87.29824218688793,Not Hired,40802.07878135018,5,4,59.412431911207484,43
+1033,Eve Johnson,50,Male,High School,13,"['""Java / Spring""']",HR Manager,Rejected,85.5340650011136,Hired,105746.8211075412,3,0,89.77606009711032,28
+1012,Jane Williams,40,Female,Bachelor,1,"['""JavaScript / React""']",Software Engineer,Rejected,61.80899109558207,Not Hired,42878.519417176314,8,1,70.44350530182645,49
+CAND1040,John Martínez,31,Female,Diploma,11,"['""Java / Spring""']",HR Manager,Rejected,60.76942121084497,Not Hired,36029.28956926553,6,2,65.42269421447882,47
+1035,Alice Jones,36,Male,PhD,3,"['""Python / SQL""']",Data Analyst,Rejected,98.21927729344331,Not Hired,79201.57481465915,0,0,80.92630835772768,9
+1001,Alice Martínez,45,Male,PhD,17,"['""JavaScript / React""']",Marketing Specialist,Rejected,87.22883835798754,Not Hired,79181.7172876395,9,5,66.23110965053999,56
+1033,Eve Smith,49,Male,PhD,14,"['""Java / Spring""']",Marketing Specialist,Rejected,97.04471600423454,Hired,119528.96881972907,3,0,94.95120712839262,24
+1009,Bob Johnson,31,Female,High School,15,"['""HR / Management""']",Software Engineer,Rejected,74.05114681198789,Not Hired,40690.82067025522,10,0,79.88409758871384,59
+CAND1047,Jane García,47,Female,Bachelor,4,"['""HR / Management""']",HR Manager,Pending,70.33171173921278,Not Hired,44643.248330552444,5,5,95.61245622662923,40
+1010,Alice Jones,39,Female,Master,11,"['""JavaScript / React""']",Marketing Specialist,Rejected,100.0,Not Hired,77685.82779920292,10,3,66.61550367322901,17
+1011,Harry Martínez,46,Male,Master,3,"['""Data Science / ML""']",Data Analyst,Rejected,71.4652816943228,Not Hired,106132.90848861795,5,0,72.26580735198777,31
+1025,Eve Martínez,26,Female,PhD,10,"['""HR / Management""']",HR Manager,Rejected,65.9739416092342,Not Hired,36222.92550429946,9,4,54.64411928735539,51
+1020,Alice Davis,41,Non-Binary,High School,20,"['""HR / Management""']",HR Manager,Pending,55.04868356045217,Not Hired,31073.134496415143,5,2,74.07245952113185,14
+1011,Charlie Rodriguez,49,Male,High School,3,"['""Data Science / ML""']",Marketing Specialist,Rejected,90.32748418023088,Hired,110943.83598558423,5,0,58.86812433733788,32
+CAND1038,Bob Martínez,32,Male,PhD,9,"['""HR / Management""']",Marketing Specialist,Accepted,69.0326842773945,Hired,66985.82365311604,3,1,50.15071575220511,38
+CAND1037,John Davis,34,Male,PhD,17,"['""Java / Spring""']",Data Analyst,Rejected,100.0,Not Hired,70536.76052565718,4,4,99.74272078550887,35
+CAND1041,Harry Brown,29,Non-Binary,PhD,5,"['""JavaScript / React""']",Marketing Specialist,Rejected,83.76185821584416,Not Hired,30243.94382912673,7,4,69.36878635461206,45
+1024,Jane Jones,26,Male,High School,0,"['""Java / Spring""']",Marketing Specialist,Rejected,100.0,Not Hired,31666.430538673434,2,0,73.79996354871102,34
+1009,Alice Johnson,31,Female,Diploma,12,"['""HR / Management""']",Marketing Specialist,Rejected,79.21157062624899,Hired,39600.97082333778,10,0,85.43979771779955,56
+1021,Ivy Rodriguez,31,Male,PhD,16,"['""Python / SQL""']",Software Engineer,Accepted,65.90451045262235,Not Hired,100905.64852201754,8,4,47.578454874653836,49
+1009,Ivy Jones,29,Female,High School,12,"['""HR / Management""']",Marketing Specialist,Rejected,73.75500545193158,Not Hired,44383.20828155885,10,0,85.21462689152985,56
+1018,David Davis,38,Male,Diploma,10,"['""Java / Spring""']",HR Manager,Pending,90.94768161145647,Not Hired,31412.763084021248,8,1,74.38764746492757,27
+CAND1048,Eve Johnson,41,Male,PhD,9,"['""JavaScript / React""']",Software Engineer,Accepted,81.25367062775454,Hired,55804.02895729932,3,3,59.819148903227266,48
+1019,Alice Martínez,34,Female,Master,4,"['""Data Science / ML""']",HR Manager,Pending,58.0571034080512,Hired,92726.97643697467,2,0,62.90543665073708,20
+1009,Harry Miller,32,Female,High School,13,"['""HR / Management""']",Software Engineer,Rejected,77.85132505256067,Hired,43626.8117004945,10,0,82.69587341057147,53
+CAND1037,Alice Jones,37,Male,Diploma,17,"['""Java / Spring""']",Software Engineer,Rejected,92.55516186526654,Not Hired,67985.82233508943,4,4,86.79248352261259,28
+1021,John Martínez,32,Male,Diploma,17,"['""Python / SQL""']",Data Analyst,Accepted,63.71861159911758,Hired,93740.84510956002,8,4,57.82696271606913,50
+CAND1042,David García,49,Female,Bachelor,13,"['""HR / Management""']",HR Manager,Accepted,90.63958858794571,Hired,42612.103510611734,9,5,60.44380357777275,40
+1001,Harry Jones,45,Male,High School,17,"['""JavaScript / React""']",HR Manager,Rejected,81.86270880913902,Not Hired,75702.53079511692,9,5,62.54338379051027,54
+1027,Charlie Johnson,29,Female,Diploma,2,"['""Java / Spring""']",Marketing Specialist,Accepted,52.779026197734304,Not Hired,45764.181918271985,9,3,56.159676712065284,32
+1017,Grace Miller,23,Female,Master,10,"['""Java / Spring""']",HR Manager,Rejected,73.45142796801926,Not Hired,109685.51557363392,0,0,71.70754056476615,39
+1026,Grace Rodriguez,26,Female,Bachelor,17,"['""Java / Spring""']",Software Engineer,Rejected,89.18210155972918,Not Hired,80883.99562784539,10,3,43.58539969083525,40
+1017,Harry Johnson,21,Female,Master,10,"['""Java / Spring""']",HR Manager,Rejected,78.25650983511412,Hired,109633.22139426754,0,0,73.5798502718264,36
+1000,Eve Davis,25,Female,Master,13,"['”HR / Management""']",Data Analyst,Accepted,89.26054975193978,Hired,56041.64775504636,1,2,96.91779846807117,7
+CAND1042,Harry Jones,49,Female,Diploma,11,"['""HR / Management""']",Marketing Specialist,Accepted,80.30229689938528,Hired,36670.30987711547,9,5,62.83310256755881,49
+1008,Charlie Jones,34,Female,Master,20,"['""Java / Spring""']",HR Manager,Accepted,78.15968923620787,Not Hired,100649.09589741801,6,0,92.85335283654491,12
+1023,Charlie García,27,Female,PhD,5,"['""Java / Spring""']",Software Engineer,Rejected,56.34097385818896,Not Hired,105024.69994990113,6,1,71.04624472325531,22
+1014,David Smith,42,Male,PhD,3,"['""Java / Spring""']",HR Manager,Rejected,82.50179847430631,Not Hired,78314.90381889795,7,3,81.46357328830972,34
+CAND1046,Ivy Davis,40,Female,Master,6,"['""HR / Management""']",Data Analyst,Rejected,87.12338032783687,Not Hired,47913.20215406316,5,4,62.65091242626748,37
+1002,Charlie Jones,36,Female,PhD,11,"['""Python / SQL""']",Software Engineer,Pending,57.390315346902504,Hired,87868.29560634884,9,0,69.75271495676498,49
+CAND1040,David Martínez,31,Female,Bachelor,10,"['""Java / Spring""']",Marketing Specialist,Rejected,60.63115025221022,Not Hired,37510.366033531514,6,2,75.91799253158263,46
+1014,Ivy Martínez,44,Male,Bachelor,2,"['""Java / Spring""']",Data Analyst,Rejected,79.55924219946465,Hired,83455.90564797036,7,3,89.37658550467286,34
+CAND1046,Alice Rodriguez,40,Female,Bachelor,4,"['""HR / Management""']",Marketing Specialist,Rejected,78.77041677704075,Not Hired,41604.35588200536,5,4,60.272306436778834,42
+1026,Ivy Miller,27,Female,PhD,16,"['""Java / Spring""']",Marketing Specialist,Rejected,100.0,Not Hired,82222.16834610002,10,3,57.206026846274085,46
+CAND1043,Bob Davis,42,Male,High School,11,"['""Data Science / ML""']",Marketing Specialist,Rejected,100.0,Hired,45487.71005821069,1,4,77.63210880348812,33
+1000,David Miller,26,Female,High School,10,"['”HR / Management""']",Marketing Specialist,Accepted,77.84307296857023,Not Hired,57871.154225984086,1,2,100.0,11
+CAND1041,Charlie Jones,28,Non-Binary,PhD,8,"['""JavaScript / React""']",Marketing Specialist,Rejected,76.46160617733338,Hired,28699.321392986076,7,4,78.68709649021729,43
+1022,Jane Miller,43,Non-Binary,Master,11,"['""Data Science / ML""']",Software Engineer,Accepted,89.80162275680486,Not Hired,74936.63971003989,0,5,100.0,60
+CAND1038,Grace Miller,30,Male,Master,12,"['""HR / Management""']",HR Manager,Accepted,69.09177533080359,Not Hired,68007.40642870759,3,1,56.96727261597327,36
+1022,Charlie Brown,44,Non-Binary,Bachelor,9,"['""Data Science / ML""']",Marketing Specialist,Accepted,91.52029052572645,Hired,81373.77151232236,0,5,92.37402365396196,50
+CAND1046,John Smith,38,Female,Master,5,"['""HR / Management""']",HR Manager,Rejected,77.33559733321235,Not Hired,47027.50897712759,5,4,61.03227769532704,39
+1029,Jane Johnson,45,Male,Bachelor,17,"['""Python / SQL""']",Data Analyst,Rejected,65.69341648782125,Not Hired,30383.447612405,5,5,79.10357535168292,13
+1000,Ivy Davis,27,Female,Bachelor,10,"['”HR / Management""']",Marketing Specialist,Accepted,85.82611897662343,Hired,57624.904575812296,1,2,100.0,16
+1020,David Davis,41,Non-Binary,Bachelor,19,"['""HR / Management""']",Data Analyst,Pending,48.58471946759739,Not Hired,35101.66068282995,5,2,71.56540653505527,16
+CAND1036,Grace Johnson,47,Male,Diploma,12,"['""HR / Management""']",Software Engineer,Pending,97.03544268185165,Hired,115440.11798045553,9,0,67.99713965638986,39
+1017,John Williams,20,Female,High School,8,"['""Java / Spring""']",Software Engineer,Rejected,82.2558707088712,Not Hired,118450.771838209,0,0,69.28134544833864,36
+CAND1037,John Smith,35,Male,PhD,15,"['""Java / Spring""']",Marketing Specialist,Rejected,85.88155907739495,Hired,78244.75689781469,4,4,100.0,35
+1003,Jane Smith,34,Male,Bachelor,21,"['""HR / Management""']",HR Manager,Rejected,83.810644171747,Not Hired,63305.16419738329,0,3,100.0,58
+1032,David Jones,27,Female,High School,1,"['""Data Science / ML""']",Data Analyst,Pending,60.93622453044038,Hired,49825.922251057,10,4,58.77604216897138,30
+1029,Ivy Smith,47,Male,Bachelor,17,"['""Python / SQL""']",Marketing Specialist,Rejected,64.91014508044412,Hired,32465.808608475323,5,5,82.91038980066782,14
+CAND1041,John García,28,Non-Binary,High School,6,"['""JavaScript / React""']",Marketing Specialist,Rejected,79.99118616464862,Not Hired,32348.467167380502,7,4,87.72699490083991,45
+1034,John Davis,51,Male,Master,20,"['""JavaScript / React""']",Software Engineer,Accepted,94.76337159424985,Hired,100616.2305656759,6,4,75.81167015111788,60
+CAND1036,Grace Johnson,48,Male,High School,14,"['""HR / Management""']",Marketing Specialist,Pending,87.93932772600718,Not Hired,112190.13587725144,9,0,66.14104216646324,39
+1023,Bob Jones,30,Female,PhD,7,"['""Java / Spring""']",HR Manager,Rejected,51.646574210988376,Not Hired,98355.01195589034,6,1,61.90492105448546,25
+CAND1042,Ivy Johnson,46,Female,Diploma,12,"['""HR / Management""']",Data Analyst,Accepted,97.17772417816207,Hired,39022.65375330994,9,5,55.921973145927694,50
+1021,Eve Williams,31,Male,Diploma,15,"['""Python / SQL""']",HR Manager,Accepted,68.20785242836189,Hired,95233.58758376323,8,4,58.82952190018073,49
+1015,John Rodriguez,32,Female,High School,8,"['""Data Science / ML""']",Marketing Specialist,Rejected,100.0,Hired,34248.6399973163,7,5,89.11222374888885,38
+1004,Alice Jones,42,Female,Bachelor,19,"['""Data Science / ML""']",Marketing Specialist,Rejected,90.23209919001411,Not Hired,54700.00493059753,7,4,74.90227122081518,15
+1026,Bob Davis,25,Female,Diploma,16,"['""Java / Spring""']",Data Analyst,Rejected,96.05954806118739,Not Hired,78105.82879476857,10,3,57.98201424343611,43
+1008,Grace Martínez,33,Female,PhD,18,"['""Java / Spring""']",HR Manager,Accepted,73.04230411945792,Hired,98943.76912275728,6,0,85.70546574778388,14
+1010,Harry Rodriguez,37,Female,High School,9,"['""JavaScript / React""']",Software Engineer,Rejected,98.43392385761265,Not Hired,81723.12240640794,10,3,69.3436740997975,12
+CAND1040,John Rodriguez,27,Female,PhD,12,"['""Java / Spring""']",Data Analyst,Rejected,60.49914706057899,Not Hired,35195.941824353504,6,2,54.92812798278135,46
+CAND1038,Bob Jones,30,Male,High School,10,"['""HR / Management""']",Data Analyst,Accepted,60.25681637642173,Hired,72003.783432065,3,1,56.69069169073054,34
+1027,Eve Smith,25,Female,Diploma,3,"['""Java / Spring""']",Software Engineer,Accepted,55.20358558774076,Hired,45308.994077115145,9,3,55.05863746117058,28
+CAND1038,Grace Miller,31,Male,Master,10,"['""HR / Management""']",HR Manager,Accepted,70.6048725588927,Not Hired,68021.19583438749,3,1,63.93147199700355,44
+1028,Bob Jones,27,Male,Diploma,14,"['""JavaScript / React""']",HR Manager,Pending,74.2085380870817,Not Hired,75740.4248924047,9,3,72.91367464750178,25
+1027,Jane Jones,27,Female,Master,3,"['""Java / Spring""']",HR Manager,Accepted,57.04508960869597,Not Hired,54302.41576874818,9,3,55.16838812910328,32
+1017,Grace Williams,24,Female,Master,11,"['""Java / Spring""']",HR Manager,Rejected,68.4530057298288,Not Hired,105603.21922444462,0,0,67.90512703344652,40
+CAND1044,Harry García,23,Male,High School,17,"['""Java / Spring""']",Data Analyst,Rejected,62.231149609371464,Not Hired,56288.776898578675,3,1,47.85224931138198,24
+1017,Ivy Jones,24,Female,PhD,11,"['""Java / Spring""']",Marketing Specialist,Rejected,74.72137672448349,Not Hired,100697.75320985398,0,0,71.01544124935118,40
+1001,Jane Brown,44,Male,High School,16,"['""JavaScript / React""']",Data Analyst,Rejected,75.74486256183705,Hired,77397.10622710249,9,5,68.90268704970573,58
+CAND1038,John García,30,Male,Diploma,12,"['""HR / Management""']",Marketing Specialist,Accepted,75.89331510355635,Not Hired,60942.30411629974,3,1,60.94554058023384,35
